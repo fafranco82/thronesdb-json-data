@@ -1,0 +1,23 @@
+[
+    {
+        "code": "08105",
+        "flavor": "Septon Cellador was half drunk as usual...",
+        "name": "Septon Cellador",
+        "text": "<b>Challenges Action:</b> Kneel Septon Cellador to choose an opponent. That player must choose and discard a character from his or her hand unless he or she reveals a hand containing no characters.",
+        "traits": "The Seven."
+    },
+    {
+        "code": "08115",
+        "flavor": "",
+        "name": "Host of the Boneway",
+        "text": "Intimidate. No attachments.\nHost of the Boneway gets +1 STR for each plot card in your used pile.",
+        "traits": "Army."
+    },
+    {
+        "code": "08116",
+        "flavor": "It was not supposed to end this way. This was not supposed to happen.",
+        "name": "Someone Always Tells",
+        "text": "<b>Interrupt:</b> When the effects of an opponent's event or triggered plot ability would initiate, cancel those effects.",
+        "traits": ""
+    }
+]

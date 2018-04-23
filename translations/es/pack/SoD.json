@@ -3,64 +3,366 @@
         "code": "10001",
         "flavor": "",
         "name": "Doran Martell",
-        "text": "<b>Action:</b> Kneel your faction card to choose a participating character with fewer than 2 challenge icons and remove it from the challenge.\n<b>Reaction:</b> After you lose a challenge, choose a character. Until the end of the phase, that character gains or loses a challenge icon of your choice.",
+        "text": "<b>Acción:</b> arrodilla tu carta de Facción para elegir un Personaje participante que tenga menos de 2 iconos de reto y retirarlo del reto.\n<b>Reacción:</b> después de que pierdas un reto, elige un Personaje. Hasta el final de la fase, ese Personaje gana o pierde un icono de reto de tu elección.",
         "traits": "Lord."
     },
     {
+        "code": "10002",
+        "flavor": "\"¿Así queréis que sigan las cosas, en un círculo eterno? Os lo pregunto de nuevo, ¿cuándo acabará esto?\"",
+        "name": "Ellaria Arena",
+        "text": "<b>Reacción:</b> después de que Ellaria Arena sea declarada como atacante, elige hasta 3 Personajes controlados por el jugador defensor. Cada uno de esos Personajes debe declararse como defensor en este reto (si puede).",
+        "traits": "Bastardo. Acompañante."
+    },
+    {
+        "code": "10003",
+        "flavor": "",
+        "name": "La Víbora Roja",
+        "text": "Intimidación.\nLa Víbora Roja recibe un +1 a su FUE por cada ficha de Poder que tenga.\n<b>Reacción:</b> después de que ganes un reto en el que controles un Personaje <i>Bastardo</i> atacante, La Víbora Roja gana 1 de Poder.",
+        "traits": "Lord."
+    },
+    {
+        "code": "10004",
+        "flavor": "\"Me llaman Estrellaoscura, y prefiero la noche.\"",
+        "name": "Estrellaoscura",
+        "text": "Intimidación.\n<b>Acción:</b> durante un reto en el que Estrellaoscura esté atacando, sacrifícalo para devolver cada Personaje participante a la mano de su propietario.",
+        "traits": "Casa Dayne. Caballero."
+    },
+    {
+        "code": "10005",
+        "flavor": "\"Señaló la lanza, y luego las lágrimas de mi madre, y yo cogí la lanza.\"",
+        "name": "Obara Arena",
+        "text": "<b>Acción de Reto:</b> devuelve a tu mano un Personaje <i>Serpiente de arena</i> para poner en juego desde tu mano un Personaje [martell] con un coste impreso inferior. (Límite de 1 vez por fase.)",
+        "traits": "Bastardo. Serpiente de arena."
+    },
+    {
+        "code": "10006",
+        "flavor": "",
+        "name": "Areo Hotah",
+        "text": "Emboscada (6).\nEl coste para usar la Emboscada de Areo Hotah se reduce en 1 por cada carta de Trama que haya en tu pila de cartas usadas.\n<b>Reacción:</b> después de que ganes un reto en el que Areo Hotah esté defendiendo, devuélvelo a tu mano para aumentar el valor de Conquista de tu carta de Trama mostrada en 1 hasta el final de la fase.",
+        "traits": "Guardia."
+    },
+    {
+        "code": "10007",
+        "flavor": "\"Y tampoco dudes esto, mi príncipe: ni mis hermanas ni yo esperaremos diecisiete años para vengarnos.\"",
+        "name": "Nymeria Arena",
+        "text": "<b>Reacción:</b> después de que pierdas la Dominación, descarta 1 carta al azar de la mano del adversario vencedor y roba 1 carta.",
+        "traits": "Bastardo. Serpiente de arena."
+    },
+    {
         "code": "10008",
-        "flavor": "Her soft, pale hands were as deadly as Obara's callused ones, if not more so.",
-        "name": "Tyene Sand",
-        "text": "Stealth.\n<b>Reaction:</b> After you lose a challenge as the defending player, kneel a <i>Sand Snake</i> character to put Tyene Sand into play from your hand.",
-        "traits": "Bastard. Sand Snake."
+        "flavor": "Sus manos blancas y suaves eran tan mortíferas cmo las manos encallecidas de Obra, o quizá más.",
+        "name": "Tyene Arena",
+        "text": "Sigilo.\n<b>Reacción:</b> después de que pierdas un reto siendo el jugador defensor, arrodilla un Personaje <i>Serpiente de arena</i> para poner en juego a Tyene Arena desde tu mano.",
+        "traits": "Bastardo. Serpiente de arena."
+    },
+    {
+        "code": "10009",
+        "flavor": "",
+        "name": "Guardia de Nymeria",
+        "text": "Sin Accesorios.\n<b>Acción de Reto:</b> paga 4 de Oro y pon en pie un Personaje <i>Serpiente de arena</i> para poner en juego la Guardia de Nymeria desde tu mano.",
+        "traits": "Ejército. Guardia."
+    },
+    {
+        "code": "10010",
+        "flavor": "",
+        "name": "Obella Arena",
+        "text": "<b>Reacción:</b> después de que Obella Arena sea descartada para satisfacer una Conquista [intrigue] o muera para satisfacer una Conquista [military], traslada 1 de Poder desde la carta de Facción del adversario vencedor hasta la tuya. Devuelve a Obella Arena a tu mazo desde tu pila de muertos o de descartes y baraja tu mazo.",
+        "traits": "Bastardo. Serpiente de arena."
+    },
+    {
+        "code": "10011",
+        "flavor": "\"A tu hermano Quentyn le espera un camino más duro.\" <cite>Doran Martell</cite>",
+        "name": "Quentyn Martell",
+        "text": "Renombre.\n<b>Reacción obligada:</b> después de que empiece la fase de Reto, si hay menos de 3 cartas de Trama en tu pila de cartas usadas, arrodilla a Quentyn Martell.",
+        "traits": "Caballero. Lord."
     },
     {
         "code": "10012",
-        "flavor": "\"Give your bride a kiss for me.\"",
+        "flavor": "\"Dale un beso a tu prometida de mi parte.\"",
         "name": "Ser Cletus Yronwood",
-        "text": "No attachments except <i>Weapon</i>.\nIncrease the initiative value on your revealed plot card by 1 for each plot card in your used pile.",
-        "traits": "House Yronwood. Knight."
+        "text": "Sin Accesorios excepto <i>Armas</i>.\nAumenta la Iniciativa de tu carta de Trama mostrada en 1 por cada carta de Trama que haya en tu pila de cartas usadas.",
+        "traits": "Casa Yronwood. Caballero."
+    },
+    {
+        "code": "10013",
+        "flavor": "\"Loreza tiene seis años; Dorea, ocho. ¿Qué guerras pueden provocar?\" <cite>Arianne Martell</cite>",
+        "name": "Loreza Arena",
+        "text": "<b>Interrupción:</b> cuando muera un Personaje [martell] único que controles, roba 1 carta. (Límite de 1 vez por fase.)",
+        "traits": "Bastardo. Serpiente de arena."
+    },
+    {
+        "code": "10014",
+        "flavor": "\"Presta atención a todo lo que te diga; ha dedicado media vida a estudiar las Nueve Ciudades Libres.\" <cite>Doran Martell</cite>",
+        "name": "Maestre Kedry",
+        "text": "<b>Acción:</b> arrodilla al Maestre Kedry para reducir en 2 el coste en Oro del siguiente Evento que juegues en esta fase.",
+        "traits": "Maestre."
+    },
+    {
+        "code": "10015",
+        "flavor": "",
+        "name": "Escolta de la casa Dayne",
+        "text": "Mientras haya al menos 3 cartas de Trama en tu pila de cartas usadas, puedes reclutar la Escolta de la casa Dayne desde tu pila de descartes como si estuviera en tu mano.",
+        "traits": "Aliado. Casa Dayne."
+    },
+    {
+        "code": "10016",
+        "flavor": "",
+        "name": "Bastardo de la ciudad de la sombra",
+        "text": "Emboscada (3).\n<b>Acción de Reto:</b> sacrifica al Bastardo de la ciudad de la sombra para elegir un Personaje que tenga un coste impeso de 5 o menos. Hasta el final de la fase, ese Personaje pierde un icono [military], un icono [intrigue] y un icono [power].",
+        "traits": "Bastardo."
     },
     {
         "code": "10017",
         "flavor": "",
         "name": "Dorne",
-        "text": "<b>Reaction:</b> After you lose a challenge, look at the top 2 cards of your deck. Add 1 to your hand, and place the other on the bottom of your deck.\n+1 Reserve.",
+        "text": "<b>Reacción:</b> después de que pierdas un reto, mira las 2 primeras cartas de tu mazo. Añade 1 a tu mano y coloca la otra en la parte inferior del mazo.\n+1 Reserva.",
         "traits": "Dorne."
     },
     {
+        "code": "10018",
+        "flavor": "",
+        "name": "Campoestrella",
+        "text": "<b>Acción de Reto:</b> arrodilla Campoestrella para elegir un Personaje. Hasta el final de la fase, ese Personaje pierde un icono de reto de tu elección.",
+        "traits": "Dorne. Casa Dayne."
+    },
+    {
+        "code": "10019",
+        "flavor": "",
+        "name": "Hacha de Hotah",
+        "text": "El Personaje vinculado recibe un +3 a su FUE.\n<b>Reacción:</b> después de que entre en juego un Personaje [martell] durante la fase de Reto, pon en juego desde tu mano el Hacha de Hotah vinculada a ese Personaje.",
+        "traits": "Arma."
+    },
+    {
         "code": "10020",
-        "flavor": "\"You mistake patience for forbearance. I have worked at the downfall of Tywin Lannister since the day they told me of Elia and her children.\" <cite>Doran Martell</cite>",
-        "name": "Patience",
-        "text": "Character you control only.\n<b>Challenges Action:</b> Return attached character to its owner's hand.",
-        "traits": "Skill."
+        "flavor": "\"Confundes la paciencia con el autodominio. Llevo preparando la caída de Tywin Lannister desde el día en que me dijeron lo de Elia y sus hijos.\" <cite>Doran Martell</cite>",
+        "name": "Paciencia",
+        "text": "Sólo Personajes que tú controles.\n<b>Acción de Reto:</b> devuelve el Personaje vinculado a la mano de su propietario.",
+        "traits": "Habilidad."
+    },
+    {
+        "code": "10021",
+        "flavor": "",
+        "name": "Seducción",
+        "text": "Terminal.\n<b>Acción de Reto:</b> arrodilla Seducción para hacer que el Personaje vinculado pierda un icono de reto de tu elección hasta el final de la fase.",
+        "traits": "Estado."
+    },
+    {
+        "code": "10022",
+        "flavor": "",
+        "name": "No hay lugar para la pena",
+        "text": "Juega esta carta sólo si un Personaje [martell] ha muerto controlado por ti en esta ronda.\n<b>Acción:</b> busca en tu mazo un Personaje <i>Serpiente de arena</i> con un coste impreso de 3 o menos, ponlo en juego y baraja tu mazo. (Con un coste impreso de 6 o menos si La Víbora Roja está en tu pila de muertos.)",
+        "traits": ""
+    },
+    {
+        "code": "10023",
+        "flavor": "",
+        "name": "Planes falsos",
+        "text": "<b>Acción de Reto:</b> elige un adversario. Ese jugador descarta 1 carta al azar de su mano.\n<b>Reacción:</b> después de que los Planos falsos sean descartados para satisfacer una Conquista [intrigue], el adversario vencedor descarta 2 cartas al azar de su mano.",
+        "traits": ""
+    },
+    {
+        "code": "10024",
+        "flavor": "",
+        "name": "¡A las lanzas!",
+        "text": "Juega esta carta sólo si hay al menos 3 cartas de Trama en tu pila de cartas usadas.\n<b>Acción de Reto:</b> los Personajes [martell] que controles no se arrodillan al ser declarados como atacantes en el próximo reto que inicies en esta fase.",
+        "traits": ""
+    },
+    {
+        "code": "10025",
+        "flavor": "\"¿De qué dudáis, mi señor? ¿De la justicia de vuestra causa o de la fuerza de vuestro brazo? ¿Tenéis miedo de que eche una meada y os apague el fuego de la espada?\"",
+        "name": "Ser Cortnay Penrose",
+        "text": "<b>Reacción:</b> después de que ganes un reto [power] en el que esté participando Ser Cortnay Penrose, ponlo en pie.",
+        "traits": "Caballero."
+    },
+    {
+        "code": "10026",
+        "flavor": "",
+        "name": "Torre del Dragón Marino",
+        "text": "<b>Acción de Reto:</b> arrodilla la Torre del Dragón Marino para eligir un Personaje. Hasta el final de la fase, ese Personaje gana un icono [power].",
+        "traits": "Rocadragón."
+    },
+    {
+        "code": "10027",
+        "flavor": "",
+        "name": "Armada de Pyke",
+        "text": "Sin Accesorios. Pillaje.\n<b>Reacción:</b> después de que un Personaje que controles descarte un Lugar o Accesorio mediante el Pillaje, la Armada de Pyke gana un icono de reto de tu elección hasta el final de la fase.",
+        "traits": "Ejército."
+    },
+    {
+        "code": "10028",
+        "flavor": "",
+        "name": "Saqueado",
+        "text": "Sólo Lugares de adversarios. Terminal.\n<b>Reacción:</b> después de que el jugador que controla el Lugares vinculado pierda un reto como defensor, arrodilla el Lugar vinculado. Luego puedes sacrificar Saqueado para ganar 3 de Oro.",
+        "traits": "Estado."
+    },
+    {
+        "code": "10029",
+        "flavor": "\"¿A que es muy bonita? Cuánto me gustaría tener unos rizos como los suyos. Nació para ser reina, igual que su madre.\" <cite>Tyene Arena</cite>",
+        "name": "Myrcella Baratheon",
+        "text": "Myrcella Baratheon no se arrodilla cuando es declarada como atacante contra un adversario que tenga menos cartas en la mano que tú.",
+        "traits": "Lady."
+    },
+    {
+        "code": "10030",
+        "flavor": "",
+        "name": "Extorsión",
+        "text": "<b>Reacción:</b> después de que ganes un reto [intrigue] como atacante, ganas 3 de Oro y devuelves a la Tesorería hasta 3 de Oro del suministro de Oro del adversario derrotado.",
+        "traits": ""
+    },
+    {
+        "code": "10031",
+        "flavor": "\"Esos cabrones me han dado en la pierna. ¡En la de madera!\"",
+        "name": "Bota de Sobra",
+        "text": "<b>Acción de Reto:</b> elige un Accesorio vinculado a un Personaje que controles. Pon en pie ese Accesorio y trasládalo a Bota de Sobra. (Límite de 1 vez por fase.)",
+        "traits": "Constructor."
+    },
+    {
+        "code": "10032",
+        "flavor": "",
+        "name": "Cambiacapas",
+        "text": "Sólo Personajes no leales. Terminal.\n<b>Reacción:</b> después de que ganes un reto en el que esté participando el Personaje vinculado, toma el control del Personaje vinculado. (Cualquier jugador puede utilizar esta capacidad.)",
+        "traits": "Estado."
+    },
+    {
+        "code": "10033",
+        "flavor": "\"Viento Gris le arrancó dos dedos de un mordisco, y él se rió.\" <cite>Robb Stark</cite>",
+        "name": "Gran Jon Umber",
+        "text": "Intimidación.\n<b>Reacción:</b> después de que ganes un reto [military] en el que esté atacando Gran Jon Umber, si hay menos de 3 cartas de Trama en tu pila de cartas usadas, ponlo en pie.",
+        "traits": "Casa Umber. Lord."
+    },
+    {
+        "code": "10034",
+        "flavor": "",
+        "name": "El gusto por la carne",
+        "text": "<b>Reacción:</b> después de que ganes un reto en el que controles un Personaje <i>Lobo huargo</i> atacante o bien un Personaje atacante que tenga vinculado un Accesorio <i>Lobo huargo</i>, mata a un Personaje defensor de tu elección.",
+        "traits": ""
+    },
+    {
+        "code": "10035",
+        "flavor": "La pequeña escriba de los enormes ojos dorados tenía una sabiduría impropia de su edad.",
+        "name": "Missandei",
+        "text": "<b>Interrupción:</b> cuando Missandei sea dsecartada de tu mano o de tu mazo, ponla en juego en vez de colocarla en tu pila de descartes.",
+        "traits": "Acompañante."
+    },
+    {
+        "code": "10036",
+        "flavor": "\"Qarth es la ciudad más grande que ha existido o existirá.\" <cite>Pyat Pree</cite>",
+        "name": "Qarth",
+        "text": "<b>Acción:</b> arrodilla Qarth y paga 1 de Oro para descartar del juego un Accesorio de tu elección vinculado a una carta que controles.",
+        "traits": "Essos. Qarth."
+    },
+    {
+        "code": "10037",
+        "flavor": "…lord Leyton no había bajado desde hacía más de un decenio y prefería gobernar su ciudad desde las nubes.",
+        "name": "Leyton Hightower",
+        "text": "<b>Acción:</b> arrodilla a Leyton Hightower para poner en juego desde tu mano y arrodillada una carta [tyrell] no Limitada con un coste impreso de 4 o menos.",
+        "traits": "Casa Hightower. Lord."
+    },
+    {
+        "code": "10038",
+        "flavor": "",
+        "name": "Faro del Sur",
+        "text": "Sólo Personajes [tyrell].\n<b>Reacción:</b> después de que ganes por 5 o más de FUE un reto en el que esté participando el Personaje vinculado, éste gana 1 de Poder.",
+        "traits": "Título."
     },
     {
         "code": "10039",
         "flavor": "",
         "name": "Val",
-        "text": "<b>Reaction:</b> After Val is declared as an attacker, put a <i>Wildling</i> character with printed cost 4 or lower into play from your hand knelt, participating as an attacker.",
-        "traits": "Wildling."
+        "text": "<b>Reacción:</b> después de que Val sea declarada como atacante, pon en juego desde tu mano un Personaje <i>Salvaje</i> con un coste impreso de 4 o menos arrodillado y participando como atacante.",
+        "traits": "Salvaje."
+    },
+    {
+        "code": "10040",
+        "flavor": "Meribald era un septón sin septo, situado sólo un poco por encima de los hermanos mendicantes en la jerarquía de la Fe.",
+        "name": "Septón Meribald",
+        "text": "<b>Acción:</b> arrodilla al Septón Meribald para poner en pie hasta 3 Personajes de tu elección cuya FUE impresa sea 1 o menos. (Límite de 1 vez por ronda.)",
+        "traits": "Los Siete."
+    },
+    {
+        "code": "10041",
+        "flavor": "\"Los sabios pueden volverse arrogantes en su sabiduría; un maestre, en cambio, debe ser humilde siempre.\" <cite>Armen el Acólito</cite>",
+        "name": "Erudito de Antigua",
+        "text": "<b>Reacción:</b> después de que un adversario robe 1 o más cartas, si no estáis en la fase de Robo, arrodilla al Erudito de Antigua para robar ese mismo número de cartas.",
+        "traits": "Maestre."
+    },
+    {
+        "code": "10042",
+        "flavor": "",
+        "name": "Dromón del Mar de Jade",
+        "text": "Limitada.\n<b>Acción de Dominación:</b> arrodilla y sacrifica el Dromón del Mar de Jade para descartar del juego un Lugar no Limitado de tu elección con un coste impreso de 3 o menos.",
+        "traits": "Barco de guerra."
+    },
+    {
+        "code": "10043",
+        "flavor": "",
+        "name": "Hábito",
+        "text": "Sólo Personajes <i>Los Siete</i>.\n<b>Reacción:</b> después de que el Personaje vinculado se arrodille, elige un Lugar o Accesorio. Hasta el final del a fase, esa carta se trata como si su texto de reglas impreso estuviese en blanco (excepto los <i>Rasgos</i>).",
+        "traits": "Los Siete"
+    },
+    {
+        "code": "10044",
+        "flavor": "",
+        "name": "\"Voy a Puerto Gaviota\"",
+        "text": "<b>Acción de Reto:</b> elige un Personaje. Hasta el final de la fase, ese Personaje gana un icono [military], un icono [intrigue] y un icono [power]. Roba 1 carta.",
+        "traits": "Canción."
     },
     {
         "code": "10045",
-        "designer": "Card design by 2014 European Joust Champion, Donovan van Beek.",
+        "designer": "Carta diseñada por Donovan van Beek, campeón de la Justa Europea de 2014.",
         "flavor": "",
-        "name": "The Wars To Come",
-        "text": "Your plot deck must be exactly 10 cards. You may include a second copy of up to 2 different cards in your plot deck.",
-        "traits": "Omen."
+        "name": "Las guerras venideras",
+        "text": "Tu mazo de Tramas debe contener exactamente 10 cartas. Puedes incluir una segunda copia de hasa 2 cartas diferentes en tu mazo de Tramas.",
+        "traits": "Augurio."
     },
     {
         "code": "10046",
         "flavor": "",
-        "name": "At Prince Doran's Behest",
-        "text": "<b>When Revealed:</b> Choose and reveal a new plot card. (Cannot be canceled.)",
-        "traits": "Edict."
+        "name": "Por orden del príncipe Doran",
+        "text": "<b>Cuando se muestre esta carta:</b> muestra una nueva carta de Trama de tu elección (este efecto no puede anularse).",
+        "traits": "Edicto."
+    },
+    {
+        "code": "10047",
+        "flavor": "",
+        "name": "Paz y prosperidad",
+        "text": "Reduce en 3 el coste del primer Personaje que reclutes en esta ronda, en 2 el primer Lugar que reclutes en esta ronda, y en 1 el del primer Accesorio que reclutes en este ronda.",
+        "traits": "Reino."
+    },
+    {
+        "code": "10048",
+        "flavor": "",
+        "name": "A marchas forzados",
+        "text": "<b>Cuando se muestre esta carta:</b> cada adversario arrodilla 1 Personaje que controle y que tenga un icono [military]. Luego tú puedes arrodillar un Personaje que tenga un icono [military] para volver a iniciar este efecto.",
+        "traits": "Edicto. Guerra."
     },
     {
         "code": "10049",
         "flavor": "",
-        "name": "Beyond Reproach",
-        "text": "<b>When Revealed:</b> Each player sacrifices each attachment that is attached to a character he or she does not control.",
-        "traits": "The Seven."
+        "name": "Sin tacha",
+        "text": "<b>Cuando se muestre esta carta:</b> cada jugador sacrifica todos los Accesorios que tenga vinculados a un Personaje que no controle.",
+        "traits": "Los Siete."
+    },
+    {
+        "code": "10050",
+        "designer": "Carta diseñada por Luiz Gustavo Bretas, campeón europeo de Contienda en 2016.",
+        "flavor": "",
+        "name": "Lazos rotos",
+        "text": "<b>Acción:</b> sacrifica un Personaje leal para elegir un Personaje o Lugar que no sea leal y devolverlo a la mano de su propietario. (Límite de 2 veces por ronda.)",
+        "traits": "Casa Frey. Conspiración."
+    },
+    {
+        "code": "10051",
+        "flavor": "",
+        "name": "Contienda",
+        "text": "Los Personajes que estén atacando o defendiendo solos no aportan su FUE al reto.",
+        "traits": "Verano."
+    },
+    {
+        "code": "10052",
+        "flavor": "",
+        "name": "Falsa primavera",
+        "text": "<b>Cuando se muestre esta carta:</b> cada adversario muestra 3 cartas de su mano de su elección (si puede). Puedes elegir y descartar 1 carta mostrada de cualquier cantidad de esas manos.",
+        "traits": "Invierno."
     }
 ]

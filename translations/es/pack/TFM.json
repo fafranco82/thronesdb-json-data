@@ -1,38 +1,143 @@
 [
     {
-        "code": "08085",
-        "designer": "Card design by 2011 Joust World Champion, Brett Zeiler.",
+        "code": "08081",
+        "flavor": "\"No llevo vestidos. Con un estúpido vestido no se puede luchar.\"",
+        "name": "Arya Stark",
+        "text": "Mientras Arya Stark esté en pie, ningún Personaje puede salvarse.",
+        "traits": "Lady."
+    },
+    {
+        "code": "08082",
         "flavor": "",
-        "name": "Coldhands",
-        "text": "Coldhands cannot be saved.\n<b>Reaction:</b> After you marshal Coldhands, choose another non-<i>Army</i> character controlled by each player. Remove each of those characters from the game until Coldhands leaves play.",
-        "traits": "The North."
+        "name": "No soy nadie",
+        "text": "<b>Acción:</b> elige un Personaje que controles y que tenga un coste impreso de 3 o menos. Hasta el final de la fase, ese Personaje pierde todas sus facciones y <i>Rasgos</i>, gana Perspicacia y Sigilo, y no se arrodilla cuando es declarado como atacante.",
+        "traits": ""
+    },
+    {
+        "code": "08083",
+        "flavor": "",
+        "name": "Refugiada de Altojardín",
+        "text": "Mientras haya mostrada una carta de Trama de <i>Verano</i>, se reduce en 1 el coste para reclutar a la Refugiada de Altojardín.",
+        "traits": "Aliado."
+    },
+    {
+        "code": "08084",
+        "flavor": "\"Era cinco veces mayor que la Pájaro Negro, un barco formidable, con tres gigantescas velas color vino e hileras de remos que centelleaban dorados y blancos a la luz del sol.\"",
+        "name": "Reina del Rejo",
+        "text": "<b>Acción:</b> arrodilla la Reina del Rejo para elegir a un Personaje [tyrell] y a un Personaje que no sea [tyrell]. Hasta el final de la fase, cada uno de esos Personajes recibe un +2 a su FUE.",
+        "traits": "Barco de guerra."
+    },
+    {
+        "code": "08085",
+        "designer": "Carta diseñada por Brett Zeiler, campeón mundial de Justa en 2011.",
+        "flavor": "",
+        "name": "Manosfrías",
+        "text": "Manosfrías no puede salvarse.\n<b>Reacción:</b> después de que reclutes a Manosfrías, elige a otro Personaje controlado por cada jugador que no sea <i>Ejército</i>. Retira del juego a todos esos Personajes hasta que Manosfrías abandone el juego.",
+        "traits": "El Norte."
+    },
+    {
+        "code": "08086",
+        "flavor": "[Sus aguas] eran de color gris verdoso, turbulentas, y la orilla boscosa junto a la que navegaban parecía un hervidero de rocas y remolinos.",
+        "name": "La Bahía de las Focas",
+        "text": "<b>Acción:</b> arrodilla La Bahía de las Focas para poner en pie un Personaje de tu elección que sea propiedad de un adversario.",
+        "traits": "El Norte."
+    },
+    {
+        "code": "08087",
+        "flavor": "",
+        "name": "Hombres del Rey",
+        "text": "<b>Reacción:</b> después de que empiece una fase, elige a un Personaje que esté arrodillado. Hasta el final de la fase, ese Personaje se trata como si su texto de reglas impreso estuviese en blanco (excepto los <i>Rasgos</i>). (Límite de 1 vez por ronda.)",
+        "traits": "Aliado. Los Siete."
+    },
+    {
+        "code": "08088",
+        "flavor": "",
+        "name": "Sacrificado al Dios Rojo",
+        "text": "Juega esta carta sólo si controlas un Personaje <i>R'hllor</i>.\n<b>Acción de Reclutamiento:</b> sacrifica un Personaje para buscar en tu mazo un Personaje <i>R'hllor</i> con un coste impreso igual o inferior y añadirlo a tu mano. Baraja tu mazo.",
+        "traits": "R'hllor."
     },
     {
         "code": "08089",
         "flavor": "",
-        "name": "Cersei's Informer",
-        "text": "Bestow (3).\n<b>Action:</b> Move 1 gold from Cersei's Informer to a non-<i>Spy</i> card you control to draw 1 card. Then, choose and discard 1 card from your hand. (Limit once per round.)",
-        "traits": "Spy."
+        "name": "Confidente de Cersei",
+        "text": "Encomienda (3).\n<b>Acción:</b> traslada 1 de Oro desde la Confidente de Cersei hasta una carta que controles y que no sea <i>Espía</i> para robar 1 carta. Luego descarta 1 carta de tu mano de tu elección. (Límite de 1 vez por ronda.)",
+        "traits": "Espía."
+    },
+    {
+        "code": "08090",
+        "flavor": "",
+        "name": "Ser Garras",
+        "text": "Sólo Personajes únicos con un coste impreso de 3 o menos. Emboscada (1).\nEl Personaje vinculado gana un icono [intrigue] y no se arrodilla cuando es declarado como atacante en un reto [intrigue].",
+        "traits": "Gato. Caballero."
+    },
+    {
+        "code": "08091",
+        "flavor": "…al que se consideraba tan santo que hasta fue elegido para coronar a un rey.",
+        "name": "Tarle el Tres Veces Ahogado",
+        "text": "Puedes reclutar Personajes <i>Dios Ahogado</i> que no sean únicos desde tu pila de muertos como si estuvieran en tu mano.",
+        "traits": "Dios Ahogado. Hijo del Hierro."
+    },
+    {
+        "code": "08092",
+        "flavor": "\"Hay que entregárselo al dios. Según las antiguas costumbres.\" <cite>Aeron Pelomojado</cite>",
+        "name": "Entregado al Dios Ahogado",
+        "text": "<b>Acción:</b> mata a un Personaje <i>Dios Ahogado</i> para robar X cartas. X es el coste impreso de ese Personaje.",
+        "traits": "Dios Ahogado."
+    },
+    {
+        "code": "08093",
+        "flavor": "",
+        "name": "Daenerys Targaryen",
+        "text": "La FUE de Daenerys Targaryen no puede verse reducida por efectos de cartas.\n<b>Reacción:</b> después de que juegues un Evento [targaryen], elige a un Personaje. Hasta el final de la fase, ese Personaje recibe un -1 a su FUE y muere si su FUE cae a 0. (Límite de 3 veces por ronda.)",
+        "traits": "Lady. Reina."
+    },
+    {
+        "code": "08094",
+        "flavor": "",
+        "name": "Mhysa",
+        "text": "Sólo Personajes <i>Lady</i>.\nDurante el primer reto [power] que inicies en cada ronda, el Personaje vinculado no se arrodilla cuando es declarado como atacante y recibe un +1 a su FUE por cada Personaje atacante.",
+        "traits": "Título."
+    },
+    {
+        "code": "08095",
+        "flavor": "Tal vez los Yronwood apoyasen a Quentyn, pero por sí mismos no representaban amenaza alguna.",
+        "name": "Caballero de la casa Yronwood",
+        "text": "<b>Reacción:</b> después de que pierdas un reto en el que esté participando el Caballero de la casa Yronwood, descarta 1 carta al azar de la mano del adversario vencedor.",
+        "traits": "Casa Yronwood. Caballero."
+    },
+    {
+        "code": "08096",
+        "flavor": "",
+        "name": "Pacto secreto",
+        "text": "Sólo Personajes que no sean [martell]. Emboscada (3).\nEl Personaje vinculado gana Renombre.\nEl Personaje vinculado no puede ser declarado como atacante en retos contra ti.",
+        "traits": "Estado."
     },
     {
         "code": "08097",
-        "flavor": "\"The Faith Militant reborn...that would be the answer to three hundred years of prayer, Your Grace.\"",
-        "name": "The High Sparrow",
-        "text": "Each player cannot gain more than 7 gold each round.\nEach player cannot draw more than 3 cards each round.",
-        "traits": "The Seven."
+        "flavor": "\"El renacimiento de la Fe Militante… Eso sería la respuesta a trescientos años de plegarias, Alteza.\"",
+        "name": "El Gorrión Supremo",
+        "text": "Ningún jugador puede ganar más de 7 de Oro en cada ronda.\nNingún jugador puede robar más de 3 cartas en cada ronda.",
+        "traits": "Los Siete."
     },
     {
         "code": "08098",
-        "flavor": "The Seven Gods who made us all, are listening if we should call. So close your eyes, you shall not fall, they see you, little children.",
-        "name": "\"The Song of the Seven\"",
-        "text": "<b>Reaction:</b> After you lose dominance, move 2 power from the winning opponent's faction card to a <i>The Seven</i> character you control. (Max 1 per phase.)",
-        "traits": "Song. The Seven."
+        "flavor": "Son los Siete Dioses que nos han creado, y siempre que rezas están a tu lado. Duérmete niño, que ellos te cuidan, duérmete niño, que nunca te olvidan.",
+        "name": "\"La canción de los Siete\"",
+        "text": "<b>Reacción:</b> después de que pierdas la Dominación, traslada 2 de Poder desde la carta de Facción del adversario vencedor hasta un Personaje de <i>Los Siete</i> que controles. (Máximo 1 por fase.)",
+        "traits": "Canción. Los Siete."
     },
     {
         "code": "08099",
         "flavor": "",
-        "name": "The Faith Militant",
-        "text": "Non-<i>The Seven</i> characters and locations you control cannot gain power.\n<b>Reaction:</b> After you win a chalenge, kneel your faction card to move 1 power from the losing opponent's faction card to a participating <i>The Seven</i> character you control.",
-        "traits": "The Seven."
+        "name": "La Fe Militante",
+        "text": "Los Personajes y Lugares que controles y que no sean de <i>Los Siete</i> no pueden ganar Poder.\n<b>Reacción:</b> después de que ganes un reto, arrodilla tu carta de Facción para trasladar 1 de Poder desde la carta de Facción del adversario derrotado hasta un Personaje <i>Los Siete</i> participante que controles.",
+        "traits": "Los Siete."
+    },
+    {
+        "code": "08100",
+        "flavor": "",
+        "name": "Apremiado por la Fe",
+        "text": "<b>Cuando se muestre esta carta:</b> traslada cada ficha de Poder de cada carta que haya en juego hasta la carta de Facción del jugador que la controla.",
+        "traits": "Los Siete."
     }
 ]
