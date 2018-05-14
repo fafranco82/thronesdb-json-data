@@ -96,6 +96,10 @@
         "name": "La paz del Rey"
     },
     {
+        "code": "TMoW",
+        "name": "La marcha sobre Invernalia"
+    },
+    {
         "code": "TRW",
         "name": "La Boda Roja"
     },
@@ -106,6 +110,10 @@
     {
         "code": "TS",
         "name": "De auténtico acero"
+    },
+    {
+        "code": "TSC",
+        "name": "La ciudad de la sombra"
     },
     {
         "code": "TtB",

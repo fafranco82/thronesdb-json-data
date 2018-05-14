@@ -1,23 +1,143 @@
 [
     {
+        "code": "08101",
+        "flavor": "",
+        "name": "Hueste de las Tierras de los Ríos",
+        "text": "Encomienda (3). Sin Accesorios.\n<b>Reacción:</b> después de que un Personaje de la <i>Casa Tully</i> que controles gane Poder, descarta 1 Oro de la Hueste de las Tierras de los Ríos para que ese Personaje gane 1 de Poder. (Límite de 1 vez por fase.)",
+        "traits": "Ejército. Casa Tully."
+    },
+    {
+        "code": "08102",
+        "flavor": "Los bosques de dioses tenían una cualidad extraña. Incluso allí, en el corazón del castillo, en el corazón de la ciudad, uno sentía como los antiguos dioses lo miraban con un millar de ojos invisibles.",
+        "name": "Bosque de dioses",
+        "text": "<b>Reacción:</b> después de que ganes un reto como atacante, si hay mostradas más cartas de Trama de <i>Invierno</i> que de <i>Verano</i>, arrodilla el Bosque de dioses para robar X cartas. X es el valor de Conquista de tu carta de Trama mostrada.",
+        "traits": "Antiguos dioses."
+    },
+    {
+        "code": "08103",
+        "flavor": "",
+        "name": "Mace Tyrell",
+        "text": "<b>Reacción:</b> después de que Mace Tyrell se arrodille, roba 2 cartas. Luego elige una carta de tu mano y colócala en la parte superior de tu mazo.",
+        "traits": "Lord. Consejo Privado."
+    },
+    {
+        "code": "08104",
+        "flavor": "",
+        "name": "¡Tenéis que dar una respuesta enérgica!",
+        "text": "<b>Reacción:</b> después de que se declaren al menos 3 Personajes como atacantes en un reto contra ti, busca en tu mazo un Personaje [tyrell] y ponlo en juego. Baraja tu mazo.",
+        "traits": ""
+    },
+    {
         "code": "08105",
-        "flavor": "Septon Cellador was half drunk as usual...",
-        "name": "Septon Cellador",
-        "text": "<b>Challenges Action:</b> Kneel Septon Cellador to choose an opponent. That player must choose and discard a character from his or her hand unless he or she reveals a hand containing no characters.",
-        "traits": "The Seven."
+        "flavor": "El septón Cellador estaba medio borracho, como siempre…",
+        "name": "Septón Cellador",
+        "text": "<b>Acción de Reto:</b> arrodilla al Septón Cellador para elegir a un adversario. Ese jugador debe descartar un Personaje de su mano de su elección a menos que muestre una mano que no contenga ningún Personaje.",
+        "traits": "Los Siete"
+    },
+    {
+        "code": "08106",
+        "designer": "Carta diseñada por Sam Braatz, campeón mundial de Justa en 2014.",
+        "flavor": "",
+        "name": "El cuervo es un pájaro que sabe muchos trucos",
+        "text": "<b>Acción de Trama:</b> arrodilla tu carta de Facción para elegir a un adversario y mirar su mazo de Tramas. Elige 1 Trama de ese mazo. Ese jugador debe mostrar esa Trama como su siguiente carta de Trama (si puede).",
+        "traits": ""
+    },
+    {
+        "code": "08107",
+        "flavor": "El Bastardo de Canto Nocturno había estado al frente de la retaguardia que permitió que Stannis se pusiera a salvo en las galeras de Salladhor Saan, pero adoraba al Guerrero con una fe tan fiera como su temperamento.",
+        "name": "El Bastardo de Canto Nocturno",
+        "text": "<b>Reacción:</b> después de que ganes un reto [power] en el que esté participando El Bastardo de Canto Nocturno, traslada 1 de Poder desde la carta de Facción del adversario derrotado hasta la tuya.",
+        "traits": "Bastardo. Caballero."
+    },
+    {
+        "code": "08108",
+        "flavor": "",
+        "name": "Rey en el Muro",
+        "text": "Sólo Personajes [baratheon] únicos.\nEl Personaje vinculado gana el rasgo <i>Rey</i>.\n<b>Reacción:</b> después de que ganes un reto [power] en el que esté participando el Personaje vinculado, roba 1 carta por cada Lugar de facción ajena que controles.",
+        "traits": "Título."
+    },
+    {
+        "code": "08109",
+        "flavor": "\"La Ciudadela me arrebató la cadena, pero no pudo quitarme mis conocimientos.\"",
+        "name": "Qyburn",
+        "text": "<b>Reacción:</b> después de que muera un Personaje, arrodilla a Qyburn para robar 2 cartas. Luego descarta 1 carta de tu mano de tu elección.",
+        "traits": "Maestre. Consejo Privado."
+    },
+    {
+        "code": "08110",
+        "flavor": "",
+        "name": "Conjura contra la Reina",
+        "text": "<b>Reacción:</b> después de que pierdas un reto [power], devuelve a tu mano un Personaje que tenga 1 o más de Poder para elegir a un Personaje participante que tenga 1 o más de Poder y devolverlo a la mano de su propietario.",
+        "traits": ""
+    },
+    {
+        "code": "08111",
+        "flavor": "",
+        "name": "Marinera de Acantilado de Sal",
+        "text": "Encomienda (3).\nCada Personaje que controles y que tenga 1 o más de Oro gana Sigilo.\n<b>Acción:</b> traslada 1 de Oro desde la Marinera de Acantilado de Sal hasta un Personaje que controles y que no sea [greyjoy].",
+        "traits": "Aliado."
+    },
+    {
+        "code": "08112",
+        "flavor": "",
+        "name": "Garrote de madera de deriva",
+        "text": "Sólo Personajes <i>Dios Ahogado</i>.\nEl Personaje vinculado recibe un +1 a su FUE por cada Personaje que haya en tu pila de muertos.\n<b>Interrupción:</b> cuando el Personaje vinculado muera, traslada el Garrote de madera de deriva a otro Personaje válido. Ese Personaje gana 1 de Poder.",
+        "traits": "Dios Ahogado. Arma."
+    },
+    {
+        "code": "08113",
+        "flavor": "",
+        "name": "Khalasar de incursores",
+        "text": "Sin Accesorios. Pillaje.\nMientras el Khalasar de incursores esté atacando, si controlas un Personaje <i>Jinete de sangre</i> atacante, aumenta en 1 el valor de Conquista de tu carta de Trama mostrada.",
+        "traits": "Ejército. Dothraki."
+    },
+    {
+        "code": "08114",
+        "flavor": "",
+        "name": "Para adelantaros tendréis que retroceder",
+        "text": "<b>Acción de Dominación:</b> cada jugador puede devolver su mano (de al menos 1 carta) a su mazo y barajarlo para robar 5 cartas.",
+        "traits": "Profecía."
     },
     {
         "code": "08115",
         "flavor": "",
-        "name": "Host of the Boneway",
-        "text": "Intimidate. No attachments.\nHost of the Boneway gets +1 STR for each plot card in your used pile.",
-        "traits": "Army."
+        "name": "Hueste del Sendahueso",
+        "text": "Intimidación. Sin Accesorios.\nLa Hueste del Sendahueso recibe un +1 a su FUE por cada carta de Trama que haya en tu pila de cartas usadas.",
+        "traits": "Ejército."
     },
     {
         "code": "08116",
-        "flavor": "It was not supposed to end this way. This was not supposed to happen.",
-        "name": "Someone Always Tells",
-        "text": "<b>Interrupt:</b> When the effects of an opponent's event or triggered plot ability would initiate, cancel those effects.",
+        "flavor": "Esto no tenía que acabar así. Esto no tenía que pasar.",
+        "name": "Siempre hay alguien que habla",
+        "text": "<b>Interrupción:</b> cuando vayan a iniciarse los efectos de un Evento o capacidad de Trama activada de un adversario, anula esos efectos.",
         "traits": ""
+    },
+    {
+        "code": "08117",
+        "flavor": "\"Los hombres vienen y van. Mienten, mueren o nos abandonan. Pero una montaña no es un hombre, y la piedra es hija de la montaña. Confiaba en mi padre y confío en mi smilas. No me caeré.\"",
+        "name": "Mya Piedra",
+        "text": "<b>Interrupción:</b> cuando se aplique el efecto de Conquista de un reto [military] o [intrigue] en el que tú seas el defensor, arrodilla a Mya Piedra para aplicar en su lugar un efecto de Conquista [power].",
+        "traits": "Bastardo."
+    },
+    {
+        "code": "08118",
+        "flavor": "",
+        "name": "El Gran Septo de Baelor",
+        "text": "Encomienda (3).\n<b>Reacción:</b> después de que un Personaje entre en juego, arrodilla El Gran Septo de Baelor y descarta 1 de Oro de su carta para tratar a ese Personaje como si su texto de reglas impreso estuviese en blanco (exception los <i>Rasgos</i>) hasta el final de la ronda.",
+        "traits": "Desembarco del Rey. Los Siete."
+    },
+    {
+        "code": "08119",
+        "flavor": "",
+        "name": "La estrella de siete puntas",
+        "text": "El Personaje vinculado gana el rasgo <i>Los Siete</i>.\n<b>Acción de Reclutamiento:</b> arrodilla al Personaje vinculado para reducir en 2 el coste de la siguiente carta de <i>Los Siete</i> que reclutes en esta fase.",
+        "traits": "Objeto. Los Siete."
+    },
+    {
+        "code": "08120",
+        "flavor": "",
+        "name": "Sólo se puede ganar o morir",
+        "text": "<b>Cuando se muestre esta carta:</b> roba 2 cartas.",
+        "traits": "Conspiración."
     }
 ]

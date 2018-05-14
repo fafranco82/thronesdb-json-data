@@ -8,6 +8,10 @@
         "name": "Caja Básica"
     },
     {
+        "code": "dos",
+        "name": "Danza de sombras"
+    },
+    {
         "code": "draft",
         "name": "Formato draft"
     },

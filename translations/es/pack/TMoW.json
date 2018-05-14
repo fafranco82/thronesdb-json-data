@@ -1,0 +1,30 @@
+[
+    {
+        "code": "11021",
+        "flavor": "\"The best pie you have ever tasted, my lords... Wash it down with Arbor gold and savor every bite. I know I shall.\"",
+        "name": "Wyman Manderly",
+        "text": "<b>Action:</b> Sacrifice a character.\n<b>Reaction:</b> After 1 or more characters you control are sacrificed or killed, stand Wyman Manderly and draw 1 card. (Limit 3 times per round.)",
+        "traits": "House Manderly. Lord."
+    },
+    {
+        "code": "11023",
+        "flavor": "\"At Highgarden we have many spiders amongst the flowers. So long as they keep to themselves we let them spin their little webs, but if they get underfoot we step on them.\"",
+        "name": "The Queen of Thorns",
+        "text": "Shadow (4). Stealth.\n<b>Reaction:</b> After you win a challenge in which The Queen of Thorns is participating, choose a card you control in shadows and put it into play.",
+        "traits": "Lady."
+    },
+    {
+        "code": "11027",
+        "flavor": "\"Feel free to perish as you wish, Humfrey... Myself, I would sooner live to see another spring.\"",
+        "name": "Ser Justin Massey",
+        "text": "While you control a <i>King</i> character, Ser Justin Massey gains renown.\n<b>Reaction:</b> After a [baratheon] character gains power, stand it. (Limit once per phase.)",
+        "traits": "Knight."
+    },
+    {
+        "code": "11028",
+        "flavor": "A trail of broken wayns and frozen corpses stretched back behind them, buried beneath the blowing snows.",
+        "name": "March on Winterfell",
+        "text": "Play only during a challenge you initiated.\n<b>Action:</b> End the challenge with no winner or loser. You may initiate an additional [power] challenge this phase.",
+        "traits": ""
+    }
+]
