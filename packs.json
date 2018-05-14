@@ -255,7 +255,7 @@
         "cgdb_id": 28,
         "code": "SAT",
         "cycle_code": "foc",
-        "date_release": null,
+        "date_release": "2018-05-10",
         "name": "Someone Always Tells",
         "position": 6,
         "size": 20
@@ -277,5 +277,23 @@
         "name": "Sands of Dorne",
         "position": 1,
         "size": 52
+    },
+    {
+        "cgdb_id": 31,
+        "code": "TSC",
+        "cycle_code": "dos",
+        "date_release": null,
+        "name": "The Shadow City",
+        "position": 1,
+        "size": 20
+    },
+    {
+        "cgdb_id": 32,
+        "code": "TMoW",
+        "cycle_code": "dos",
+        "date_release": null,
+        "name": "The March on Winterfell",
+        "position": 2,
+        "size": 20
     }
 ]
