@@ -282,7 +282,7 @@
         "cgdb_id": 31,
         "code": "TSC",
         "cycle_code": "dos",
-        "date_release": null,
+        "date_release": "2018-06-07",
         "name": "The Shadow City",
         "position": 1,
         "size": 20
@@ -294,6 +294,15 @@
         "date_release": null,
         "name": "The March on Winterfell",
         "position": 2,
+        "size": 20
+    },
+    {
+        "cgdb_id": 33,
+        "code": "SoKL",
+        "cycle_code": "dos",
+        "date_release": null,
+        "name": "Streets of King's Landing",
+        "position": 3,
         "size": 20
     }
 ]
