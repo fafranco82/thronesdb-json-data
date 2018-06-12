@@ -1,30 +1,142 @@
 [
     {
+        "code": "11001",
+        "flavor": "",
+        "name": "Varamyr Seispieles",
+        "text": "<b>Reacción:</b> después de que empiece la fase de Reto, hasta el final de la fase Varamyr Seispieles gana una de las siguientes opciones (a tu elección):\n- el rasgo <i>Oso</i> y un +5 a su FUE.\n- el rasgo <i>Águila</i>, un icono [intrigue] y Perspicacia.\n- el rasgo <i>Gato</i>, un icono [power] y Sigilo.\n- el rasgo <i>Lobo</i>, Intimidación y un +2 a su FUE.",
+        "traits": "Salvaje."
+    },
+    {
+        "code": "11002",
+        "flavor": "",
+        "name": "Desollador de los Bolton",
+        "text": "Sombra (2).\n<b>Interrupción obligada:</b> cuando termine la fase de Reto, mata a un Personaje de tu elección que tenga el coste impreso más bajo (no puede salvarse).",
+        "traits": "Aliada. Casa Bolton."
+    },
+    {
+        "code": "11003",
+        "flavor": "",
+        "name": "Armería del norte",
+        "text": "La Armería del norte no puede ponerse en pie.\n<b>Acción:</b> arrodilla la Armería del norte para poner en pie un Personaje [stark] de tu elección.\n+1 de Oro.",
+        "traits": "El Norte."
+    },
+    {
+        "code": "11004",
+        "flavor": "",
+        "name": "Septón confabulador",
+        "text": "Sombra (2).\n<b>Acción de Reto:</b> roba 1 carta y ganas 2 de Oro. Luego coloca al Septón confabulador en la parte superior de tu mazo.",
+        "traits": "Los Siete."
+    },
+    {
+        "code": "11005",
+        "flavor": "",
+        "name": "La influencia de Margaery",
+        "text": "Terminal.\n<b>Acción:</b> mientras el Personaje vinculado esté participando en un reto, arrodilla La influencia de Margaery y paga 1 de Oro para poner en pie al Personaje vinculado y retirarlo del reto.",
+        "traits": "Estado."
+    },
+    {
+        "code": "11006",
+        "flavor": "\"No pienso dejar que me manden a morir congelado y obedecer como un cordero. ¡Ningún bastardo de traidor da órdenes a Janos Slynt!\"",
+        "name": "Janos Slynt",
+        "text": "Sombra (0).\n<b>Reacción obligada:</b> después de que Janos Slynt salga de las Sombras, sacrifica un Personaje [thenightswatch].",
+        "traits": "Aliado."
+    },
+    {
+        "code": "11007",
+        "flavor": "",
+        "name": "Nuevos reclutas",
+        "text": "<b>Acción:</b> busca en tu mazo un Personaje <i>Explorador</i>, un Personaje <i>Constructor</i> y un Personaje <i>Mayordomo</i>, muéstralos y añádelos a tu mano. Baraja tu mazo.",
+        "traits": ""
+    },
+    {
+        "code": "11008",
+        "flavor": "",
+        "name": "Sacerdotisa de las sombras",
+        "text": "Sombra (3).\n<b>Reacción:</b> después de que la Sacerdotisa de las sombras salga de las Sombras, arrodilla un Personaje de tu elección que no tenga Accesorios vinculados.",
+        "traits": "Aliado. R'hllor."
+    },
+    {
+        "code": "11009",
+        "flavor": "",
+        "name": "Feudo de las Tierras de la Tormenta",
+        "text": "<b>Acción:<b> arrodilla el Feudo de las Tierras de la Tormenta para trasladar 1 de Poder desde un Personaje o Lugar hasta la carta de Facción de su propietario.\n+1 de Oro.",
+        "traits": "Poniente."
+    },
+    {
+        "code": "11010",
+        "flavor": "",
+        "name": "Ser Robert Strong",
+        "text": "Sombra (5).\n<b>Reacción:</b> después de que Ser Robert Strong salga de las Sombras, mata a un Personaje arrodillado de tu elección cuyo coste impreso sea de 5 o menos.",
+        "traits": "Guardia Real. Caballero."
+    },
+    {
         "code": "11011",
         "flavor": "",
-        "name": "Beneath the Bridge of Dream",
-        "text": "Shadow (0).\n<b>Interrupt:</b> When you choose a plot card to reveal in the plot phase, instead shuffle your used pile into your plot deck and choose a plot card to reveal at random. Until the end of the round, increase the gold value on your revealed plot card by 2.",
+        "name": "Bajo el Puente del Sueño",
+        "text": "Sombra (0).\n<b>Interrupción:</b> cuando escojas una carta de Trama para mostrarla en la fase de Trama, en vez de eso mezcla tu pila de cartas usadas con tu mazo de Tramas, barájalo y muestra una carta de Trama elegida al azar. Hasta el final de la ronda, el valor de Oro de la carta de Trama mostrada aumenta en 2.",
+        "traits": ""
+    },
+    {
+        "code": "11012",
+        "flavor": "",
+        "name": "Saqueadores nocturnos",
+        "text": "Pillaje. Sombra (3).\n<b>Reacción:</b> después de que los Saqueadores nocturnos salgan de las Sombras, elige una carta que esté en la pila de descartes de un adversario. Ese jugador muestra su mano y descarta de ella todas las cartas que tengan el mismo coste impreso que la carta elegida.",
+        "traits": "Asaltante."
+    },
+    {
+        "code": "11013",
+        "flavor": "",
+        "name": "Tomar la iniciativa",
+        "text": "X es el número de adversarios que tengas.\n<b>Interrupción:</b> cuando termine la fase de Reclutamiento, te conviertes en el jugador inicial.",
+        "traits": ""
+    },
+    {
+        "code": "11014",
+        "flavor": "",
+        "name": "Aegon Targaryen",
+        "text": "Sombra (3).\n<b>Reacción:</b> después de que Aegon Targaryen entre en juego, busca en tu mazo un Personaje <i>Ejército</i> o <i>Mercenario</i>, ponlo en juego y baraja tu mazo. Al final de la fase, si esa carta está aún en juego, devuélvela a tu mano.",
+        "traits": "Lord."
+    },
+    {
+        "code": "11015",
+        "flavor": "\"Está aquí, Aegon ha sido instruido para reinar desde antes de que aprendiera a andar.\" <cite>Varys</cite>",
+        "name": "Regreso inesperado",
+        "text": "<b>Acción de Reto:</b> elige un Personaje de tu pila de descartes y ponlo en juego.",
         "traits": ""
     },
     {
         "code": "11016",
         "flavor": "",
         "name": "Ser Gerris Drinkwater",
-        "text": "Renown. Shadow (5).\n<b>Reaction:</b> After Ser Gerris Drinkwater comes out of shadows, choose a card in your plot deck and switch it with a card in your used pile.",
-        "traits": "Knight."
+        "text": "Renombre. Sombra (5).\n<b>Reacción:</b> después de que Ser Gerris Drinkwater salga de las Sombras, elige una carta de tu mazo de Tramas e intercámbiala por una carta de tu pila de cartas usadas.",
+        "traits": "Caballero."
     },
     {
         "code": "11017",
         "flavor": "",
-        "name": "The Shadow City",
-        "text": "Shadow (2).\nReduce the cost to marshal each of your cards into shadows by 1.\n<b>Challenges Action:</b> Kneel The Shadow City and discard 1 card from shadows to draw 2 cards.",
+        "name": "La ciudad de la sombra",
+        "text": "Sombra (2).\nReduce en 1 el coste para reclutar cada una de tus cartas en las Sombras.\n<b>Acción de Reto:</b> arrodilla La ciudad de la sombra y descarta 1 carta de las Sombras para robar 2 cartas.",
         "traits": "Dorne."
     },
     {
         "code": "11018",
         "flavor": "",
-        "name": "Nefarious Acolyte",
-        "text": "Shadow (5).\n<b>Action:</b> Kneel Nefarious Acolyte and pay 1 gold to choose a plot card. Until the end of the phase, treat it as if its printed text box were blank (except for <i>Traits</i>).",
+        "name": "Acólito malicioso",
+        "text": "Sombra (5).\n<b>Acción:</b> arrodilla al Acólito malicioso y paga 1 de Oro para elegir una carta de Trama. Hasta el final de la fase, se trata como si su texto de reglas impreso estuviese en blancl (excepto los <i>Rasgos</i>).",
         "traits": "Maester."
+    },
+    {
+        "code": "11019",
+        "flavor": "Antes del mediodía había ya una docena de piras. Las columnas de humo negro se alzaban para hollar el despiadado cielo azul.",
+        "name": "Quemar a los muertos",
+        "text": "<b>Acción:</b> retira del juego a todos los Personajes no únicos que haya en la pila de muertos de cada jugador. Roba 1 carta.",
+        "traits": ""
+    },
+    {
+        "code": "11020",
+        "flavor": "",
+        "name": "Intercambio de información",
+        "text": "<b>Cuando se muestre esta carta:</b> elige un adversario y muestra las 10 primeras cartas de tu mazo. Ese adversario elige 1 Personaje, 1 Lugar, 1 Accesorio y 1 Evento que hayan sido mostrados de este modo, si puede, y los añade a tu mano. Baraja tu mazo.",
+        "traits": "Reino. Verano."
     }
 ]

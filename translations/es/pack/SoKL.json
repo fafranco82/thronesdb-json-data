@@ -1,0 +1,23 @@
+[
+    {
+        "code": "11044",
+        "flavor": "",
+        "name": "Growing Ambition",
+        "text": "Shadow (X).\n<b>Challenges Action:</b> Search your deck for X different cards and place them in your discard pile. Shuffle your deck. Then, choose an opponent. Return X cards of that opponent's choice from your discard pile to your hand.",
+        "traits": ""
+    },
+    {
+        "code": "11057",
+        "flavor": "The High Sparrow's ragged army.",
+        "name": "Poor Fellows",
+        "text": "No attachments.\n<b>Reaction:</b> After you win a challenge in which Poor Fellows is attacking, the losing opponent chooses, either: Poor Fellows gains 1 power, or you draw 1 card.",
+        "traits": "Army. The Seven."
+    },
+    {
+        "code": "11059",
+        "flavor": "",
+        "name": "Glass Candle",
+        "text": "Character you control only.\nIf attached character has the <i>Maester</i> trait, it gains insight.\n<b>Challenges Action:</b> Kneel Glass Candle to look at the top card of any player's deck. You may discard that card.",
+        "traits": "Item. The Citadel."
+    }
+]
