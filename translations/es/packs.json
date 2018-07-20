@@ -20,6 +20,10 @@
         "name": "Llamada a las armas"
     },
     {
+        "code": "DitD",
+        "name": "Cuchillos en la oscuridad"
+    },
+    {
         "code": "FFH",
         "name": "Por el honor de la familia"
     },
@@ -40,6 +44,10 @@
         "name": "La Casa de las Espinas"
     },
     {
+        "code": "IDP",
+        "name": "En el reñidero de Daznak"
+    },
+    {
         "code": "JtO",
         "name": "Viaje a Antigua"
     },
@@ -50,6 +58,10 @@
     {
         "code": "LoCR",
         "name": "Leones de Roca Casterly"
+    },
+    {
+        "code": "MoD",
+        "name": "Música de dragones"
     },
     {
         "code": "NMG",
@@ -69,7 +81,7 @@
     },
     {
         "code": "SoKL",
-        "name": "Streets of King's Landing"
+        "name": "Las calles de Desembarco del Rey"
     },
     {
         "code": "TAK",

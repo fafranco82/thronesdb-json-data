@@ -1,30 +1,143 @@
 [
     {
         "code": "11021",
-        "flavor": "\"The best pie you have ever tasted, my lords... Wash it down with Arbor gold and savor every bite. I know I shall.\"",
+        "flavor": "\"Jamás habréis probado una tarta mejor, mis señores… Regadla con dorado del Rejo y saboread hasta la última miga, como voy a hacer yo.\"",
         "name": "Wyman Manderly",
-        "text": "<b>Action:</b> Sacrifice a character.\n<b>Reaction:</b> After 1 or more characters you control are sacrificed or killed, stand Wyman Manderly and draw 1 card. (Limit 3 times per round.)",
-        "traits": "House Manderly. Lord."
+        "text": "<b>Acción:</b> sacrifica un Personaje.\n<b>Reacción:</b> después de que al menos 1 Personaje que controles muera o sea sacrificado, pon en pie a Wyman Manderly y roba 1 carta. (Límite de 3 veces por ronda.)",
+        "traits": "Casa Manderly. Lord."
+    },
+    {
+        "code": "11022",
+        "flavor": "",
+        "name": "Código de honor",
+        "text": "Durante restos [military], el Personaje vinculado recibe un +2 a su FUE.\nEl Personaje vinculado no puede ser declarado como atacante ni como defensor en retos [intrigue].",
+        "traits": "Estado."
     },
     {
         "code": "11023",
-        "flavor": "\"At Highgarden we have many spiders amongst the flowers. So long as they keep to themselves we let them spin their little webs, but if they get underfoot we step on them.\"",
-        "name": "The Queen of Thorns",
-        "text": "Shadow (4). Stealth.\n<b>Reaction:</b> After you win a challenge in which The Queen of Thorns is participating, choose a card you control in shadows and put it into play.",
+        "flavor": "\"En Altojardín tenemosmuchas arañas entre las flores. Mientras se ocupan de sus asuntos, las dejamos tejer sus telas, pero si se meten bajo nuestro pie, las pisamos.\"",
+        "name": "La Reina de las Espinas",
+        "text": "Sombra (4). Sigilo.\n<b>Reacción:</b> después de que ganes un reto en el que esté participando La Reina de las Espinas, elige una carta que controles en las Sombras y ponla en juego.",
         "traits": "Lady."
     },
     {
+        "code": "11024",
+        "flavor": "",
+        "name": "Los bajos fondos de Antigua",
+        "text": "Sombra (2).\n<b>Reacción:</b> después de que una carta que controles salga de las Sombras, mira las 3 primeras cartas de tu mazo. Añade 1 a tu mano, coloca 1 en la parte inferior de tu mazo y coloca la otra en la parte superior de tu mazo. (Límite de 1 vez por fase.)",
+        "traits": "Antigua."
+    },
+    {
+        "code": "11025",
+        "flavor": "",
+        "name": "Mayordomo ingenioso",
+        "text": "Sombra (3).\nMientras seas el jugador defensor, el Mayordomo ingenioso gana un icono [military] y un icono [power].",
+        "traits": "Mayordomo."
+    },
+    {
+        "code": "11026",
+        "flavor": "",
+        "name": "El Muro",
+        "text": "Cada Personaje que controles pasa a pertenecer a la facción [thenightswatch] y deja de pertenecer a todas las demás facciones.\n<b>Acción:</b> arrodilla El Muro para elegir a un adversario. Pon en juego controlado por ti un Personaje válido elegido por ese jugador desde su pila de descartes.",
+        "traits": "El Norte."
+    },
+    {
         "code": "11027",
-        "flavor": "\"Feel free to perish as you wish, Humfrey... Myself, I would sooner live to see another spring.\"",
+        "flavor": "\"Sois libre de perecer como os plazca, Humfrey. Yo, por mi parte, preferiría vivir para ver una nueva primavera.\"",
         "name": "Ser Justin Massey",
-        "text": "While you control a <i>King</i> character, Ser Justin Massey gains renown.\n<b>Reaction:</b> After a [baratheon] character gains power, stand it. (Limit once per phase.)",
-        "traits": "Knight."
+        "text": "Mientras controles un Personaje <i>Rey</i>, Ser Justin Massey gana Renombre.\n<b>Reacción:</b> después de que un Personaje [baratheon] gane Poder, ponlo en pie. (Límite de 1 vez por fase.)",
+        "traits": "Caballero."
     },
     {
         "code": "11028",
-        "flavor": "A trail of broken wayns and frozen corpses stretched back behind them, buried beneath the blowing snows.",
-        "name": "March on Winterfell",
-        "text": "Play only during a challenge you initiated.\n<b>Action:</b> End the challenge with no winner or loser. You may initiate an additional [power] challenge this phase.",
+        "flavor": "…habían recorrido menos de la mitad del camino, dejando atrás un rastro de carromatos destrozados y cadáveres congelados que la nieve se iba encargando de enterrar.",
+        "name": "Marcha sobre Invernalia",
+        "text": "Juega esta carta sólo durante un reto que hayas iniciado tú.\n<b>Acción:</b> finaliza el reto sin vencedor ni perdedor. Puedes iniciar un reto [power] adicional en esta fase.",
         "traits": ""
+    },
+    {
+        "code": "11029",
+        "flavor": "",
+        "name": "Penny",
+        "text": "Sombra (1).\nMientras controles más cartas en las Sombras que cada adversario, Penny gana un icono [intrigue] y Sigilo.",
+        "traits": "Bufón."
+    },
+    {
+        "code": "11030",
+        "flavor": "\"Se dice que en el corazón de Roca Casterly sólo hay piedras.\" <cite>Catelyn Stark</cite>",
+        "name": "Las entrañas de Roca Casterly",
+        "text": "<b>Reacción:</b> después de que una carta que controles salga de las Sombras, elige entre ganar 2 de Oro o robar 1 carta. (Límite de 1 vez por fase.)",
+        "traits": "Tierras de Occidente."
+    },
+    {
+        "code": "11031",
+        "flavor": "Cuando cayó, la hija de Hagen se arrodilló junto a él, le cogió la espada, mató al segundo y se levantó de nuevo, llena de sangre y barro, con la larga cabellera roja suelta, dispuesta a entrar en combate.",
+        "name": "La hija de Hagen",
+        "text": "Sombra (2).<b>Interrupción:</b> cuando La hija de Hagen vaya a morir, sálvala y devuélvela a las Sombras.",
+        "traits": "Hijo del Hierro."
+    },
+    {
+        "code": "11032",
+        "flavor": "",
+        "name": "\"Lluvia de acero\"",
+        "text": "Sombra (2).\n<b>Acción:</b> sacrifica cualquier número de Lugares [greyjoy]. Por cada Lugar sacrificado, busca en tu mazo un Lugar [greyjoy] distinto que tenga un coste impreso igual o inferior y pono en juego. Baraja tu mazo.",
+        "traits": "Canción."
+    },
+    {
+        "code": "11033",
+        "flavor": "\"Todo hombre debe morir, y no sirve de nada regodearse pensando en la muerte. Yo prefiero tomar lo que me da cada día.\"",
+        "name": "Hizdahr zo Loraq",
+        "text": "<b>Acción:</b> descarta 1 carta de tu mano para reducir en el 3 coste de la siguiente carta que reclutes, introduzcas mediante Emboscada o saques de las Sombras en esta fase. (Límite de 1 vez por fase.)",
+        "traits": "Rey."
+    },
+    {
+        "code": "11034",
+        "flavor": "Mereen siempre sería la ciudad de la Arpía…",
+        "name": "Meereen",
+        "text": "<b>Acción:</b> arrodilla Meereen para poner boca abajo todas las cartas que tengas en la mano, colocarlas debajo de Meereen y robar 3 cartas. Al final de la fase, o si Meereen abandona el juego, descarta tu mano y devuelve a ella todas las cartas que colocaste debajo de Meereen.",
+        "traits": "Meereen."
+    },
+    {
+        "code": "11035",
+        "flavor": "",
+        "name": "Dama de los venenos",
+        "text": "Sombra (2).\n<b>Reacción:</b> después de que pierdas un reto en el que la Dama de los venenos esté participando, sacrifícala para elegir un Personaje participante que tenga menos de 2 iconoes de reto y devolverlo a la mano de su propietario.",
+        "traits": "Bastardo. Serpiente de arena."
+    },
+    {
+        "code": "11036",
+        "flavor": "",
+        "name": "Servir. Obedecer. Proteger.",
+        "text": "Juega esta carta sólo si has perdido un reto como jugador defensor en esta fase.\n<b>Reacción:</b> después de que un adversario inicie un reto contra ti, devuelve un Personaje [martell] a tu mano para poner en juego desde tu mano un Personaje [martell] distinto que tenga un coste impreso de 5 o menos.",
+        "traits": ""
+    },
+    {
+        "code": "11037",
+        "flavor": "",
+        "name": "Tycho Nestoris",
+        "text": "No puedes ganar la partida.\n<b>Acción:</b> paga 6 de Oro para tratar a Tycho Nestoris como si su texto de reglasa impreso estuviese en blanco (excepto los <i>Rasgos</i>) hasta el final de la fase.",
+        "traits": "Aliado."
+    },
+    {
+        "code": "11038",
+        "flavor": "",
+        "name": "Puertas de la ciudad",
+        "text": "Limitada.\n<b>Acción:</b> paga 1 de Oro y descarta Puertas de la ciudad desde tu mano para robar 1 carta.\n+1 Oro.",
+        "traits": "Desembarco del Rey"
+    },
+    {
+        "code": "11039",
+        "designer": "Carta diseñada por Floran Mass, campeón de la Justa Europea de 2016.",
+        "flavor": "",
+        "name": "Comerciar con Qohor",
+        "text": "Mientras no controles ningún Accesorio, aumenta en 1 el valor de Oro de la carta de Trama mostrada mostrada de cada adversario.\n<b>Reacción:</b> después de que se aplique el efecto de Conquista de un reto que hayas ganado tú, sacrifica un Accesorio para buscar en tu mazo un Accesorio distinto que tenga un coste impreso igual o inferior y ponerlo en juego.",
+        "traits": "Estandarte."
+    },
+    {
+        "code": "11040",
+        "flavor": "",
+        "name": "Colerina sangrienta",
+        "text": "No se puede salvar a ningún Personaje.",
+        "traits": "Augurio."
     }
 ]

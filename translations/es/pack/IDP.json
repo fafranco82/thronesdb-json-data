@@ -1,0 +1,44 @@
+[
+    {
+        "code": "11085",
+        "flavor": "That night, Three-Finger Hobb cooked the boys a special meal to mark the occasion.",
+        "name": "Three-Finger Hobb",
+        "text": "No attachments except <i>Weapon</i>.\n<b>Reaction:</b> After you check reserve, if your hand size is lower than your reserve value, draw 2 cards.",
+        "traits": "Steward."
+    },
+    {
+        "code": "11087",
+        "flavor": "",
+        "name": "Storm's End Maester",
+        "text": "<b>Challenges Action:</b> Kneel Storm's End Maester to choose an opponent. If you have more power on your faction card than that player, draw ? cards.",
+        "traits": "Maester."
+    },
+    {
+        "code": "11092",
+        "flavor": "She would need that long to make repairs; the stroms had left her little more than a hulk.",
+        "name": "Refurbished Hulk",
+        "text": "+1 Income.\n+1 Initiative.",
+        "traits": "Warship."
+    },
+    {
+        "code": "11093",
+        "flavor": "",
+        "name": "Drogon",
+        "text": "Ambush (6). No attachments.\n<b>Reaction:</b> After you win a challenge in which Drogon is attacking, choose a character controlled by the losing opponent. Until the end of the phase, that character gets -4 STR and is killed if its STR is 0.",
+        "traits": "Dragon."
+    },
+    {
+        "code": "11094",
+        "flavor": "",
+        "name": "In Daznak's Pit",
+        "text": "Shadow (3).\n<b>Interrupt:</b> When the challenges phase ends, stand each character. Following this phase, there is an additional challenges phase. (Max 1 per round.)",
+        "traits": ""
+    },
+    {
+        "code": "11096",
+        "flavor": "\"My father is very good at doing nothing.\" <cite>Arianne Martell</cite>",
+        "name": "He Calls It Thinking",
+        "text": "<b>Interrupt:</b> When the effects of an opponent's non-agenda, non-plot triggered ability would initiate, cancel those effects unless that player pays 1 gold.",
+        "traits": ""
+    }
+]

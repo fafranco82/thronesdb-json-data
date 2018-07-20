@@ -1,0 +1,37 @@
+[
+    {
+        "code": "11062",
+        "flavor": "",
+        "name": "Shaggydog",
+        "text": "[stark] character you control only.\n<b>Reaction:</b> After you win a challenge in which attached character is attacking, the losing opponent must choose and kill a defending character.\n<b>Action:</b> Pay 1 gold to attach Shaggydog to a different character. (Limit once per phase.)",
+        "traits": "Direwolf."
+    },
+    {
+        "code": "11065",
+        "flavor": "",
+        "name": "Jon Snow",
+        "text": "While you control a:\n- <i>Builder</i> character, Jon Snow gains stealth.\n- <i>Ranger</i> character, Jon Snow gains intimidate.\n- <i>Steward</i> character, Jon Snow gains insight.",
+        "traits": "Bastard. Commander. Lord."
+    },
+    {
+        "code": "11066",
+        "flavor": "",
+        "name": "Lord Commander",
+        "text": "[thenightswatch] character with printed cost 5 or higher only.\n<b>Reaction:</b> After you win a challenge in which you control a participating [thenightswatch] character, attached character gains 1 power.",
+        "traits": "Title."
+    },
+    {
+        "code": "11070",
+        "flavor": "",
+        "name": "Clever Feint",
+        "text": "<b>Action:</b> Kneel your faction card to choose any number of cards you control with shadow. Return each of those cards to shadows.",
+        "traits": ""
+    },
+    {
+        "code": "11071",
+        "flavor": "",
+        "name": "Rhaegal",
+        "text": "Ambush (5). No attachments.\n<b>Reaction:</b> After an opponent's character is killed by a card effect, stand Rhaegal.",
+        "traits": "Dragon."
+    }
+]

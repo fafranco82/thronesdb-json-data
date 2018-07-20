@@ -7,6 +7,13 @@
         "traits": ""
     },
     {
+        "code": "11049",
+        "flavor": "",
+        "name": "Catspaw",
+        "text": "Shadow (2).\n<b>Reaction:</b> After Catspaw comes out of shadows, pay X gold to choose another character with printed cost X or lower and return it to its owner's hand.",
+        "traits": "Ally."
+    },
+    {
         "code": "11057",
         "flavor": "The High Sparrow's ragged army.",
         "name": "Poor Fellows",
