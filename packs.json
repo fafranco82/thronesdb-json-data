@@ -291,7 +291,7 @@
         "cgdb_id": 32,
         "code": "TMoW",
         "cycle_code": "dos",
-        "date_release": null,
+        "date_release": "2018-07-05",
         "name": "The March on Winterfell",
         "position": 2,
         "size": 20
@@ -303,6 +303,33 @@
         "date_release": null,
         "name": "Streets of King's Landing",
         "position": 3,
+        "size": 20
+    },
+    {
+        "cgdb_id": 34,
+        "code": "MoD",
+        "cycle_code": "dos",
+        "date_release": null,
+        "name": "Music of Dragons",
+        "position": 4,
+        "size": 20
+    },
+    {
+        "cgdb_id": 35,
+        "code": "IDP",
+        "cycle_code": "dos",
+        "date_release": null,
+        "name": "In Daznak's Pit",
+        "position": 5,
+        "size": 20
+    },
+    {
+        "cgdb_id": 36,
+        "code": "DitD",
+        "cycle_code": "dos",
+        "date_release": null,
+        "name": "Daggers in the Dark",
+        "position": 6,
         "size": 20
     }
 ]
