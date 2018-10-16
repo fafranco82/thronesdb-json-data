@@ -1,30 +1,143 @@
 [
     {
+        "code": "11041",
+        "flavor": "",
+        "name": "Leal a los Umber",
+        "text": "<b>Reacción:</b> después de que el Leal a los Umber entre en juego, roba 2 cartas.\n<b>Interrupción obligada:</b> cuando el Leal a los Umber abandone el juego, elige 2 cartas de tu mano y descártalas.",
+        "traits": "Casa Umber."
+    },
+    {
+        "code": "11042",
+        "flavor": "Invernalia era el corazón del Norte, pero Puerto Blanco era la boca.",
+        "name": "Puerto Blanco",
+        "text": "<b>Reacción:</b> después de que ganes un reto, muestra las 2 primeras cartas de tu mazo. El adversario derrotado elige 1 de esas cartas. Añade esa carta a tu mano y coloca la otra en la parte inferior de tu mazo.",
+        "traits": "Casa Manderly. El Norte."
+    },
+    {
+        "code": "11043",
+        "flavor": "",
+        "name": "Leo el Vago",
+        "text": "Sombra (2).\n<b>Reacción:</b> después de que Leo el Vago salga de las Sombras, elige a un jugador. Coge cualquier número de Eventos de la pila de descartes de ese jugador, añádelos a su mazo y barájalo.",
+        "traits": "Maestre."
+    },
+    {
         "code": "11044",
         "flavor": "",
-        "name": "Growing Ambition",
-        "text": "Shadow (X).\n<b>Challenges Action:</b> Search your deck for X different cards and place them in your discard pile. Shuffle your deck. Then, choose an opponent. Return X cards of that opponent's choice from your discard pile to your hand.",
+        "name": "Ambición insaciable",
+        "text": "Sombra (X).\nAcción de Reto: busca en tu mazo X cartas distintas y colócalas en tu pila de descartes. Baraja tu mazo. Luego elige a un adversario. Devuelve a tu mano X cartas de tu pila de descartes elegidas por ese adversario.",
         "traits": ""
+    },
+    {
+        "code": "11045",
+        "flavor": "",
+        "name": "Explorador ingenuo",
+        "text": "Sin Accesorios excepto <i>Arma</i>.\nMientras haya una carta en las Sombras, el Explorador ingenuo no puede ser declarado como defensor.",
+        "traits": "Aliado. Explorador."
+    },
+    {
+        "code": "11046",
+        "flavor": "",
+        "name": "Pico de minero",
+        "text": "Sólo Personajes <i>Constructor</i> o <i>Mayordomo</i>.\nEl Personaje vinculado recibe un +1 a su FUE.",
+        "traits": "Objeto. Arma."
+    },
+    {
+        "code": "11047",
+        "flavor": "",
+        "name": "Tripulación de la Valyria",
+        "text": "Sigilo.\nPuedes reclutar o jugar cartas vinculadas boca abajo a la Tripulación de la Valyria como si estuvieran en tu mano.\n<b>Reacción:</b> después de que ganes un reto en el que esté atacando la Tripulación de la Valyria, vincula boca abajo la primera carta del mazo del adversario derrotado a la Tripulación de la Valyria, controlada por ti, como un Accesorio con la palabre clave Terminal.",
+        "traits": "Mercenario. Contrabandista."
+    },
+    {
+        "code": "11048",
+        "flavor": "El agua de la bahía Aguasnegras estaba agitada y revuelta; se veían cabrillas por doquier.",
+        "name": "Bahía Aguasnegras",
+        "text": "<b>Reacción:</b> después de que empiece la fase de Reto, arrodilla Bahía Aguasnegras para elegir un adversario. Roba 1 carta por cada Personaje arrodillado que controle ese jugador.",
+        "traits": "Poniente."
     },
     {
         "code": "11049",
         "flavor": "",
-        "name": "Catspaw",
-        "text": "Shadow (2).\n<b>Reaction:</b> After Catspaw comes out of shadows, pay X gold to choose another character with printed cost X or lower and return it to its owner's hand.",
-        "traits": "Ally."
+        "name": "Esbirro",
+        "text": "Sombra (2).\n<b>Reacción:</b> después de que el Esbirro salga de las Sombras, paga X de Oro para elegir otro Personaje que tenga un coste impreso de X o menos y devolverlo a la mano de su propietario.",
+        "traits": "Aliado."
+    },
+    {
+        "code": "11050",
+        "flavor": "",
+        "name": "Mina de oro",
+        "text": "<b>Acción:</b> arrodilla la Mina de oro y descarta 1 carta de tu mano para robar 1 carta.\n+1 Oro.",
+        "traits": "Tierras de Occidente."
+    },
+    {
+        "code": "11051",
+        "designer": "Carta diseñada por Vincen Teulé, campeón europeo de Contienda en 2013.",
+        "flavor": "",
+        "name": "Fanático del Dios Ahogado",
+        "text": "<b>Acción:</b> mata a un Personaje para poner en juego al Fanático del Dios Ahogado desde tu pila de muertos. (Límite de 1 vez por ronda.)\n<b>Interrupción:</b> cuando vayan a iniciarse los efectos de una capacidad activada de un Personaje de un adversario, coloca al Fanático del Dios Ahogado en tu pila de muertos desde tu mano para anular esos efectos.",
+        "traits": "Dios Ahogado."
+    },
+    {
+        "code": "11052",
+        "flavor": "",
+        "name": "Atadragones",
+        "text": "Sólo Personajes que tú controles.\nEl Personaje vinculado gana Intimidación.\n<b>Reacción:</b> después de que ganes la Dominación, mata al Personaje vinculado para elegir entre: tomar el control de un Personaje <i>Dragón</i> de tu elección, O BIEN buscar entre las 10 primeras cartas de tu mazo un Personaje [greyjoy], ponerlo en juego y barajar tu mazo.",
+        "traits": "Objeto."
+    },
+    {
+        "code": "11053",
+        "flavor": "",
+        "name": "Asesino a sueldo",
+        "text": "Sombra (2).\n<b>Reacción:</b> después de que el Asesino a sueldo salga de las Sombras, mira una carta que esté en las Sombras. Si esa carta es un Personaje, puedes colocarla en la pila de muertos de su propietario.",
+        "traits": "Mercenario."
+    },
+    {
+        "code": "11054",
+        "flavor": "Todavía confiaba en que fuesen en pos de ella. Quizá ser Barristan, que era el primero de su Guardia Real y había jurado defenderla con su propia vida.",
+        "name": "Guardia de la Reina",
+        "text": "Sólo Personajes que no sean <i>Lady</i>. Sombra (2).\n<b>Acción:</b> descarta 1 carta de tu mano para poner en pie al Personaje vinculado. (Límite de 3 veces por ronda.)",
+        "traits": "Título."
+    },
+    {
+        "code": "11055",
+        "flavor": "\"Yo siempre estoy preparado para luchar.\"",
+        "name": "Ser Archibald Yronwood",
+        "text": "Sombra (4). Sin Accesorios excepto <i>Arma</i>.\n<b>Reacción:</b> después de que pierdas la Dominación, el adversario vencedor debe matar a un Personaje que controle de su elección.",
+        "traits": "Casa Yronwood. Caballero."
+    },
+    {
+        "code": "11056",
+        "flavor": "…en la boca del Sangreverde, donde los huérfanos del río acudían a comerciar con las carracas, las cocas y las galeras procedentes de la otra orilla del mar Angosto.",
+        "name": "Puerto del Mar del Verano",
+        "text": "+1 Oro. +1 Reserva.",
+        "traits": "Dorne."
     },
     {
         "code": "11057",
-        "flavor": "The High Sparrow's ragged army.",
-        "name": "Poor Fellows",
-        "text": "No attachments.\n<b>Reaction:</b> After you win a challenge in which Poor Fellows is attacking, the losing opponent chooses, either: Poor Fellows gains 1 power, or you draw 1 card.",
-        "traits": "Army. The Seven."
+        "flavor": "El andrajoso ejército del Gorrión Supremo.",
+        "name": "Clérigos humildes",
+        "text": "Sin Accesorios.\n<b>Reacción:</b> después de que ganes un reto en el que los Clérigos humildes estén atacando, el adversario derrotado elige una de estas opciones: los Clérigos humildes ganan 1 de Poder, o bien tú robas 1 carta.",
+        "traits": "Ejército. Los Siete."
+    },
+    {
+        "code": "11058",
+        "flavor": "",
+        "name": "Desembarco del Rey",
+        "text": "Una vez por fase de Reclutamiento, puedes reclutar un Lugar desde tu pila de descartes como si estuviese en tu mano.\n<b>Acción de Reto:</b> arrodilla Desembarco del Rey y descarta 1 Lugar de tu mano para robar 1 carta.",
+        "traits": "Desembarco del Rey"
     },
     {
         "code": "11059",
         "flavor": "",
-        "name": "Glass Candle",
-        "text": "Character you control only.\nIf attached character has the <i>Maester</i> trait, it gains insight.\n<b>Challenges Action:</b> Kneel Glass Candle to look at the top card of any player's deck. You may discard that card.",
-        "traits": "Item. The Citadel."
+        "name": "Vela de cristal",
+        "text": "Sólo Personajes que tú controles.\nSi el Personaje vinculado posee el rasgo <i>Maestre</i>, gana Perspicacia.\n<b>Acción de Reto:</b> arrodilla la Vela de cristal para mirar la primera carta del mazo de cualquier jugador. Puedes descartar esa carta.",
+        "traits": "Objeto. La Ciudadela."
+    },
+    {
+        "code": "11060",
+        "flavor": "",
+        "name": "Tregua frágil",
+        "text": "Ningún jugador puede ganar Poder para su facción, excepto durante los retos.\n<b>Reacción obligada:</b> después de que se inicie un reto, traslada 1 de Poder desde la carta de Facción del jugador atacante hasta la carta de Facción del jugador defensor.",
+        "traits": "Edicto."
     }
 ]

@@ -1,37 +1,143 @@
 [
     {
+        "code": "11061",
+        "designer": "Carta diseñada por Andrea Gualdoni, campeón del torneo del Casillo Stahleck en 2010.",
+        "flavor": "",
+        "name": "Meera Reed",
+        "text": "Sombra (1). Sigilo.\n<b>Reacción:</b> después de que un Personaje [stark] que controles sea sacrificado, devuelve a Meera Reed a las Sombras.\n<b>Reacción:</b> después de que Meera Reed salga de las Sombras, elige un Personaje. Hasta el final de la fase, se trata como si su texto de reglas impreso estuviese en blanco (excepto los <i>Rasgos</i>).",
+        "traits": "Casa Reed. Lady."
+    },
+    {
         "code": "11062",
         "flavor": "",
-        "name": "Shaggydog",
-        "text": "[stark] character you control only.\n<b>Reaction:</b> After you win a challenge in which attached character is attacking, the losing opponent must choose and kill a defending character.\n<b>Action:</b> Pay 1 gold to attach Shaggydog to a different character. (Limit once per phase.)",
-        "traits": "Direwolf."
+        "name": "Peludo",
+        "text": "Sólo Personajes [stark] que tú controles.\n<b>Reacción:</b> después de que ganes un reto en el que esté atacando el Personaje vinculado, el adversario derrotado debe matar a un Personaje defensor de su elección.\n<b>Acción:</b> paga 1 de Oro para vincular a Peludo a un Personaje diferente. (Límite de 1 vez por fase.)",
+        "traits": "Lobo huargo."
+    },
+    {
+        "code": "11063",
+        "flavor": "Ser Mark Mullendore tenía un mono blanco y negro y le daba de comer de su plato.",
+        "name": "Ser Mark Mullendore",
+        "text": "<b>Reacción:</b> después de que ganes un reto en el que Ser Mark Mullendore esté participando, muestra la primera carta de la parte superior de tu mazo. Puedes poner en juego esa carta. Si lo haces, coloca a Ser Mark Mullendore en la parte superior de tu mazo (no puede salvarse).",
+        "traits": "Caballero."
+    },
+    {
+        "code": "11064",
+        "flavor": "",
+        "name": "Lazos caballerescos",
+        "text": "<b>Acción:</b> elige a un Personaje <i>Caballero</i> participante que controles. Ponlo en pie y retíralo del reto. Luego puedes arrodillar a otro Personaje <i>Caballero</i> que controles para hacer que participe en el reto en tu bando.",
+        "traits": ""
     },
     {
         "code": "11065",
-        "flavor": "",
-        "name": "Jon Snow",
-        "text": "While you control a:\n- <i>Builder</i> character, Jon Snow gains stealth.\n- <i>Ranger</i> character, Jon Snow gains intimidate.\n- <i>Steward</i> character, Jon Snow gains insight.",
-        "traits": "Bastard. Commander. Lord."
+        "flavor": "\"Soy lord comandante porque me eligieron mis hermanos.\"",
+        "name": "Jon Nieve",
+        "text": "Mientras controles:\n- un Personaje <i>Constructor</i>, Jon Nieve gana Sigilo.\n- un Personaje <i>Explorador</i>, Jon Nieve gana Intimidación\n- un Personaje <i>Mayordomo</i>, Jon Nieve gana Perspicacia.",
+        "traits": "Bastardo. Comandante. Lord."
     },
     {
         "code": "11066",
         "flavor": "",
-        "name": "Lord Commander",
-        "text": "[thenightswatch] character with printed cost 5 or higher only.\n<b>Reaction:</b> After you win a challenge in which you control a participating [thenightswatch] character, attached character gains 1 power.",
-        "traits": "Title."
+        "name": "Lord comandante",
+        "text": "Sólo Personajes [thenightswatch] con un coste impreso de 5 o más.\n<b>Reacción:</b> después de que ganes un reto en el que controles un Personaje [thenightswatch] participante, el Personaje vinculado gana 1 de Poder.",
+        "traits": "Título."
+    },
+    {
+        "code": "11067",
+        "flavor": "",
+        "name": "Shireen Baratheon",
+        "text": "Sombra (3).\n<b>Acción:</b> durante un reto en el que Shireen Baratheon esté participando, elige un Personaje participante. Ni ese Personaje ni Shireen Baratheon aportarán su FUE al reto. (Límite de 1 vez por reto.)",
+        "traits": "Lady."
+    },
+    {
+        "code": "11068",
+        "flavor": "",
+        "name": "Posición privilegiada",
+        "text": "Juega esta carta sólo si no has perdido ningún reto [power] en esta ronda.\n<b>Interrupción:</b> cuando vayan a iniciarse los efectos de un Evento o capacidad activada de Lugar de un adversario, anula esos efectos.",
+        "traits": ""
+    },
+    {
+        "code": "11069",
+        "flavor": "",
+        "name": "Recaudador del diezmo",
+        "text": "<b>Reacción:</b> después de que recibas ingresos, paga 2 de Oro para que el Recaudador del diezmo gane 1 de Poder.\n+1 Oro.",
+        "traits": "Aliado. Los Siete."
     },
     {
         "code": "11070",
         "flavor": "",
-        "name": "Clever Feint",
-        "text": "<b>Action:</b> Kneel your faction card to choose any number of cards you control with shadow. Return each of those cards to shadows.",
+        "name": "Treta astuta",
+        "text": "<b>Acción:</b> arrodilla tu carta de Facción para elegir cualquier número de cartas que controles con la palabra clava Sombra. Devuelve todas esas cartas a las Sombras.",
         "traits": ""
     },
     {
         "code": "11071",
         "flavor": "",
+        "name": "Victarion Greyjoy",
+        "text": "<b>Acción de Reto:</b> arrodilla un Lugar <i>Barco de guerra</i> para elegir una de estas opciones:\n- arrodillar un Lugar de tu elección.\n- poner en pie a Victarion Greyjoy.\n- Victarion Greyjoy gana Renombre hasta el final del reto.",
+        "traits": "Capitán. Hijo del Hierro. Lord."
+    },
+    {
+        "code": "11072",
+        "flavor": "",
+        "name": "Fantasma Gris",
+        "text": "Sombra (2).\n<b>Acción:</b> arrodilla Fantasma Gris para elegir un Personaje (hasta 2 Personajes si Fantasma Gris ha salido de las Sombras en esta fase). Hasta el final de la fase, ninguno de los Personajes elegidos puede ser declarado como defensor.",
+        "traits": "Barco de guerra."
+    },
+    {
+        "code": "11073",
+        "flavor": "…hasta entonces, el dragón verde habría demostrado ser más peligroso que el blanco.",
         "name": "Rhaegal",
-        "text": "Ambush (5). No attachments.\n<b>Reaction:</b> After an opponent's character is killed by a card effect, stand Rhaegal.",
-        "traits": "Dragon."
+        "text": "Emboscada (5). Sin Accesorios.\n<b>Reacción:</b> después de que un Personaje de un adversario muera a causa del efecto de una carta, pon en pie a Rhaegal.",
+        "traits": "Dragón."
+    },
+    {
+        "code": "11074",
+        "flavor": "",
+        "name": "Mercado meereeno",
+        "text": "<b>Acción:</b> arrodilla el Mercado meereeno para elegir una carta de una pila de descartes y colocarla en la parte inferior del mazo de su propietario.\n+1 Oro.",
+        "traits": "Meereen."
+    },
+    {
+        "code": "11075",
+        "flavor": "",
+        "name": "Guardia de la casa Manwoody",
+        "text": "Mientras no seas el jugador inicial, ningún Personaje <i>Guardia</i> que controles se arrodillará al ser declarado como defensor.",
+        "traits": "Guardia. Casa Manwoody."
+    },
+    {
+        "code": "11076",
+        "flavor": "",
+        "name": "Misión en Essos",
+        "text": "Sombra (2).\n<b>Acción:</b> retira del juego boca abajo todas las cartas de tu mazo excepto la que esté en la parte inferior. Luego añade esa carta a tu pila de descartes, barájala para formar un nuevo mazo y roba 3 cartas.",
+        "traits": ""
+    },
+    {
+        "code": "11077",
+        "flavor": "Aquel gigante no probaba la carne, aunque cuando le daban una cesta de raíces parecía un monstruo por la forma en que trituraba cebollas enteras y hasta colinabos crudos entre sus enormes muelas cuadradas.",
+        "name": "Wun Wun",
+        "text": "Sin Accesorios excepto <i>Arma</i>.\n<b>Acción:</b> arrodilla a Wun Wun para hacer que participe en un reto en el que controles un Personaje <i>Salvaje</i> participante.",
+        "traits": "Gigante. Salvaje."
+    },
+    {
+        "code": "11078",
+        "flavor": "",
+        "name": "Moneda envenenada",
+        "text": "Sombra (0).\n<b>Reacción:</b> después de que ganes un reto sin oposición en el que controles un Personaje atacante con la palabra clave Sombra, pon una ficha de Veneno sobre un Personaje que no tenga Sombra controlado por el adversario derrotado. Al final de la fase, si ese Personaje aún tiene encima esa ficha de Veneno, quítasela y mata al Personaje. (Máximo 1 por reto.)",
+        "traits": ""
+    },
+    {
+        "code": "11079",
+        "flavor": "",
+        "name": "El Pueblo Libre",
+        "text": "Tu mazo de Tramas y tu mazo de robo solamente pueden contener cartas neutrales.\n<b>Reacción:</b> después de que se aplique el efecto de Conquista de un reto en el que controles un Personaje <i>Salvaje</i> atacante, arrodilla tu carta de Facción para aplicar el efecto de Conquista de otro tipo de reto.",
+        "traits": ""
+    },
+    {
+        "code": "11080",
+        "flavor": "",
+        "name": "Reserva de invierno",
+        "text": "Mientras Reserva de invierno esté en tu pila de cartas usadas, aumenta en 1 el valor de Oro y el valor de Reserva de tu carta de Trama de <i>Invierno</i> mostrada.",
+        "traits": "Reino. Invierno."
     }
 ]
