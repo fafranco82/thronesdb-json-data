@@ -30,7 +30,7 @@
     {
         "code": "06085",
         "flavor": "Aunque los salvajes hubiera sido ciento veinte, habría bastado con cuatro defensores para repelerlos con unas cuantas flechas bien dirigidas y tal vez un cubo de piedras.",
-        "name": "Defensor del Murp",
+        "name": "Defensor del Muro",
         "text": "Sin Accesorios excepto <i>Arma</i>.\nMientras el Defensor del Muro esté defendiendo, recibe un +2 a su FUE.",
         "traits": "Explorador."
     },

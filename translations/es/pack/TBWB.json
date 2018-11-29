@@ -16,7 +16,7 @@
     {
         "code": "06103",
         "flavor": "\"Mi señor padre siempre mantiene en la corte a bardos mucho mejores que este Mantecas, y hay flautistas, violinistas y también arpistas.\" <cite>Margaery Tyrell</cite>",
-        "name": "Jugalr de Altojardín",
+        "name": "Juglar de Altojardín",
         "text": "<b>Reacción:</b> después de que juegues un Evento de tipo <i>Canción</i>, ganas 1 de Oro. (Límite de 3 veces por ronda.)",
         "traits": "Juglar."
     },
