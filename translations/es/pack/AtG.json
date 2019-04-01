@@ -1,0 +1,142 @@
+[
+    {
+        "code": "13001",
+        "flavor": "\"Las Mormont somos cambiapieles. Nos convertimos en osas y buscamos machos en el bosque. Lo sabe todo el mundo.\"",
+        "name": "Alysane Mormont",
+        "text": "Sin Accesorios excepto <i>Armas</i>.\nMientras todos los Personajes que controles pertenezcan a la facción [stark], Alysane Mormont gana Sigilo durante los retos [military] y no se arrodilla al ser declarada como atacante en un reto [military].",
+        "traits": "Casa Mormont. Lady."
+    },
+    {
+        "code": "13002",
+        "flavor": "",
+        "name": "Puerta vieja",
+        "text": "Limitada.\n<b>Acción de Reto:</b> si todos los Personajes que controlas pertenecen a la facción [stark], sacrifica la Puerta Vieja para robar 2 cartas.\n+1 Oro.",
+        "traits": "Desembarco del Rey"
+    },
+    {
+        "code": "13003",
+        "flavor": "\"Cuando el sol se pone, no hay vela que pueda reemplazarlo.\"",
+        "name": "El Caballero de las Flores",
+        "text": "Sombra (5). Renombre.\n<b>Reacción:</b> después de que una carta que controles salga de las Sombras, pon en pie un Personajes <i>Guardia Real</i> de tu elección. (Límite de 2 veces por ronda.)",
+        "traits": "Guardia Real. Caballero."
+    },
+    {
+        "code": "13004",
+        "flavor": "",
+        "name": "Puerta de los Dioses",
+        "text": "Limitada.\n<b>Acción de Reto:</b> si controlas un Personaje con la puntuación más lata de FUE en juego, sacrifica la Puerta de los Dioses para robar 2 cartas.\n+1 Oro.",
+        "traits": "Desembarco del Rey. Los Siete."
+    },
+    {
+        "code": "13005",
+        "flavor": "",
+        "name": "Artesano envejecido",
+        "text": "Sin Accesorios.<b>Reacción:</b> después de que el Artesano envejecido entre en juego, busca entre las 10 primeras cartas de tu mazo un Lugar [thenightswatch] con un coste impreso de 2 o menos y ponlo en juego. Baraja tu mazo.",
+        "traits": "Constructor."
+    },
+    {
+        "code": "13006",
+        "flavor": "",
+        "name": "Callejón de Lecho de Pulgas",
+        "text": "Limitada.\n<b>Acción de Reclutamiento:</b> arrodilla y sacrifica el Callejón de Lecho de Pulgas para poner en juego desde tu mano un Personaje [thenightswatch] con un coste impreso de 3 o menos. Luego roba 1 carta.\n+1 Oro.",
+        "traits": "Desembarco del Rey."
+    },
+    {
+        "code": "13007",
+        "flavor": "",
+        "name": "Infiltrada de R'hllor",
+        "text": "<b>Acción de Dominación:</b> arrodilla a la Infiltrada de R'hllor para elegir un adversario. Cede el control de la Infiltrada de R'hllor a ese jugador y ganas 1 de Poder para tu facción.",
+        "traits": "R'hllor. Espía."
+    },
+    {
+        "code": "13008",
+        "flavor": "",
+        "name": "Puerta Real",
+        "text": "Limitada.\n<b>Acción de Reto:</b> si tienes 5 o más de Poder sobre tu carta de Facción, sacrifica la Puerta Real para robar 2 cartas.\n+1 Oro.",
+        "traits": "Desembarco del Rey."
+    },
+    {
+        "code": "13009",
+        "flavor": "",
+        "name": "Ser Mandon Moore",
+        "text": "Sombra (3).\n<b>Reacción:</b> después de que Ser Mandon Moore salga de las Sombras, elige un adversario. Ese jugador debe matar un Personaje de su elección que controle, a menos que elija 2 cartas de su mano y las descarte.",
+        "traits": "Guardia Real. Caballero."
+    },
+    {
+        "code": "13010",
+        "flavor": "",
+        "name": "Puerta del León",
+        "text": "Limitada.\n<b>Acción de Reto:</b> si controlas 2 o más cartas en las Sombras, sacrifica la Puerta del León para robar 2 cartas.\n+1 Oro.",
+        "traits": "Desembarco del Rey."
+    },
+    {
+        "code": "13011",
+        "flavor": "\"Las antiguas costumbres han muerto.\"",
+        "name": "Baelor Blacktyde",
+        "text": "Ningún adversario puede jugar copias de Eventos que estén en su pila de descartes.",
+        "traits": "Capitán. Los Siete."
+    },
+    {
+        "code": "13012",
+        "flavor": "",
+        "name": "Puerta de Hierro",
+        "text": "Limitada.\n<b>Acción de Reto:</b> si eres el jugador inicial, sacrifica la Puerta de Hierro para robar 2 cartas.\n+1 Oro.",
+        "traits": "Desembarco del Rey."
+    },
+    {
+        "code": "13013",
+        "flavor": "",
+        "name": "Viserion",
+        "text": "Emboscada (5). Sin Accesorios.\n<b>Reacción:</b> después de que ganes un reto en el que Viserion esté atacando, descarta 1 carta de tu mano para hacer que Viserion gane Intimidación hasta el final del reto.",
+        "traits": "Dragón."
+    },
+    {
+        "code": "13014",
+        "flavor": "",
+        "name": "Puerta del Dragón",
+        "text": "Limitada.\n<b>Acción de Reto:</b> si controlas 2 o más Accesorios, sacrifica la Puerta del Dragón para robar 2 cartas.\n+1 Oro.",
+        "traits": "Desembarco del Rey."
+    },
+    {
+        "code": "13015",
+        "flavor": "",
+        "name": "Escolta sureña",
+        "text": "Sombra (4).\n<b>Acción:</b> descarta otra carta de las Sombras para poner en juego la Escolta sureña desde las Sombras.",
+        "traits": "Aliado. Guardia."
+    },
+    {
+        "code": "13016",
+        "flavor": "",
+        "name": "Puerta del Río",
+        "text": "Limitada.\n<b>Acción de Reto:</b> si has perdido 2 o más retos en esta fase, sacrifica la Puerta del Río para robar 2 cartas.\n+1 Oro.",
+        "traits": "Desembarco del Rey."
+    },
+    {
+        "code": "13017",
+        "flavor": "",
+        "name": "Meñique",
+        "text": "Sombra (6). Sigilo.\n<b>Reacción:</b> después de que un Personaje que controles salga de las Sombras, coloca hasta 3 cartas de tu mano en la parte inferior de tu mazo, en el orden que prefieras. Luego roba ese mismo número de cartas. (Límite de 1 vez por ronda.)",
+        "traits": "Aliado. Lord. Consejo Privado."
+    },
+    {
+        "code": "13018",
+        "flavor": "",
+        "name": "Torre de la Espada Blanca",
+        "text": "Cada Personaje <i>Guardia Real</i> que controles recibe un +1 a su FUE.\nLos jugadores que no controlen ningún Personaje <i>Guardia Real</i> no pueden jugar más de 1 Evento en cada fase.",
+        "traits": "Desembarco del Rey."
+    },
+    {
+        "code": "13019",
+        "flavor": "",
+        "name": "Ciudad de secretos",
+        "text": "<b>Cuando se muestre esta carta:</b> cada jugador roba 2 cartas. Luego cada jugador que no tenga una carta de Trama <i>Ciudad</i> en su pila de cartas usadas elige 2 cartas de su mano y las descarta.",
+        "traits": "Ciudad."
+    },
+    {
+        "code": "13020",
+        "flavor": "",
+        "name": "A las puertas",
+        "text": "<b>Cuando se muestre esta carta:</b> busca en tu mazo un Lugar Limitado que tenga un coste impreso de 1 o menos, muéstralo y añádelo a tu mano (ponlo en juego en vez de añadirlo a tu mano si no hay ninguna carta de Trama <i>Ciudad</i> en tu pila de cartas usadas). Baraja tu mazo.",
+        "traits": "Ciudad. Reino."
+    }
+]

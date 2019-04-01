@@ -21,7 +21,11 @@
     },
     {
         "code": "isles",
-        "name": "Kings of the Isles"
+        "name": "Reyes de las Islas"
+    },
+    {
+        "code": "landing",
+        "name": "Desembarco del Rey"
     },
     {
         "code": "lions",

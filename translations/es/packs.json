@@ -4,8 +4,16 @@
         "name": "Todos los hombres son bufones"
     },
     {
+        "code": "AtG",
+        "name": "A las puertas"
+    },
+    {
         "code": "AtSK",
         "name": "A través de los Siete Reinos"
+    },
+    {
+        "code": "CoS",
+        "name": "Ciudad de secretos"
     },
     {
         "code": "CoW",
@@ -57,7 +65,7 @@
     },
     {
         "code": "KotI",
-        "name": "Kings of the Isles"
+        "name": "Reyes de las Islas"
     },
     {
         "code": "LoCR",
@@ -74,6 +82,10 @@
     {
         "code": "OR",
         "name": "La venganza de Oberyn"
+    },
+    {
+        "code": "PoS",
+        "name": "Nido de víboras"
     },
     {
         "code": "SAT",

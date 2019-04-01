@@ -3,71 +3,366 @@
         "code": "12001",
         "flavor": "",
         "name": "Balon Greyjoy",
-        "text": "Pillage. Renown.\n<b>Action:</b> Kneel your faction card to choose a card in an opponent's discard pile and put it into play under your control. At the end of the phase, shuffle that card into its owner's deck.",
-        "traits": "Ironborn. Lord."
+        "text": "Pillaje. Renombre.\n<b>Acción:</b> arrodilla tu carta de Facción para elegir una carta que esté en la pila de descartes de un adversario y ponerla en juego controlada por ti. Al final de la fase, devuelve esa carta al mazo de su propietario y barájalo.",
+        "traits": "Hijo del Hierro. Lord."
+    },
+    {
+        "code": "12002",
+        "flavor": "\"Tú, Pelomojado, sirves a un dios, pero yo he servido a diez mil. Desde Ib hasta Asshai, cuando los hombres avistaban mi barco… empiezan a rezar.\"",
+        "name": "Euron Ojo de Cuervo",
+        "text": "Intimidación.\n<b>Reacción:</b> después de que reclutes a Euron Ojo de Cuervo, busca el Silencio en tu mano, tu mazo y tu pila de descartes y ponlo en juego. Baraja tu mazo.",
+        "traits": "Capitán. Hijo del Hierro. Lord. Asaltante."
     },
     {
         "code": "12003",
-        "flavor": "\"If there are rocks to starboard and a storm to port, a wise captain steers a third course.\"",
+        "flavor": "\"Si hay rocas a estribor y una tormenta a babor, el capitán inteligente elige un tercer rumbo.\"",
         "name": "Asha Greyjoy",
-        "text": "Pillage. Stealth.\nEach other unique <i>Ironborn</i> character you control gains stealth.",
-        "traits": "Captain. Ironborn. Lady."
+        "text": "Pillaje. Sigilo.\nTodos los demás Personajes <i>Hijo del Hierro</i> únicos que controles ganan Sigilo.",
+        "traits": "Capitán. Hijo del Hierro. Lady."
+    },
+    {
+        "code": "12004",
+        "flavor": "\"El Caballero se ha que quedado con Grimslon. Plantó un estandarte bajo el castillo y desafío a los Grimm a que se le enfrentaran. Salió uno, luego otro, luego otro… Los mató a todos.\" <cite>Hotho Harlaw</cite>",
+        "name": "El Caballero",
+        "text": "Sin Accesorios excepto <i>Armas</i>.\nMientras El Caballero esté atacando solo, gana Sigilo y Renombre.",
+        "traits": "Casa Harlaw. Caballero."
+    },
+    {
+        "code": "12005",
+        "flavor": "\"Mía es la fuerza del mar, una fuerza contra la que Ojo de Cuervo no puede nada.\"",
+        "name": "Aeron Pelomojado",
+        "text": "Perspicacia.\n<b>Reacción:</b> después de que muera otro Perspicacia del <i>Dios Ahogado</i> que controles, roba 1 carta. (Límite de 1 vez por fase.)",
+        "traits": "Dios Ahogado. Hijo del Hierro. Lord."
+    },
+    {
+        "code": "12006",
+        "flavor": "\"¿Dónde está escrito que nuestro rey deba ser un kraken?\"",
+        "name": "El Tambor",
+        "text": "Mientras El Tambor esté atacando en un reto [military] o [power], ningún Personaje que tenga un icono [intrigue] puede ser declarador como defensor.",
+        "traits": "Capitán. Lord."
+    },
+    {
+        "code": "12007",
+        "flavor": "Habían pasado muchos años desde entonces, y la viuda seguía allí, llorando y mascullando de cuando en cuando que el castillo debería ser suyo.",
+        "name": "Gwynesse Harlaw",
+        "text": "<b>Acción:</b> elige 3 cartas que estén en la pila de descartes de un adversario y colócalas en la parte inferior de su mazo en el orden que prefieras. Luego ganas 1 de Oro y robas 1 carta. (Límite de 1 vez por ronda.)",
+        "traits": "Casa Harlaw. Lady."
+    },
+    {
+        "code": "12008",
+        "flavor": "",
+        "name": "Andrik el Taciturno",
+        "text": "Pillaje.\n<b>Reacción:</b> después de que Andrik el Taciturno descarte una carta mediante el Pillaje, elige un Lugar o Accesorio no Limitado que esté en la pila de descartes del adversario derrotado. Descarta del juego 1 copia de esa carta.",
+        "traits": "Hijo del Hierro. Asaltante."
+    },
+    {
+        "code": "12009",
+        "flavor": "Qarl estaba junto a él con la espada larga goteando sangre y la luz de la luna reflejada en los ojos.",
+        "name": "Qarl la Doncella",
+        "text": "<b>Reacción:</b> después de que ganes un reto en el que esté participando Qarl la Doncella, elige entre poner en pie un Lugar <i>Barco de guerra</i> o bien poner en pie a Asha Greyjoy.",
+        "traits": "Hijo del hierro."
+    },
+    {
+        "code": "12010",
+        "flavor": "\"Rezad cuanto queráis… pero eso no va a cambiar la ley.\"",
+        "name": "Maestre Murenmure",
+        "text": "<b>Interrupción:</b> cuando vayan a iniciarse los efectos de la capacidad activada de un Lugar, arrodilla al Maestre Murenmure para anular esos efectos.",
+        "traits": "Maestre."
+    },
+    {
+        "code": "12011",
+        "flavor": "\"…hasta el viejo Gaviota Gris ha salido de la roca en la que vive y está predicando lo de la asamblea por todo Harlaw.\" <cite>El Lector</cite>",
+        "name": "El viejo Gaviota Gris",
+        "text": "<b>Acción:</b> arrodilla a El viejo Gaviota Gris para matar a otro Personaje [greyjoy] que controles. Luego puedes devolver a ese Personaje a tu mano desde tu pila de muertos.",
+        "traits": "Dios Ahogado. Hijo del Hierro."
     },
     {
         "code": "12012",
         "flavor": "",
-        "name": "Priest of Old Wyk",
-        "text": "While there is a <i>Drowned God</i> character in your dead pile, Priest of Old Wyk contributes its STR to your total for dominance even while kneeling.",
-        "traits": "Drowned God."
+        "name": "Sacerdote de Viejo Wyk",
+        "text": "Mientras haya un Personaje del <i>Dios Ahogado</i> en tu pila de muertos, el Sacerdote de Viejo Wyk aporta su FUE a tu total para la Dominación incluso aunque esté arrodillado.",
+        "traits": "Dios Ahogado."
+    },
+    {
+        "code": "12013",
+        "flavor": "",
+        "name": "Profeta ahogado",
+        "text": "<b>Interrupción:</b> cuando el Profeta ahogado muera, busca un Personaje [greyjoy] entre las 5 primeras cartas de tu mazo y colócalo en tu pila de muertos. Baraja tu mazo.",
+        "traits": "Dios Ahogado."
+    },
+    {
+        "code": "12014",
+        "flavor": "",
+        "name": "Marinera voluntariosa",
+        "text": "<b>Reacción:</b> después de que un Lugar <i>Barco de guerra</i> entre en juego controlado por ti, pon en juego a la Marinera voluntariosa desde tu mano.",
+        "traits": "Aliado. Asaltante."
     },
     {
         "code": "12015",
         "flavor": "",
-        "name": "Orkmont Reaver",
-        "text": "Pillage.\nWhile an opponent has 10 or more cards in his or her discard pile, Orkmont Reaver gains stealth.",
-        "traits": "Ironborn. Raider."
+        "name": "Saqueador de Monteorca",
+        "text": "Pillaje.\nMientras un adversario tenga 10 cartas o más en su pila de descartes, el Saqueador de Monteorca gana Sigilo.",
+        "traits": "Hijo del Hierro. Asaltante."
+    },
+    {
+        "code": "12016",
+        "flavor": "",
+        "name": "Silencio",
+        "text": "<b>Acción de Reto:</b> arrodilla el Silencio para poner en juego desde tu mano un Lugar <i>Barco de guerra</i>. Luego, si controlas a Euron Ojo de Cuervo, pon a éste en pie.",
+        "traits": "Barco de guerra."
     },
     {
         "code": "12017",
         "flavor": "",
-        "name": "Great Wyk",
-        "text": "<b>Reaction:</b> After a character enters play from your dead pile, each opponent chooses and discards 1 card from his or her hand. (Limit once per phase.)",
-        "traits": "Drowned God. Iron Islands."
+        "name": "Gran Wyk",
+        "text": "<b>Reacción:</b> después de que un Personaje entre en juego desde tu pila de muertos, cada adversario elige y descarta 1 carta de su mano. (Límite de 1 vez por fase.)",
+        "traits": "Dios Ahogado. Hijos del Hierro."
+    },
+    {
+        "code": "12018",
+        "flavor": "",
+        "name": "Tormenta Dorada",
+        "text": "<b>Reacción:</b> después de que ganes un reto [military] como jugador atacante, arrodilla el Tormenta Dorada para matar a un Personaje participante de tu elección. Luego, si controlas un Personaje <i>Asaltante</i>, pon en pie el Tormenta Dorada.",
+        "traits": "Barco de guerra."
+    },
+    {
+        "code": "12019",
+        "flavor": "",
+        "name": "Veneno de la Doncella",
+        "text": "<b>Reacción:</b> después de que ganes un reto sin oposición, arrodilla el Veneno de la Doncella para poner en pie a un Personaje atacante de tu elección. Luego, si ese Personaje es <i>Capitán</i>, pon en pie al Veneno de la Doncella.",
+        "traits": "Barco de guerra."
+    },
+    {
+        "code": "12020",
+        "flavor": "",
+        "name": "Barco de avanzada",
+        "text": "<b>Interrupción:</b> cuando un Personaje que controles descarte una carta mediante el Pillaje, en vez de eso arrodilla y sacrifica el Barco de avanzada para descartar 3 cartas.",
+        "traits": "Barco de guerra."
+    },
+    {
+        "code": "12021",
+        "flavor": "",
+        "name": "Lluvia Roja",
+        "text": "Sólo Personajes [greyjoy] únicos.\nSi el Personaje vinculado es El Tambor, gana Sigilo.\n<b>Reacción:</b> después de que ganes un reto sin oposición en el que esté atacando el Personaje vinculado, éste gana 2 de Poder. (Límite de 1 vez por fase.)",
+        "traits": "Acero valyrio. Arma."
+    },
+    {
+        "code": "12022",
+        "flavor": "",
+        "name": "Capitán de barcoluengo",
+        "text": "El Personaje vinculado gana el Rasgo <i>Capitán</i> y recibe un +1 a su FUE (+3 a su FUE si controlas al menos 3 Lugares <i>Barco de guerra</i>.)",
+        "traits": "Título."
     },
     {
         "code": "12023",
         "flavor": "",
-        "name": "What Is Dead May Never Die",
-        "text": "<b>Reaction:</b> After you win dominance, choose a [greyjoy] character in your dead pile and put it into play.",
-        "traits": "Drowned God."
+        "name": "Lo que está muerto no puede morir",
+        "text": "<b>Reacción:</b> después de que ganes la Dominación, elige un Personaje [greyjoy] que esté en tu pila de muertos y ponlo en juego.",
+        "traits": "Dios Ahogado."
+    },
+    {
+        "code": "12024",
+        "flavor": "",
+        "name": "Incursión nocturna",
+        "text": "<b>Acción:</b> elige hasta 3 Personajes que tengan Pillaje o el rasgo <i>Asaltante</i>. Hasta el final de la fase, todos esos Personajes ganan Sigilo.",
+        "traits": ""
+    },
+    {
+        "code": "12025",
+        "flavor": "\"Bien hecho, Khorane. Tendrás una magnífica recompensa; deja que piense algo.\" <cite>Salladhor Saan</cite>",
+        "name": "Khorane Sathmantes",
+        "text": "<b>Acción:<b> arrodilla a Khorane Sathmantes y un Lugar <i>Barco de guerra</i> para arrodillar 1 Personaje y 1 Lugar de tu elección.",
+        "traits": "Capitán. Asaltante. Contrabandista."
+    },
+    {
+        "code": "12026",
+        "flavor": "",
+        "name": "Furia",
+        "text": "Mientras controles a Stannis Baratheon, éste gana Intimidación.\n<b>Reacción:</b> después de que ganes un reto [power], arrodilla el Furia para elegir un Personaje o Lugar. Traslada 1 de Poder desde esa carta hasta tu carta de Facción.",
+        "traits": "Barco de guerra."
+    },
+    {
+        "code": "12027",
+        "flavor": "\"El oro de un señor de las tierras bajas vale aún menos que las promesas de un medio hombre.\"",
+        "name": "Gunthor, hijo de Gurn",
+        "text": "Emboscada (4).\n<b>Reacción:</b> después de que ganes un reto en el que Gunthor, hijo de Gurn esté atacando, el adversario derrotado debe elegir y descartar 1 carta de su mano.",
+        "traits": "Miembro de clan."
+    },
+    {
+        "code": "12028",
+        "flavor": "\"Pero una mente necesita de los libros, igual que una espada una piedra de amolar, para conservar el filo.\"",
+        "name": "Mi mejor arma está en el cerebro",
+        "text": "<b>Acción:</b> durante un reto [military], elige un Personaje que controles que tenga un icono [intrigue] y haz que participe en el reto de tu parte.",
+        "traits": ""
+    },
+    {
+        "code": "12029",
+        "designer": "Carta diseñada por Istvan Cserdi, campeón europeo de Contienda en 2012.",
+        "flavor": "",
+        "name": "Asaltante del desierto",
+        "text": "<b>Reacción:</b> después de que pierdas un reto, pon en juego el Asaltante del desierto desde tu pila de muertos y elige un Personaje controlado por el adversario vencedor. Ese Personaje gana 1 de Poder. Hasta el final de la fase, ese Personaje pierde un icono [intrigue] o [power] y el Asaltante del desierto gana ese icono.",
+        "traits": "Aliado. Casa Dayne. Asaltante."
+    },
+    {
+        "code": "12030",
+        "flavor": "El más poderoso de los señores dornienses era Anders Yronwood, el Sangre Regia…",
+        "name": "Sangre Regia",
+        "text": "Sólo Personajes [martell].\nMientras no seas el jugador inicial, el Personaje vinculado gana Sigilo y Renombre.",
+        "traits": "Casa Yronwood. Título."
+    },
+    {
+        "code": "12031",
+        "flavor": "",
+        "name": "Explorador vengativo",
+        "text": "<b>Reacción:</b> después de que pierdas un reto como jugador defensor, el Explorador vengativo gana Sigilo y un icono de reto de tu elección hasta el final de la fase.",
+        "traits": "Explorador."
+    },
+    {
+        "code": "12032",
+        "flavor": "",
+        "name": "Guardiaoccidente del Río",
+        "text": "<b>Acción:</b> arrodilla Guardiaoccidente del Río para poner en pie otro Lugar [thenightswatch] de tu elección con un coste impreso de 1 o menos. (Con un coste impreso de 4 o menos si controlas un Personaje <i>Explorador</i>, un Personaje <i>Mayordomo</i> y un Personaje <i>Constructor</i>.)",
+        "traits": "El Norte."
+    },
+    {
+        "code": "12033",
+        "flavor": "\"Mi señora, ¿puedo  hacer algo por vos?\"",
+        "name": "Maestre Vyman",
+        "text": "<b>Reacción:</b> después de que ganes un reto [military] o [power], arrodilla al Maestre Vyman para elegir otro Personaje que comparta algún <i>Rasgo</i> con él. Ese Personaje gana 1 de Poder.",
+        "traits": "Casa Tully. Maestre."
+    },
+    {
+        "code": "12034",
+        "flavor": "\"Bastión Kar está de mi parte, y eso es todo lo que hace falta divulgar.\" <cite>Stannis Baratheon</cite>",
+        "name": "Karhold",
+        "text": "Mientras un jugador no tenga mostrada una carta de Trama de <i>Invierno</i>, los Personaje y Lugares que controle no podrán ganar Poder.",
+        "traits": "El Norte."
+    },
+    {
+        "code": "12035",
+        "flavor": "Y Cohollo, el viejo Cohollo, que había atado su vida a la de Drogo desde el día que nació. Cohollo, que siempre había sido bueno con ella… Cohollo le escupió a la cara.",
+        "name": "Cohollo",
+        "text": "Intimidación.\n<b>Acción:</b> arrodilla a Cohollo y descarta 1 carta de tu mano para hacer que participe en un reto de tu parte.",
+        "traits": "Jinete de sangre. Dothraki."
+    },
+    {
+        "code": "12036",
+        "flavor": "La evocadora balada sobre dos amantes moribundos en medio de la Maldición de Valyria les habría gustado mucho más a los asistentes si Collio no la hubiera cantado en alto valyrio, idioma que la mayoría desconocía.",
+        "name": "\"La danza de los dragones\"",
+        "text": "<b>Acción:</b> elige una carta que no sea de Evento, esté en tu pila de descartes y tenga un coste impreso de 3 o menos, y devuélvela a tu mano.",
+        "traits": "Canción."
+    },
+    {
+        "code": "12037",
+        "flavor": "El joven Serry no había sido así. Un hombre valiente, pensó Victarion Greyjoy. Casi un hijo del hierro.",
+        "name": "Ser Talbert Serry",
+        "text": "Sin Accesorios exceptoo <i>Armas</i>.\n<b>Reacción:</b> después de que un adversario active la capacidad de un Lugar, Ser Talbert Serry recibe un +2 a su FUE hasta el final de la fase. (Límite de 3 veces por fase.)",
+        "traits": "Caballero."
+    },
+    {
+        "code": "12038",
+        "flavor": "Los hombres de las Islas Escudo se decían marineros, pero cruzaban los mares con miedo, y entraban en combate con armadura ligera por temor a ahogarse.",
+        "name": "Las Islas Escudo",
+        "text": "Aumenta en 1 el número de cartas que roba cada jugador en la fase de Robo.",
+        "traits": "El Dominio."
+    },
+    {
+        "code": "12039",
+        "flavor": "",
+        "name": "Yohn \"Bronce\" Royce",
+        "text": "Renombre.\n<b>Reacción:</b> después de que ganes un reto en el que Yohn \"Bronce\" Royce esté defendiendo, arrodilla un Lugar neutral con coste impreso de 1 o más para poner en pie a Yohn \"Bronce\" Royce. (Límite de 2 veces por fase.)",
+        "traits": "Casa Arryn. Lord."
+    },
+    {
+        "code": "12040",
+        "flavor": "",
+        "name": "Salvaje solitario",
+        "text": "Emboscada (5).\n<b>Reacción:</b> después de que el Salvaje solitario entre en juego, pon en pie un Personaje <i>Salvaje</i> que controles de tu elección.",
+        "traits": "Asaltante. Salvaje."
+    },
+    {
+        "code": "12041",
+        "flavor": "",
+        "name": "Archivista de la Ciudadela",
+        "text": "<b>Reacción:</b> después de que el Archivista de la Ciudadela entre tu pila de descartes, cada jugador devuelve su pila de descartes a su mazo y lo baraja.",
+        "traits": "Maestre."
+    },
+    {
+        "code": "12042",
+        "flavor": "",
+        "name": "El Septo Estrellado",
+        "text": "<b>Acción:</b> traslada 1 de Poder desde El Septo Estrellado hasta un Personaje. Hasta el final de la fase, ese Personaje se trata como si su texto de reglas impreso estuviese en blanco (excepto los <i>Rasgos</i>). <b>Reacción:</b> después de que ganes un reto [power], El Septo Estrellado gana 1 de Poder.",
+        "traits": "Antigua. Los Siete."
+    },
+    {
+        "code": "12043",
+        "flavor": "",
+        "name": "Temeridad",
+        "text": "Terminal.\nEl Personaje vinculado debe ser declarado como atacante o como defensor en cada reto (si puede).",
+        "traits": "Estado."
     },
     {
         "code": "12044",
-        "designer": "Card design by 2008 Melee World Champion, Tzu-Mainn Chen.",
+        "designer": "Carta diseñada por Tzu-Mainn Chen, campeón mundial de Contienda en 2008.",
         "flavor": "",
-        "name": "When I Woke...",
-        "text": "<b>Reaction:</b> After a player loses a [military] challenge, that player chooses a participating character and places it on top of its owner's deck. (Max 1 per challenge.)",
+        "name": "Al despertar...",
+        "text": "<b>Reacción:</b> después de que un jugador pierda un reto [military], ese jugador elige un Personaje participante y lo coloca en la parte superior del mazo de su propietario. (Máximo 1 por reto.)",
         "traits": ""
     },
     {
         "code": "12045",
         "flavor": "",
-        "name": "Sea of Blood",
-        "text": "During [military] challenges, reduce the cost of each event you play by 1 for each blood token on Sea of Blood. You cannot play events during [intrigue] or [power] challenges.\n<b>Reaction:</b> After you win a [military] challenge by 5 or more STR, kneel your faction card to place a blood token on Sea of Blood. Then, search your deck for an event, reveal it, and add it to your hand. Shuffle your deck.",
-        "traits": "Prophecy."
+        "name": "Mar de sangre",
+        "text": "Durante los retos [military], el coste de cada Evento que juegues se reduce en 1 por cada ficha de sangre que haya sobre Mar de sangre. No puedes jugar Eventos durantes retos [intrigue] ni [power].\n<b>Reacción:</b> después de que ganes un reto [military] por 5 de FUE o más, arrodilla tu carta de Facción para colocar una ficha de sangre encima de Mar de sangre. Luego busca un Evento en tu mazo, muéstralo y añádelo a tu mano. Baraja tu mazo.",
+        "traits": "Profecía."
     },
     {
         "code": "12046",
         "flavor": "",
-        "name": "We Take Westeros!",
-        "text": "<b>When Revealed:</b> Choose a location in a discard pile and put it into play under your control.",
-        "traits": "War."
+        "name": "¡Nos apoderaremos de Poniento!",
+        "text": "<b>Cuando se muestre esta carta:</b> elige un Lugar que esté en una pila de descartes y ponlo en juego controlado por ti.",
+        "traits": "Guerra."
+    },
+    {
+        "code": "12047",
+        "flavor": "",
+        "name": "Regresar a los campos",
+        "text": "<b>Cuando se muestre esta carta:</b> puedes sacrificar hasta 3 Personajes. Por cada Personaje sacrificado de este modo, roba 1 carta y ganas 1 de Oro.",
+        "traits": "Edicto."
+    },
+    {
+        "code": "12048",
+        "flavor": "",
+        "name": "Heredero al Trono de Hierro",
+        "text": "<b>Cuando se muestre esta carta:</b> busca un Personaje <i>Lord</i> o <i>Lady</i> entre las 10 primeras cartas de tu mazo y ponlo en juego. Baraja tu mazo. Luego sacrifica un Personaje <i>Lord</i> o <i>Lady</i>.",
+        "traits": "Reino."
+    },
+    {
+        "code": "12049",
+        "flavor": "",
+        "name": "Ataque coordinado",
+        "text": "<b>Reacción:</b> después de que ganes un reto como jugador atacante, elige un tipo de reto distinto. Puedes iniciar un reto adicional de ese tipo en esta fase. (Límite de 1 vez por fase.)",
+        "traits": "Guerra."
     },
     {
         "code": "12050",
         "flavor": "",
-        "name": "Stolen Message",
-        "text": "Each opponent plays with the top card of his or her deck revealed.\n<b>Action:</b> Pay 1 gold to place the top card of an opponent's deck on the bottom of that player's deck. (Limit 3 times per round.)",
-        "traits": "Scheme."
+        "name": "Mensaje robado",
+        "text": "Cada adversario juega con la primera carta de la parte superior de su mazo mostrada.\n<b>Acción:</b> paga 1 de Oro para colocar la primera carta de la parte superior del mazo de un adversario en la parte inferior del mazo de ese jugador. (Límite de 3 veces por ronda.)",
+        "traits": "Conspiración."
+    },
+    {
+        "code": "12051",
+        "flavor": "",
+        "name": "Secretos del cónclave",
+        "text": "<b>Reacción:</b> después de que empiece la fase de Reto, mira las 5 primeras cartas de tu mazo. Añade 1 a tu mano, descarta 1 y vuelve a poner las demás en la parte superior de tu mazo en el orden que prefieras.",
+        "traits": "Cónclave. Reino."
+    },
+    {
+        "code": "12052",
+        "flavor": "",
+        "name": "Exterminar a los infieles",
+        "text": "<b>Reacción obligada:</b> después de que empiece la fase de Reto, elige un <i>Rasgo</i>. Mata a todo los Personajes que controles que no tengan ese <i>Rasgo</i> (no pueden salvarse).",
+        "traits": "Edicto."
     }
 ]
