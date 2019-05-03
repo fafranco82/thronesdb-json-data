@@ -1,58 +1,145 @@
 [
     {
         "code": "13021",
-        "flavor": "... still called the Smalljon though he threatened to overtop his father.",
-        "name": "Smalljon Umber",
-        "text": "Renown.\nSmalljon Umber gets -1 STR for each plot card in your used pile.",
-        "traits": "House Umber. Lord."
+        "flavor": "…a quien todavía seguían llamando Pequeño Jon, aunque pronto sería más alto que su padre.",
+        "name": "Pequeño Jon Umber",
+        "text": "Renombre.\nPequeño Jon Umber recibe un -1 a su FUE por cada carta de Trama que haya en tu pila de cartas usadas.",
+        "traits": "Casa Umber. Lord."
     },
     {
         "code": "13022",
         "flavor": "",
-        "name": "No Surprises",
-        "text": "<b>Action:</b> Reveal your hand (of at least 1 card). Then, until the end of the phase, each opponent cannot play events or bring cards out of shadows.",
+        "name": "Sin sorpresas",
+        "text": "<b>Acción:</b> muestra tu mano (tiene que haber en ella al menos 1 carta). Luego, hasta el final de la fase, ningún adversario podrá jugar Eventos ni sacar cartas de las Sombras.",
         "traits": ""
+    },
+    {
+        "code": "13023",
+        "designer": "Carta diseñada por Brett Zeiler, campeón mundial de Contienda en 2010.",
+        "flavor": "",
+        "name": "Contendiente altanero",
+        "text": "Mientras el Contendiente altanero esté participando en un reto, recibe un +1 a su FUE por cada Personaje participante controlado por un adversario.\n<b>Reacción:</b> después de que ganes un reto en el que el Contendiente altanero esté atacando solo, éste gana 1 de Poder por cada Personaje defensor (máximo 3 de Poder).",
+        "traits": "Caballero."
+    },
+    {
+        "code": "13024",
+        "flavor": "",
+        "name": "Demostración de fuerza",
+        "text": "<b>Acción de Reto:</b> hasta el final de la fase, todo Personaje con FUE 3 o inferior se trata como si su texto de reglas impreso estuviese en blanco (excepto los <i>Rasgos</i>).",
+        "traits": ""
+    },
+    {
+        "code": "13025",
+        "flavor": "Cuando Owen el Bestia sacó a bailar al bufón Caramanchada, las risas resonaron en el techo abovedado.",
+        "name": "Owen el Bestia",
+        "text": "Sin Accesorios excepto <i>Armas</i>.\nMientras Owen el Bestia esté participando en un reto, ningún Personaje que tenga más de 1 icono de reto aportará su FUE al reto.",
+        "traits": "Mayordomo."
     },
     {
         "code": "13026",
         "flavor": "",
-        "name": "Shadow of the Wall",
-        "text": "Shadow (0).\n<b>Action:</b> Choose and stand a character with 1 or fewer challenge icons. If there is a <i>Winter</i> plot card revealed, return Shadow of the Wall to your hand instead of placing it in your discard pile.",
+        "name": "Sombra del Muro",
+        "text": "Sombra (0).\n<b>Acción:</b> pon en pie un Personaje de tu elección que tenga 1 icono de reto o menos. Si hay mostrada una carta de Trama <i>Invierno</i>, devuelve la Sombra del Muro a tu mano en vez de colocarla en tu pila de descartes.",
         "traits": ""
     },
     {
         "code": "13027",
         "flavor": "",
-        "name": "Red Keep Gaoler",
-        "text": "Shadow (4).\n<b>Action:</b> Move 2 power from your faction card to a [baratheon] character to put Red Keep Gaoler into play from shadows.",
-        "traits": "Ally. Guard."
+        "name": "Carcelero de La Fortaleza Roja",
+        "text": "Sombra (4).\n<b>Acción:</b> traslada 2 de Poder desde tu carta de Facción hasta un Personaje [baratheon] para poner en juego desde las Sombras al Carcelero de la Fortaleza Roja.",
+        "traits": "Aliado. Guardia."
+    },
+    {
+        "code": "13028",
+        "flavor": "",
+        "name": "Las celdas negras",
+        "text": "Sombra (2).\n<b>Reacción:</b> después de que una carta que controles salga de las Sombras, arrodilla Las celdas negras para elegir un Personaje de un adversario. Hasta el final de la fase, ese Personaje no puede arrodillarse ni ponerse en pie.",
+        "traits": "Desembarco del Rey"
     },
     {
         "code": "13029",
         "flavor": "",
-        "name": "The Regent's Guard",
-        "text": "Shadow (4).\n<b>Action:</b> Return a [lannister] non-<i>Ally</i> character with printed cost 4 or higher to your hand to put The Regent's Guard into play from shadows.",
-        "traits": "Ally. Guard."
+        "name": "Guardia de la Regente",
+        "text": "Sombra (4).\n<b>Acción:</b> devuelve a tu mano un Personaje [lannister] que no sea <i>Aliado</i> y que tenga un coste impreso de 4 o más para poner en juego desde las Sombras a la Guardia de la Regente.",
+        "traits": "Aliado. Guardia."
+    },
+    {
+        "code": "13030",
+        "flavor": "",
+        "name": "Escondrijo de piromante",
+        "text": "Sólo Lugares.\nTrata el Lugar vinculado como si su texto de reglas impreso estuviese en blanco (excepto los <i>Rasgos</i>).\nEl Lugar vinculado gana: \"<b>Acción:</b> arrodilla este Lugar para robar 1 carta.\"",
+        "traits": "Objeto."
+    },
+    {
+        "code": "13031",
+        "flavor": "Aún le costaba creer que la frágil y enfermiza Lady Alannys hubiera sobrevivido a su esposo, lord Balon, que siempre había parecido tan fuerte y tan sano.",
+        "name": "Alannys Greyjoy",
+        "text": "<b>Reacción:</b> después de que un Lugar [greyjoy] entre en juego controlado por ti, roba 1 carta. (Límite de 1 vez por fase.)",
+        "traits": "Casa Harlaw. Lady. Reina."
+    },
+    {
+        "code": "13032",
+        "flavor": "",
+        "name": "Vuelo Nocturno",
+        "text": "Sombra (X).\n<b>Reacción:</b> después de que Vuelo Nocturno salga de las Sombras, elige un Lugar con un coste impreso de X o menos y descártalo del juego.\n+1 Iniciativa.",
+        "traits": "Barco de guerra."
+    },
+    {
+        "code": "13033",
+        "flavor": "",
+        "name": "Comerciante del mercado negro",
+        "text": "Sombra (2).\n<b>Reacción:</b> después de que la Comerciante del mercado negro salga de las Sombras, busca entre las 10 primeras cartas de tu mazo un Accesorio con un coste impreso de 3 o menos y vincúlalo a un Personaje válido que controles. Baraja tu mazo.",
+        "traits": "Mercader."
     },
     {
         "code": "13034",
         "flavor": "",
-        "name": "Shadow of the East",
-        "text": "Shadow (0).\n<b>Action:</b> Choose an attachment and discard it from play. If there is a <i>Summer</i> plot card revealed, return Shadow of the East to your hand instead of placing it in your discard pile.",
+        "name": "Sombra del Este",
+        "text": "Sombra (0).\n<b>Acción:</b> descarta del juego un Accesorio de tu elección. Si hay mostrada una carta de Trama <i>Verano</i>, devuelve la Sombra del Este a tu mano en vez de colocarla en tu pila de descartes.",
         "traits": ""
+    },
+    {
+        "code": "13035",
+        "flavor": "\"…Nym está demasiado allegada a las gemelas Fowler, y a saber en quién podrían confiar ellas. No podía correr el riesgo.\" <cite>Doran Martell</cite>",
+        "name": "Las gemelas Fowler",
+        "text": "<b>Acción</b> elige un Personaje. Ese Personaje debe ser declarado como atacante o como defensor en el próximo reto que se inicie en esta fase (si puede). (Límite de 1 vez por fase.)",
+        "traits": "Acompañante."
     },
     {
         "code": "13036",
         "flavor": "",
-        "name": "Shadow of the South",
-        "text": "Shadow (1).\n<b>Action:</b> Choose a character. Until the end of the phase, that character loses a challenge icon of your choice. If there is a <i>Scheme</i> plot card revealed, return Shadow of the South to your hand instead of placing it in your discard pile.",
+        "name": "Sombra del Sur",
+        "text": "Sombra (1).\n<b>Acción:</b> elige un Personaje. Hasta el final de la fase, ese Personaje pierde un icono de reto de tu elección. Si hay mostrada una carta de Trama <i>Conspiración</i>, devuelve la Sombra del Sur a tu mano en vez de colocarla en tu pila de descartes.",
         "traits": ""
+    },
+    {
+        "code": "13037",
+        "designer": "Carta diseñada por Matthew Ley, campeón mundial en 2006.",
+        "flavor": "",
+        "name": "Fantasma de Alto Corazón",
+        "text": "Mientras no controles Personajes leales, cada Personaje que controles recibe un +1 a su FUE.\n<b>Acción de Reto:</b> arrodilla el Fantasma de Alto Corazón para mirar la mano de un jugador. Elige 1 carta de esa mano y descártala. Luego ese jugador roba 1 carta.",
+        "traits": "Aliado. Hermandad."
     },
     {
         "code": "13038",
         "flavor": "",
-        "name": "Shadow Politics",
-        "text": "Shadow (1).\n<b>Action:</b> Choose one:\n- Choose and discard 1 card from shadows.\n- Choose up to 5 cards in a single discard pile and remove them from the game.\n- Look at an opponent's hand.",
+        "name": "Sombría maniobra política",
+        "text": "Sombra (1).\n<b>Acción:</b> elige una de estas opciones:\n- Elige 1 carta de las Sombras y descártala.\n- Elige hasta 5 cartas que estén en la misma pila de descartes y retíralas del juego.\n- Mira la mano de un adversario.",
         "traits": ""
+    },
+    {
+        "code": "13039",
+        "designer": "Carta diseñada por Greg Atkinson, campeón mundial de Justa en 2009.",
+        "flavor": "",
+        "name": "Caballeros de la Colina Hueca",
+        "text": "No puedes colocar cartas durante la preparación de la partida. Tus demás cartas no proporcionan bonificaciones al Oro.\n+3 Oro. +2 Iniciativa. +1 Reserva.",
+        "traits": ""
+    },
+    {
+        "code": "13040",
+        "flavor": "",
+        "name": "Una ciudad asediada",
+        "text": "<b>Cuando se muestre esta carta:</b> arrodilla un Lugar de tu elección. (Hasta 2 Lugares si hay una carta de Trama <i>Ciudad</i> en tu pila de cartas usadas.)",
+        "traits": "Ciudad. Asedio."
     }
 ]

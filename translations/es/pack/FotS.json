@@ -28,6 +28,20 @@
         "traits": "Lord. King."
     },
     {
+        "code": "14007",
+        "flavor": "\"Stannis Baratheon will never sit the Iron Throne. Is it treason to say the truth? A bitter truth, but no less true for that.\"",
+        "name": "Alester Florent",
+        "text": "<b>Reaction:</b> After a <i>House Florent</i> character enters play, draw a card. (Limit once per round.)\n<b>Interrupt:</b> When Alester Florent leaves play, if you control another <i>R'hllor</i> character, choose and kneel a character an opponent controls.",
+        "traits": "House Florent. Lord. R'hllor."
+    },
+    {
+        "code": "14008",
+        "flavor": "\"A queen should be a mistress beneath her own roof.\"",
+        "name": "Selyse Baratheon",
+        "text": "Reduce the cost of each <i>R'hllor</i> attachment you marshal by 3.",
+        "traits": "House Florent. Lady. Queen. R'hllor."
+    },
+    {
         "code": "14012",
         "flavor": "The red priest lit their fires every day at sunset, to thank R'hllor for the day just ending, and beg him to send his sun back on the morrow to banish the gathering darkness.",
         "name": "Red Priest",
@@ -40,6 +54,20 @@
         "name": "Acolyte of the Flame",
         "text": "<b>Reaction:</b> After the draw phase begins, kneel Acolyte of the Flame to look at the top 2 cards of an opponent's deck. You may put those cards on the bottom of that player's deck.",
         "traits": "Ally. R'hllor."
+    },
+    {
+        "code": "14020",
+        "flavor": "",
+        "name": "Azor Ahai Reborn",
+        "text": "Unique character you control only. Terminal.\nAttached character is considered to be participating in each challenge in which you control an attacking <i>R'hllor</i> character.",
+        "traits": "Legacy. R'hllor."
+    },
+    {
+        "code": "14024",
+        "flavor": "",
+        "name": "Nightfire Vision",
+        "text": "Play only if you control a <i>R'hllor</i> character.\n<b>Taxation Action:</b> Name a <i>Trait</i>. If an opponent reveals a plot card with that <i>Trait</i> during the next plot phase, draw 3 cards.",
+        "traits": "R'hllor."
     },
     {
         "code": "14028",
@@ -61,6 +89,13 @@
         "name": "Defiance",
         "text": "<b>Challenges Action:</b> Choose and stand a character that has not participated in a challenge this phase. (Max 1 per phase.)",
         "traits": ""
+    },
+    {
+        "code": "14045",
+        "flavor": "",
+        "name": "The Prince That Was Promised",
+        "text": "After all agendas are announced, name a unique character. Other characters you control cannot gain power.\n<b>Reaction:</b> After you win a [power] challenge by 5 or more STR, kneel your faction card to, either: stand the named character and draw a card; or search your deck, discard pile, and dead pile for the named character, reveal it, add it to your hand, and shuffle your deck.",
+        "traits": "Prophecy."
     },
     {
         "code": "14046",
