@@ -16,6 +16,10 @@
         "name": "Formato draft"
     },
     {
+        "code": "variants",
+        "name": "Variantes"
+    },
+    {
         "code": "foc",
         "name": "Bandada de cuervos"
     },
