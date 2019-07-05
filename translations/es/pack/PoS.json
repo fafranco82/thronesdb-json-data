@@ -3,56 +3,140 @@
         "code": "13041",
         "flavor": "",
         "name": "Eddard Stark",
-        "text": "Renown.\n<b>Dominance Action:</b> If each character you control has the [stark] affiliation, kneel Eddard Stark to choose and kill a character with a printed cost 4 or lower. (Limit once per phase.)",
-        "traits": "Lord. Small Council."
+        "text": "Renombre.\n<b>Acción de Dominación:</b> si todos los Personajes que controlas pertenecen a la facción [stark], arrodilla a Eddard Stark para matar a un Personaje de tu elección con un coste impreso de 4 o menos. (Límite de 1 vez por fase.)",
+        "traits": "Lord. Consejo Privado."
     },
     {
         "code": "13042",
         "flavor": "",
-        "name": "Malleon's Tome",
-        "text": "Shadow (1).\nAttached character gains an [intrigue] icon.\n<b>Reaction:</b> After you win a challenge in which attached character is attacking, look at the losing opponent's hand. If attached character is Eddard Stark or has the <i>Maester</i> trait, stand it. (Limit once per phase.)",
-        "traits": "Citadel. Item."
+        "name": "Tomo de Malleon",
+        "text": "Sombra (1).\nEl Personaje vinculado gana un icono [intrigue].\n<b>Reacción:</b> después de que ganes un reto en el que esté atacando el Personaje vinculado, mira la mano del adversario derrotado. Si el Personaje vinculado es Eddard Stark o posee el rasgo <i>Maestre</i>, ponlo en pie. (Límite de 1 vez por fase.)",
+        "traits": "Ciudadela. Objeto."
     },
     {
         "code": "13043",
-        "flavor": "Maester Gormon sat below the iron mask in Walgrave's place, the same Gormon who had accused Pate of theft.",
-        "name": "Maester Gormon",
-        "text": "You may look at the top card of your deck.\nOnce per phase, if the top card of your deck is a non-[tyrell] card, you may marshal or play it as if it were in your hand.",
-        "traits": "Maester."
+        "flavor": "El maestre Gormon ocupaba el lugar de Walgrave bajo la máscara de hierro. El mismo Gormon que en cierta ocasión había acusado de robo a Pate.",
+        "name": "Maestre Gormon",
+        "text": "Puedes mirar la primera carta de tu mazo.\nUna vez por fase, si la primera carta de tu mazo no es [tyrell], puedes reclutarla o jugarla como si estuviese en tu mano.",
+        "traits": "Maestre."
+    },
+    {
+        "code": "13044",
+        "flavor": "",
+        "name": "Ardid inesperado",
+        "text": "Sólo Personajes con Sombra que controles. Sombra (1).\nEl Personaje vinculado recibe un +2 a su FUE y gana Perspicacia.\n<b>Interrupción obligada:</b> cuando termine un reto en el que esté participando el Personaje vinculado, devuelve a las Sombras el Ardid inesperado y el Personaje vinculado.",
+        "traits": "Habilidad."
+    },
+    {
+        "code": "13045",
+        "flavor": "\"El maestre Mullin de la Torre Sombría es más soldado que erudito…\" <cite>Jon Nieve</cite>",
+        "name": "Maestre Mullin",
+        "text": "<b>Acción:</b> arrodilla al Maestre Mullin para elegir un Personaje y un tipo de reto. Hasta el final de la fase, ese Personaje no puede ser declarado como atacante en restos de ese tipo.",
+        "traits": "Maestre."
+    },
+    {
+        "code": "13046",
+        "flavor": "",
+        "name": "Turno de guardia",
+        "text": "Sólo Personajes [thenightswatch].\n<b>Reacción:</b> después de que el Personaje vinculado sea declarado como defensor, arrodilla Turno de guardia para poner en pie al Personaje vinculado.",
+        "traits": "Estado."
+    },
+    {
+        "code": "13047",
+        "flavor": "\"Nuestra causa es justa, de manera que los dioses bendecirán el brazo de nuestro campeón y le otorgarán la victoria.\"",
+        "name": "Ser Eldon Estermont",
+        "text": "<b>Acción:</b> pon en pie un Lugar [baratheon] de tu elección. (Límite de 1 vez por ronda.)",
+        "traits": "Caballero. Lord."
+    },
+    {
+        "code": "13048",
+        "flavor": "",
+        "name": "Sombra del Trono",
+        "text": "Sombra (1).\n<b>Acción:</b> arrodilla cualquier número de Lugares de tu elección con un coste impreso total de 3 o menos. Si hay mostrada una carta de Trama <i>Reino</i>, devuelve la Sombra del Trono a tu mano en vez de colocarla en tu pila de descartes.",
+        "traits": ""
+    },
+    {
+        "code": "13049",
+        "flavor": "Chiswyck estaba sentado junto a la chiminea, con un cuerno de cerveza en una mano, contando una de sus historias jocosas.",
+        "name": "Chiswyck",
+        "text": "Pillaje.\n<b>Reacción:</b> después de que ganes un reto en el que Chiswyck esté participando, descarta la primera carta de tu mazo para robar 1 carta.",
+        "traits": "Aliado."
     },
     {
         "code": "13050",
-        "flavor": "Hands of gold are always cold, but a woman's hands are warm.",
-        "name": "\"Hands of Gold\"",
-        "text": "<b>Reaction:</b> After you win an [intrigue] challenge by 5 or more STR as the attacking player, choose a character controlled by the losing opponent and return it to its owner's hand. (Max 1 per challenge.)",
-        "traits": "Song."
+        "flavor": "Las manos de oro son frías, las de mujer, siempre tibias…",
+        "name": "\"Manos de oro\"",
+        "text": "<b>Reacción:</b> después de que ganes un reto [intrigue] por 5 o más de FUE como jugador atacante, elige un Personaje controlado por el adversario derrotado y devuélvelo a la mano de su propietario. (Máximo 1 por reto.)",
+        "traits": "Canción."
+    },
+    {
+        "code": "13051",
+        "flavor": "",
+        "name": "Prosélito de Desembarco del Rey",
+        "text": "Sombra (4).\n<b>Acción:</b> mata a un Personaje [greyjoy] que esté en pie para poner en juego al Prosélito de Desembarco del Rey desde las Sombras.",
+        "traits": "Aliado. Dios Ahogado."
+    },
+    {
+        "code": "13052",
+        "flavor": "",
+        "name": "Equipado para la guerra",
+        "text": "Sólo Lugares <i>Barco de guerra</i>.\n<b>Acción:</b> durante un reto [military], arrodilla el Lugar vinculado para otorgar a un Personaje [greyjoy] participante un +3 a su FUE hasta el final del reto.",
+        "traits": "Arma."
+    },
+    {
+        "code": "13053",
+        "flavor": "Subí demasiado, amé con demasiada pasión, fui demasiado osado. Intenté alcanzar una estrella, no llegué y caí.",
+        "name": "Jon Connington",
+        "text": "Sombra (5). Renombre.\n<b>Reacción:</b> después de que Jon Connington salga de las Sombras, muestra una carta de tu elección que controles en las Sombras. Si no es un Evento y tiene un coste impreso de 4 o menos, ponla en juego.",
+        "traits": "Casa Connington. Lord."
+    },
+    {
+        "code": "13054",
+        "flavor": "…ninguno de los dragones nacios y criados en el Pozo Dragón de Desembarco del Rey se había aproximado siquiera al tamaño de Vhagar o Merexes, y mucho menos al del Terror Negro, el monstruo del rey Aegon.",
+        "name": "El Pozo Dragón",
+        "text": "Cada Personaje controlado por un jugador que controle menos cartas en las Sombras que tú recibe un -1 a su FUE.",
+        "traits": "Desembarco del Rey."
     },
     {
         "code": "13055",
         "flavor": "",
         "name": "Arianne Martell",
-        "text": "Shadow (5). Stealth.\n<b>Reaction:</b> After a card comes out of shadows under your control, choose a character. Until the end of the phase, that character loses a challenge icon of your choice. (Limit 3 times per round.)",
+        "text": "Sombra (5). Sigilo.\n<b>Reacción:</b> después de que una carta salga de las Sombras controlada por ti, elige un Personaje. Hasta el final de la fase, ese Personaje pierde un icono de reto de tu elección. (Límite de 3 veces por ronda.)",
         "traits": "Lady."
+    },
+    {
+        "code": "13056",
+        "flavor": "",
+        "name": "Un nido de víboras",
+        "text": "<b>Acción de Reto:</b> elige un Personaje que no tenga iconos de reto y pone encima una ficha de Veneno. Al final de la fase, si ese Personaje aún tiene encima esa ficha de Veneno, quítasela y mata al Personaje. (Máximo 1 por fase.)",
+        "traits": ""
     },
     {
         "code": "13057",
         "flavor": "",
-        "name": "The Most Devout",
-        "text": "No attachments except <i>The Seven</i>.\n<b>Reaction:</b> After a character enters play under an opponent's control, if another character has entered play under that player's control this phase, The Most Devout gains 1 power. (Limit once per phase.)",
-        "traits": "The Seven."
+        "name": "Los Máximos Devotos",
+        "text": "Sin Accesorios excepto <i>Los Siete</i>.\n<b>Reacción:</b> después de que un Personaje entre en juego controlado por un adversario, si en esta fase ha entrado en juego otro Personaje controlado por ese jugador, Los Máximos Devotos ganan 1 de Poder. (Límite de 1 vez por fase.)",
+        "traits": "Los Siete."
     },
     {
         "code": "13058",
         "flavor": "",
-        "name": "Statue of Baelor",
-        "text": "<b>Action:</b> Kneel Statue of Baelor and discard 1 power from another character or location you control to stand that character or location.",
-        "traits": "King's Landing. The Seven."
+        "name": "Estatua de Baelor",
+        "text": "<b>Acción:</b> arrodilla la Estatua de Baelor y descarta 1 de Poder de otro Personaje o Lugar que controles para poner en pie ese Personaje o Lugar.",
+        "traits": "Desembarco del Rey. Los Siete."
     },
     {
         "code": "13059",
         "flavor": "",
-        "name": "The Faith's Decree",
-        "text": "Play only if you control a <i>The Seven</i> character or location.\n<b>Action:</b> Name a non-agenda, non-plot card. Until the end of the phase, each opponent cannot trigger card abilities of cards with that name.",
-        "traits": "The Seven."
+        "name": "Decreto de la Fe",
+        "text": "Juega esta carta sólo si controlas un Personaje o Lugar <i>Los Siete</i>.\n<b>Acción:</b> nombra una carta que no sea Estrategia ni de Trama. Hasta el final de la fase, ningún adversario puede activar capacidades de cartas con ese nombre.",
+        "traits": "Los Siete."
+    },
+    {
+        "code": "13060",
+        "flavor": "",
+        "name": "Reforzar las murallas de la ciudad",
+        "text": "<b>Cuando se muestre esta carta:</b> pon en juego desde tu mano un Personaje que no sea único y que tenga un coste impreso de 3 o menos. (Con un coste impreso de 6 o menos si hay una carta de Trama <i>Ciudad</i> en tu pila de cartas usadas.)",
+        "traits": "Ciudad. Guerra."
     }
 ]

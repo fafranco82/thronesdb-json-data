@@ -16,10 +16,6 @@
         "name": "Formato draft"
     },
     {
-        "code": "variants",
-        "name": "Variantes"
-    },
-    {
         "code": "foc",
         "name": "Bandada de cuervos"
     },
@@ -40,8 +36,16 @@
         "name": "Arenas de Dorne"
     },
     {
+        "code": "storm",
+        "name": "Furia de la Tormenta"
+    },
+    {
         "code": "thorns",
         "name": "La Casa de las Espinas"
+    },
+    {
+        "code": "variants",
+        "name": "Variantes"
     },
     {
         "code": "war",

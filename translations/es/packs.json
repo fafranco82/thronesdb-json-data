@@ -12,6 +12,10 @@
         "name": "A través de los Siete Reinos"
     },
     {
+        "code": "BtRK",
+        "name": "Bajo la Fortelza Roja"
+    },
+    {
         "code": "CoS",
         "name": "Ciudad de secretos"
     },
@@ -40,6 +44,10 @@
         "name": "El favor de los antiguos dioses"
     },
     {
+        "code": "FotS",
+        "name": "Furia de la Tormenta"
+    },
+    {
         "code": "GoH",
         "name": "Fantasmas de Harrenhal"
     },
@@ -66,6 +74,10 @@
     {
         "code": "KotI",
         "name": "Reyes de las Islas"
+    },
+    {
+        "code": "LMHR",
+        "name": "Que su reinado sea largo"
     },
     {
         "code": "LoCR",
@@ -102,6 +114,10 @@
     {
         "code": "TAK",
         "name": "La llave del archimaestre"
+    },
+    {
+        "code": "TB",
+        "name": "El Aguasnegras"
     },
     {
         "code": "TBWB",
