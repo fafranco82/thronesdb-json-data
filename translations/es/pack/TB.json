@@ -1,58 +1,142 @@
 [
     {
+        "code": "13081",
+        "flavor": "",
+        "name": "Turba de plebeyos",
+        "text": "Sombra (4).\n<b>Acción:</b> sacrifica un Personaje [stark] único para poner en juego la Turba de plebeyos desde las Sombras.",
+        "traits": "Aliado."
+    },
+    {
         "code": "13082",
         "flavor": "",
-        "name": "Shadow of the North",
-        "text": "Shadow (1). Play only during a challenge.\n<b>Action:</b> Raise the claim value on your revealed plot card by 1 until the end of the challenge. If there is a <i>Winter</i> plot card revealed, return Shadow of the North to your hand instead of placing it in your discard pile. (Max 1 per challenge.)",
+        "name": "Sombra del Norte",
+        "text": "Sombra (1). Juega esta carta sólo durante un reto.\n<b>Acción:</b> aumenta en 1 el valor de Conquista de tu carta de Trama mostrada hasta el final del reto. Si hay mostrada una carta de Trama <i>Invierno</i>, devuelve la Sombra del Norte a tu mano en vez de colocarla en tu pila de descartes. (Máximo 1 por reto.)",
         "traits": ""
+    },
+    {
+        "code": "13083",
+        "flavor": "",
+        "name": "Bufón de Altojardín",
+        "text": "Perspicacia.\n<b>Reacción obligada:</b> después de que el Bufón de Altojardín robe una carta utilizando la Perspicacia, coloca una carta aleatoria de tu mano en la parte superior de tu mazo. (Elige la carta de tu mano que has de colocar sobre tu mazo si hay otro Personaje <i>Bufón</i> en juego.",
+        "traits": "Aliado. Bufón."
     },
     {
         "code": "13084",
         "flavor": "",
-        "name": "Shadow of the Rose",
-        "text": "Shadow (2).\n<b>Action:</b> Search the top 10 cards of your deck for a card with shadow, reveal it, and put it into shadows. Shuffle your deck. If there is a <i>Summer</i> plot card revealed, return Shadow of the Rose to your hand instead of placing it in your discard pile.",
+        "name": "Sombra de la Rosa",
+        "text": "Sombra (2).\n<b>Acción:</b> busca una carta con Sombra entre las 10 primeras cartas de tu mazo, muéstrala y ponla en las Sombras. Baraja tu mazo. Si hay mostrada una carta de Trama <i>Verano</i>, devuelve la Sombra de la Rosa a tu mano en vez de colocarla en tu pila de descartes.",
         "traits": ""
     },
     {
         "code": "13085",
-        "flavor": "\"Do what you want to the town, it's naught to me, but leave us be. We're no foes to you.\"",
+        "flavor": "\"Haz lo que quieras con la ciudad, eso a mí no me importa, pero déjanos en paz. No somos sus enemigos.\"",
         "name": "Yoren",
-        "text": "<b>Reaction:</b> After Yoren enters play, choose a character with printed cost 5 or lower. Take control of that character until Yoren leaves play.",
-        "traits": "Wandering Crow."
+        "text": "<b>Reacción:</b> después de que Yoren entre en juego, elige un Personaje con un coste impreso de 5 o menos. Toma el control de ese Personaje hasta que Yoren abandone el juego.",
+        "traits": "Cuervo errante."
+    },
+    {
+        "code": "13086",
+        "flavor": "",
+        "name": "Viaje al Muro",
+        "text": "<b>Reacción:</b> después de que ganes un reto como jugador atacante, muestra las 5 primeras cartas del mazo del adversario derrotado. Puedes poner en juego controlado por ti un Personaje que haya sido mostrado de este modo. Coloca las demás cartas mostradas en la parte inferior del mazo de ese jugador en un orden aleatorio. (Máximo 1 por reto.)",
+        "traits": ""
+    },
+    {
+        "code": "13087",
+        "flavor": "",
+        "name": "Ser Preston Greenfield",
+        "text": "Sombra (4).\n<b>Reacción:</b> después de que ganes un reto en el que Ser Preston Greenfield esté participando, el adversario derrotado debe trasladar 1 de Poder desde su carta de Facción hasta un Personaje que controle y que esté en pie.",
+        "traits": "Guardia Real. Caballero."
     },
     {
         "code": "13088",
         "flavor": "",
-        "name": "Blackwater Rush",
-        "text": "Shadow (2).\n<b>Reaction:</b> After a card you control comes out of shadows, kneel Blackwater Rush to choose a [baratheon] character. That character gains 1 power.",
-        "traits": "Westeros."
+        "name": "Río Aguasnegras",
+        "text": "Sombra (2).\n<b>Reacción:</b> después de que una carta que controles salga de las Sombras, arrodilla el Río Aguasnegras para elegir un Personaje [baratheon]. Ese Personaje gana 1 de Poder.",
+        "traits": "Poniente."
     },
     {
         "code": "13089",
         "flavor": "",
         "name": "Tyrion Lannister",
-        "text": "Shadow (5). Insight.\n<b>Reaction:</b> After a non-event card you control comes out of shadows, place another card you control in shadows with a shadow token on it. While that card is in shadows, it gains shadow (X). X is its printed cost. (Limit once per round.)",
-        "traits": "Lord. Small Council."
+        "text": "Sombra (5). Perspicacia.\n<b>Reacción:</b> después de que una carta que controles y que no sea de Evento salga de las Sombras, coloca en las Sombras otra carta que controles y ponle encima una ficha de Sombra. Mientras esa carta esté en las Sombras, gana Sombra (X). X es su coste impreso. (Límite de 1 vez por ronda.)",
+        "traits": "Lord. Consejo Privado."
     },
     {
         "code": "13090",
         "flavor": "",
-        "name": "A Very Large Shadow",
-        "text": "Shadow (0).\n<b>Action:</b> Reduce the cost of the next card you bring out of shadows this phase by 3. If there is a <i>Scheme</i> plot card revealed, return A Very Large Shadow to your hand instead of placing it in your discard pile. (Max 1 per phase.)",
+        "name": "Una sombra alargada",
+        "text": "Sombra (0).\n<b>Acción:</b> reduce en 3 el coste de la próxima carta que saques de las Sombras en esta fase. Si hay mostrada una carta de Trama <i>Conspiración</i>, devuelve una Sombra alargada a tu mano en vez de colocarla en tu pila de descartes. (Máximo 1 por fase.)",
         "traits": ""
+    },
+    {
+        "code": "13091",
+        "flavor": "Los maestres resultaban útiles, pero el tal Kerwin sólo le inspiraba desprecio. De mejillas sonrosadas y lampiñas, manos tiernas y rizos castaños, era más femenino que la mayoría de las mujeres.",
+        "name": "Maestre Kerwin",
+        "text": "<b>Interrupción:</b> cuando otro Personaje vaya a morir, mata al Maestre Kerwin para salvar a ese Personaje.",
+        "traits": "Maestre."
+    },
+    {
+        "code": "13092",
+        "flavor": "",
+        "name": "\"La copa sangrienta\"",
+        "text": "<b>Reacción:</b> después de que ganes un reto sin oposición, elige un Personaje controlado por el adversario derrotado y colócalo en la parte superior del mazo de su propietario. (Máximo 1 por reto.)",
+        "traits": "Canción."
+    },
+    {
+        "code": "13093",
+        "flavor": "",
+        "name": "Leal encubierta",
+        "text": "Sombra (4).\n<b>Acción:</b> descarta una carta [targaryen] con un coste impreso de 4 o más desde tu mano para poner en juego a la Leal encubierta desde las sombras.",
+        "traits": "Aliado."
+    },
+    {
+        "code": "13094",
+        "flavor": "…por primera vez en cientos de años, la noche cobró vida con la música de los dragones.",
+        "name": "Música de los dragones",
+        "text": "<b>Acción de Reto:</b> busca en tu mazo un Personaje <i>Dragón</i>, muéstralo y añádelo a tu mano. Baraja tu mazo.",
+        "traits": ""
+    },
+    {
+        "code": "13095",
+        "flavor": "",
+        "name": "Dagos Manwoody",
+        "text": "Mientras haya al menos 5 <i>Rasgos</i> diferentes entre todas las cartas de Trama que tengas en tu pila de Cartas usadas, Dagos Manwoody gana Renombre y Sigilo.",
+        "traits": "Casa Manwoody. Lord."
     },
     {
         "code": "13096",
         "flavor": "",
-        "name": "The Mountain's Skull",
-        "text": "Attached character gets +2 STR and gains renown.\n<b>Reaction:</b> After an opponent's character with printed STR 6 or higher is killed, put The Mountain's Skull into play from your hand or discard pile.",
-        "traits": "Item."
+        "name": "La calavera de la Montaña",
+        "text": "El Personaje vinculado recibe +2 a su FUE y gana Renombre.\n<b>Reacción:</b> después de que muera un Personaje de un adversario con una FUE impresa de 6 o más, pon en juego La calavera de la Montaña desde tu mano o tu pila de descartes.",
+        "traits": "Objeto."
+    },
+    {
+        "code": "13097",
+        "flavor": "",
+        "name": "Gorriones",
+        "text": "Sombra (2).\n<b>Reacción:</b> después de que Gorriones salga de las Sombras, traslada 1 de Poder desde la carta de Facción de un adversario hasta otra carta de <i>Los Siete</i> que controles.",
+        "traits": "Los Siete."
     },
     {
         "code": "13098",
         "flavor": "",
-        "name": "White Cloak",
-        "text": "<i>Knight</i> character you control only.\nAttached character gains the <i>Kingsguard</i> trait.\n<b>Interrupt:</b> When a <i>King</i> or <i>Queen</i> character would be killed, kneel attached character to save it.",
-        "traits": "Item."
+        "name": "Capa blanca",
+        "text": "Sólo Personajes <i>Caballero</i> que controles.\nEl Personaje vinculado gana el rasgo <i>Guardia Real</i>.\n<b>Interrupción:</b> cuando un Personaje <i>Rey</i> o <i>Reina</i> vaya a morir, arrodilla al Personaje vinculado para salvarlo.",
+        "traits": "Objeto."
+    },
+    {
+        "code": "13099",
+        "flavor": "",
+        "name": "El Libro Blanco",
+        "text": "Puedes incluir en tu mazo Personajes <i>Guardia Real</i> de cualquier facción que no sean leales. Debes incluir al menos 7 Personajes <i>Guardia Real</i> diferentes en tu mazo.\n<b>Reacción:</b> después de que ganes un reto, arrodilla tu carta de Facción para poner en pie a todos los Personajes <i>Guardia Real</i> defensores que controles. (A todos los Personajes <i>Guardia Real</i> participantes que controles si controlas un Personaje <i>Rey</i> o <i>Reina</i>.)",
+        "traits": ""
+    },
+    {
+        "code": "13100",
+        "flavor": "",
+        "name": "Revuelta en Desembarco del Rey",
+        "text": "<b>Interrupción obligada:</b> cuando termine la fase de Reto, si hay al menos 3 cartas de Trama <i>Ciudad</i> en tu pila de cartas usadas, descarta todos los Personajes del juego.",
+        "traits": "Ciudad."
     }
 ]

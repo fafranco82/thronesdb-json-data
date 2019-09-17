@@ -1,37 +1,142 @@
 [
     {
+        "code": "13061",
+        "flavor": "\"En Puerto Blanco somos buenas personas, honradas y leales.\" <cite>Leona Manderly</cite>",
+        "name": "Vigía de Puerto Blanco",
+        "text": "<b>Reacción:</b> después de que un Personaje salga de las Sombras, sacrifica al Vigía de Puerto Blanco para matar a ese Personaje.",
+        "traits": "Guardia. Casa Manderly."
+    },
+    {
         "code": "13062",
         "flavor": "",
-        "name": "Tower of the Hand",
-        "text": "<b>Reaction:</b> After a card you control comes out of shadows, if there is a <i>Winter</i> plot card revealed, choose and stand a [stark] character. (Limit once per phase.)",
-        "traits": "King's Landing."
+        "name": "Torre de la Mano",
+        "text": "<b>Reacción:</b> después de que una carta que controles salga de las Sombras, si hay mostrada una carta de Trama de <i>Invierno</i>, pon en pie un Personaje [stark] de tu elección. (Límite de 1 vez por fase.)",
+        "traits": "Desembarco del Rey."
+    },
+    {
+        "code": "13063",
+        "flavor": "Lady Gracefor, con un embarazo ya muy avanzado, le pidió permiso para llamar Tywin a su bebé si era niño, o Lanna si era niña.",
+        "name": "Alyce Graceford",
+        "text": "<b>Acción:</b> arrodilla a Alyce Graceford para elegir otro Personaje <i>Los Siete</i>. Hasta el final de la fase, ese Personaje gana Renombre.",
+        "traits": "Lady. Los Siete."
     },
     {
         "code": "13064",
         "flavor": "",
-        "name": "The Maidenvault",
-        "text": "Shadow (1).\n<b>Reaction:</b> After The Maidenvault comes out of shadows, choose a participating <i>Lady</i> character. Stand it and remove it from the challenge.\n<b>Interrupt:</b> When the challenges phase ends, kneel The Maidenvault to return it to shadows.",
-        "traits": "King's Landing."
+        "name": "La Bóveda de las Doncellas",
+        "text": "Sombra (1).\n<b>Reacción:</b> después de que La Bóveda de las Doncellas salga de las Sombras, elige un Personaje <i>Lady</i> participante. Ponlo en pie y retíralo del reto.",
+        "traits": "Desembarco del Rey."
+    },
+    {
+        "code": "13065",
+        "flavor": "",
+        "name": "Patrulla forestal",
+        "text": "Sombra (4).\nSin Accesorios excepto <i>Armas</i>.\n<b>Acción:</b> arrodilla un Lugar [thenightswatch] para poner en juego la Patrulla forestal desde las Sombras.",
+        "traits": "Aliado. Explorador."
+    },
+    {
+        "code": "13066",
+        "flavor": "",
+        "name": "Pájaro Negro",
+        "text": "Sombra (1).\n<b>Reacción:</b> después de que el Pájaro Negro salga de las Sombras, pon en pie otro Lugar [thenightswatch] de tu elección.",
+        "traits": "Barco de guerra."
+    },
+    {
+        "code": "13067",
+        "flavor": "",
+        "name": "Guardia del castillo",
+        "text": "Sombra (3).\n<b>Reacción:</b> después de que la Guardia del castillo salga de las Sombras, elige otro Personaje que haya salido de las Sombras en esta fase. Devuelve ese Personaje a las Sombras.",
+        "traits": "Guardia."
+    },
+    {
+        "code": "13068",
+        "flavor": "\"El gobernante que se esconde tras ejecutores a sueldo olvida pronto lo que es la muerte.\" <cite>Eddard Stark</cite>",
+        "name": "Ejecución pública",
+        "text": "<b>Acción de Reclutamiento:</b> mata a un Personaje arrodillado de tu elección.",
+        "traits": ""
+    },
+    {
+        "code": "13069",
+        "flavor": "",
+        "name": "Septa vacilante",
+        "text": "<b>Reacción:</b> después de que ganes un reto [intrigue], sacrifica a la Septa vacilante para elegir un Personaje o Lugar que controles. Esa carta gana 1 de Poder.",
+        "traits": "Los Siete."
     },
     {
         "code": "13070",
         "flavor": "",
-        "name": "Tunnels of the Red Keep",
-        "text": "Shadow (2).\n<b>Action:</b> Kneel Tunnels of the Red Keep to return it to shadows. Then, until the end of the phase, each character you control gets +1 STR for each card you control in shadows. (Max 1 per phase.)",
-        "traits": "King's Landing."
+        "name": "Túneles de la Fortaleza Roja",
+        "text": "Sombra (2).\n<b>Acción:</b> arrodilla Túneles de la Fortaleza Roja para devolverla a las Sombras. Luego, hasta el final de la fase, cada Personaje que controles recibe un +1 a su FUE por cada carta que controles en las Sombras. (Máximo 1 por fase.)",
+        "traits": "Desembarco del Rey."
+    },
+    {
+        "code": "13071",
+        "flavor": "\"¿Cómo ha de ser? ¿De pleitesía o de desafío?\"",
+        "name": "Gorold Goodbrother",
+        "text": "Pillaje. Renombre.\n<b>Reacción:</b> después de que un Lugar entre en la pila de descartes de un adversario, pon en pie a Gorold Goodbrother. (Límite de 2 veces por fase.)",
+        "traits": "Casa Goodbrother. Lord."
     },
     {
         "code": "13072",
         "flavor": "",
-        "name": "Shadow of the Isles",
-        "text": "Shadow (1).\n<b>Action:</b> Each player chooses a non-limited location he or she controls and discards it from play. If there is a <i>War</i> plot card revealed, return Shadow of the Isles to your hand instead of placing it in your discard pile.",
+        "name": "Sombra de las Islas",
+        "text": "Sombra (1).\n<b>Acción:</b> cada jugador elige un Lugar no Limitado que controle y lo descarta del juego. Si hay mostrada una carta de Trama <i>Guerra</i>, devuelve la Sombra de las Islas a tu mano en vez de colocarla en tu pila de descartes.",
         "traits": ""
+    },
+    {
+        "code": "13073",
+        "flavor": "",
+        "name": "Asesino del Sombranegra",
+        "text": "Sombra (2).\n<b>Reacción:</b> después de que el Asesino del Sombranegra salga de las Sombras, mata a un Personaje de tu elección que tenga FUE 1 o menos.",
+        "traits": "Aliado."
+    },
+    {
+        "code": "13074",
+        "flavor": "",
+        "name": "Calavera de dragón",
+        "text": "Sólo Personajes [targaryen]. Sombra (2).\nMientras no haya Personajes <i>Dragón</i> en juego, el Personaje vinculado gana Intimidación y Renombre.",
+        "traits": "Objeto."
+    },
+    {
+        "code": "13075",
+        "flavor": "\"A menos que vuelva a Dorne, no puedo hacer nada con Sarella, excepto rezar para que tenga más sentido común que sus hermanas.\" <cite>Doran Martell</cite>",
+        "name": "Sarella Arena",
+        "text": "<b>Reacción:</b> después de que pierdas un reto en el que Sarella Arena esté atacando, puedes iniciar un reto adicional de ese tipo en esta fase. (Límite de 1 vez por fase.)",
+        "traits": "Bastardo. Serpiente de arena."
+    },
+    {
+        "code": "13076",
+        "flavor": "",
+        "name": "Triguero",
+        "text": "<b>Reacción:</b> después de que muestres una carta de Trama, coloca 1 ficha de Travesía sobre Triguero.\n<b>Acción:</b> sacrifica Triguero para buscar en tu mazo un Personaje con un coste impreso de X o menos y ponerlo en juego. Baraja tu mazo. X es la cantidad de fichas de Travesía que haya sobre Tiguero.",
+        "traits": "Barco de guerra."
+    },
+    {
+        "code": "13077",
+        "flavor": "",
+        "name": "Consejero de la Corona",
+        "text": "<b>Acción:</b> arrodilla al Consejero de la Corona para reducir en 1 el coste del siguiente Personaje <i>Maestre</i> que reclutes en esta fase.",
+        "traits": "Aliado. Maestre."
+    },
+    {
+        "code": "13078",
+        "flavor": "\"A veces, a los de nuestra orden nos llaman caballeros del pensamiento.\" <cite>Maestre Luwin</cite>",
+        "name": "Caballeros del pensamiento",
+        "text": "<b>Acción de Reto:</b> hasta el final de la fase, cada Personaje <i>Maestre</i> que controles gana un icono [military].",
+        "traits": "Ciudadela."
     },
     {
         "code": "13079",
         "flavor": "",
-        "name": "Kingdom of Shadows",
-        "text": "You may include non-loyal characters with the printed shadow keyword from any faction in your deck.\nIncrease the cost of each character you marshal by 1. Reduce the cost of the first character you bring out of shadows each round by 2.",
+        "name": "Reino de sombras",
+        "text": "Puedes incluir en tu mazo Personajes de cualquier facción que no sean leales y que tengan impresa la palabra clave Sombra.\nAumenta en 1 el coste de cada Personaje que reclutes. Reduce en 2 el coste del primer Personaje que saques de las Sombras cada ronda.",
         "traits": ""
+    },
+    {
+        "code": "13080",
+        "flavor": "",
+        "name": "Ciudad de arañas",
+        "text": "<b>Cuando se muestre esta carta:</b> inicia la capacidad de \"cuando se muestre esta carta\" de una carta de Trama <i>Ciudad</i> que esté en tu pila de cartas usadas como si la acabases de mostrar.",
+        "traits": "Ciudad. Conspiración."
     }
 ]
