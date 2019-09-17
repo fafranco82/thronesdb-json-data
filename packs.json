@@ -331,7 +331,7 @@
         "cgdb_id": 49,
         "code": "BtRK",
         "cycle_code": "landing",
-        "date_release": null,
+        "date_release": "2019-07-19",
         "name": "Beneath the Red Keep",
         "size": 20
     },
@@ -339,7 +339,7 @@
         "cgdb_id": 50,
         "code": "TB",
         "cycle_code": "landing",
-        "date_release": null,
+        "date_release": "2019-08-22",
         "name": "The Blackwater",
         "size": 20
     },
@@ -357,6 +357,14 @@
         "cycle_code": "storm",
         "date_release": "2019-06-06",
         "name": "Fury of the Storm",
+        "size": 52
+    },
+    {
+        "cgdb_id": 53,
+        "code": "DotE",
+        "cycle_code": "dragons",
+        "date_release": null,
+        "name": "Dragons of the East",
         "size": 52
     }
 ]
