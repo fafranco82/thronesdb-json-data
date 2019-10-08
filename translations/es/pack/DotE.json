@@ -1,0 +1,366 @@
+[
+    {
+        "code": "15001",
+        "flavor": "\"Why do the gods make kings and queens, if not to protect the ones who can't protect themselves?\"",
+        "name": "Daenerys Targaryen",
+        "text": "<b>Action:</b> Search the top 10 cards of your deck for an attachment or <i>Dragon</i> card, reveal it, and add it to your hand (you may put it into play instead if its printed cost is 3 or lower). Shuffle your deck. (Limit once per round.)",
+        "traits": "Lady. Queen. Stormborn."
+    },
+    {
+        "code": "15002",
+        "flavor": "",
+        "name": "Drogon",
+        "text": "No attachments.\nEach <i>Stormborn</i> character you control gains renown.\n<b>Reaction:</b> After you win a challenge in which Drogon is attacking, kill each character the defending player controls with STR 1 or lower.",
+        "traits": "Dragon."
+    },
+    {
+        "code": "15003",
+        "flavor": "",
+        "name": "Rhaegal",
+        "text": "No attachments.\n<b>Reaction:</b> After you win a challenge in which Rhaegal is attacking, choose and stand another character you control. Then, if that character has the <i>Dragon</i> or <i>Stormborn</i> trait, stand Rhaegal. (Limit once per phase.)",
+        "traits": "Dragon."
+    },
+    {
+        "code": "15004",
+        "flavor": "",
+        "name": "Viserion",
+        "text": "No attachments.\nEach <i>Stormborn</i> character you control gains stealth.\nWhile Viserion is attacking, each participating non-<i>Dragon</i>, non-<i>Stormborn</i> characters gets -2 STR.",
+        "traits": "Dragon."
+    },
+    {
+        "code": "15005",
+        "flavor": "\"Come, my blood. The stallions call, this place is ashes. It is time to ride.\"",
+        "name": "Khal Drogo",
+        "text": "Renown.\n<b>Interrupt:</b> When an <i>Army</i> or <i>Dothraki</i> character would be returned to your hand, discard 1 card from your hand to save it.",
+        "traits": "Dothraki. Lord."
+    },
+    {
+        "code": "15006",
+        "flavor": "",
+        "name": "Galazza Galare",
+        "text": "<b>Reaction:</b> After you marshal Galazza Galare, search the top 10 cards of your deck for, either: a [targaryen] character with printed cost 6 or higher, or up to 3 [targaryen] characters with printed cost 2 or lower. Reveal each searched-for card and add it to your hand. Shuffle your deck.",
+        "traits": "Grace."
+    },
+    {
+        "code": "15007",
+        "flavor": "\"Khaleesi, we saw him strike you. Would you see the color of his blood?\"",
+        "name": "Jhogo",
+        "text": "<b>Reaction:</b> After you win a [military] challenge in which you control 2 or more attacking <i>Dothraki</i> characters, move 1 power from the losing opponent's faction card to your own.",
+        "traits": "Bloodrider. Dothraki."
+    },
+    {
+        "code": "15008",
+        "flavor": "\"... I say that blood must pay for blood. Take one man from each of the families I have named and kill him. The next time one of yours is slain, take two from each great House and kill them both. There will not be a third murder.\"",
+        "name": "The Shavepate",
+        "text": "<b>Challenges Action:</b> Pay X gold to put a character with printed cost X or lower into play from your discard pile. (Limit once per phase.)",
+        "traits": "Commander. Guard."
+    },
+    {
+        "code": "15009",
+        "flavor": "\"Khaleesi, better a man should swallow scorpions than trust in the spawn of shadows, who dare not show their face beneath the sun. It is known.\"",
+        "name": "Rakharo",
+        "text": "<b>Reaction:</b> After you win a [military] challenge in which you control 2 or more attacking <i>Dothraki</i> characters, discard 1 card at random from the losing opponent's hand.",
+        "traits": "Bloodrider. Dothraki."
+    },
+    {
+        "code": "15010",
+        "flavor": "\"That one has an evil reputation, even in Westeros. Do not be misled by his manner, Your Grace.\" <cite>Ser Barristan Selmy</cite>",
+        "name": "The Titan's Bastard",
+        "text": "<b>Action:</b> Kneel The Titan's Bastard to return a <i>Mercenary</i> character from your discard pile to your hand.",
+        "traits": "Bastard. Commander. Mercenary."
+    },
+    {
+        "code": "15011",
+        "flavor": "Daenerys would have prohibited contests between women as well, but Barsena Blackhair protested that she had as much right to risk her life as any man.",
+        "name": "Barsena Blackhair",
+        "text": "No attachments except <i>Weapon</i>.\nWhile there is a <i>Weapon</i> attachment attached to Barsena Blackhair, she gets +3 STR.",
+        "traits": "Pit Fighter."
+    },
+    {
+        "code": "15012",
+        "flavor": "At first Groleo had wanted the dragons caged and Dany had consented to put his fears at ease, but their misery was so palpable that she soon changed her mind and insisted they be freed.",
+        "name": "Captain Groleo",
+        "text": "<b>Reaction:</b> After an attachment enters play, gain 1 gold. (Limit once per phase.)",
+        "traits": "Captain."
+    },
+    {
+        "code": "15013",
+        "flavor": "",
+        "name": "Blue Graces",
+        "text": "<b>Challenges Action:</b> Remove Blue Graces from the game to choose a card with printed cost 6 or higher in your discard or dead pile and shuffle it into your deck.",
+        "traits": "Ally. Grace."
+    },
+    {
+        "code": "15014",
+        "flavor": "",
+        "name": "Dothraki Handmaiden",
+        "text": "While you control Daenerys Targaryen, you may marshal facedown cards attached to Dothraki Handmaiden as if they were in your hand.\n<b>Marshaling Action:</b> Reveal an attachment from your hand. Attach it to Dothraki Handmaiden facedown as an attachment.",
+        "traits": "Companion. Dothraki."
+    },
+    {
+        "code": "15015",
+        "flavor": "The horselords might put on rich fabrics and sweet perfumes when they visited the Free Cities, but out under the open sky they kept the old ways.",
+        "name": "Horselord",
+        "text": "While Horselord is attacking, it gets +1 STR for each other attacking <i>Dothraki</i> character you control.",
+        "traits": "Dothraki."
+    },
+    {
+        "code": "15016",
+        "flavor": "\"There are old sellswords and bold sellswords, but no old bold sellswords.\"",
+        "name": "Brown Ben Plumm",
+        "text": "<b>Forced Interrupt:</b> When the challenges phase ends, if you have no gold in your gold pool, sacrifice Brown Ben Plumm.",
+        "traits": "Mercenary."
+    },
+    {
+        "code": "15017",
+        "flavor": "",
+        "name": "Womb of the World",
+        "text": "<b>Action:</b> Kneel Womb of the World to reveal the top 5 cards of your deck. You may chose a <i>Dothraki</i> character revealed this way and put it into play. Shuffle your deck. At the end of the phase, if that character is still in play, return it to your hand.",
+        "traits": "Essos."
+    },
+    {
+        "code": "15018",
+        "flavor": "\"There are orchards, farms, mines ... I own some such myself, though I seldom visit them. Why should I spend my days out here, with the myriad delights of Pentos close at hand?\" <cite>Magister Illyrio</cite>",
+        "name": "Pentos",
+        "text": "<b>Reaction:</b> After you draw an attachment, kneel Pentos to reveal that attachment and put it into play. Then, draw a card.",
+        "traits": "Essos. Free Cities."
+    },
+    {
+        "code": "15019",
+        "flavor": "",
+        "name": "Khaleesi",
+        "text": "<i>Lady</i> character only.\n<b>Reaction:</b> After you win a challenge in which attached character is participating, kneel Khaleesi to, either: stand attached character, or raise the claim value on your revealed plot card by 1 until the end of the challenge.",
+        "traits": "Title."
+    },
+    {
+        "code": "15020",
+        "flavor": "",
+        "name": "Dragon Egg",
+        "text": "Attached character gains insight.\n<b>Reaction:</b> After the marshaling phase begins, if attached character is Daenerys Targaryen, sacrifice Dragon Egg to search your deck for a <i>Hatchling</i> character and put it into play. Shuffle your deck.",
+        "traits": "Dragon. Item."
+    },
+    {
+        "code": "15021",
+        "flavor": "No one wore armor in the fighting pits. It was blood the crowds came for: death, dismemberment, and the shrieks of agony, the music of scarlet sands.",
+        "name": "Pit Fighter's Blade",
+        "text": "Attached character gains renown during [military] challenges.",
+        "traits": "Weapon."
+    },
+    {
+        "code": "15022",
+        "flavor": "",
+        "name": "Overwhelming Numbers",
+        "text": "Play only during a challenge in which you control 2 or more attacking <i>Dothraki</i> characters.\n<b>Action:</b> Put up to 2 <i>Dothraki</i> characters into play from your hand and/or discard pile knelt, participating as attackers. At the end of the challenge, if any of those characters are still in play, return them to your hand. (Max 1 per challenge.)",
+        "traits": ""
+    },
+    {
+        "code": "15023",
+        "flavor": "\"For dragons are fire made flesh, and fire is power.\" <cite>Quaithe of the Shadow</cite>",
+        "name": "Fire Made Flesh",
+        "text": "<b>Marshaling Action:</b> Sacrifice a <i>Hatchling</i> character to search your hand and deck for a <i>Dragon</i> character with the same title and put it into play. Shuffle your deck.",
+        "traits": ""
+    },
+    {
+        "code": "15024",
+        "flavor": "",
+        "name": "Incinerate",
+        "text": "<b>Action:</b> Choose a participating character and discard 1 or more cards from your hand. Until the end of the challenge, that character gets -2 STR for each card discarded this way.",
+        "traits": ""
+    },
+    {
+        "code": "15025",
+        "flavor": "",
+        "name": "Delena Florent",
+        "text": "During the challenges phase, non-<i>Bastard</i> characters cannot stand.\n<b>Reaction:</b> After Delena Florent enters play, search your deck for a <i>Bastard</i> character, reveal it, and add it to your hand. Shuffle your deck.",
+        "traits": "House Florent. Lady."
+    },
+    {
+        "code": "15026",
+        "flavor": "",
+        "name": "Dragonstone Convert",
+        "text": "<b>Challenges Action:</b> Name an event. Until the end of the phase, events with that title cannot be played. (Limit once per phase.)",
+        "traits": "House Florent. R'hllor."
+    },
+    {
+        "code": "15027",
+        "flavor": "\"Rodrik has no daughters, only books. Hotho will be his heir, and I will be the king.\" <cite>Victarion Greyjoy</cite>",
+        "name": "Hotho Humpback",
+        "text": "<b>Challenges Action:</b> Each player draws 1 card. Each player checks reserve. (Limit once per round.)",
+        "traits": "House Harlaw."
+    },
+    {
+        "code": "15028",
+        "flavor": "",
+        "name": "Ten Towers Galley",
+        "text": "While Ten Towers Galley is standing, reduce the reserve value on each opponent's revealed plot by 1.\n<b>Action:</b> Kneel a location with printed cost 2 or higher to kneel Ten Towers Galley. Any player may initiate this ability.",
+        "traits": "House Harlaw. Warship."
+    },
+    {
+        "code": "15029",
+        "flavor": "Ser Meryn Trant simply did not care.",
+        "name": "Ser Meryn Trant",
+        "text": "<b>Interrupt:</b> When a card is discarded from an opponent's hand, remove it from the game instead of placing it in his or her discard pile.",
+        "traits": "Kingsguard. Knight."
+    },
+    {
+        "code": "15030",
+        "flavor": "",
+        "name": "The Red Keep",
+        "text": "<b>Interrupt:</b> When the effects of an opponent's triggered character, location, or attachment ability would initiate, kneel The Red Keep to cancel those effects.\n+1 Income.",
+        "traits": "King's Landing."
+    },
+    {
+        "code": "15031",
+        "flavor": "\"I should be honored if you'd let me serve you.\"",
+        "name": "Spotted Sylva",
+        "text": "<b>Forced Reaction:</b> After you lose a challenge in which Spotted Sylva is attacking, each player must choose a participating character he or she controls, if able, and return it to its owner's hand.",
+        "traits": "House Santagar. Lady."
+    },
+    {
+        "code": "15032",
+        "flavor": "",
+        "name": "Choosing the Spear",
+        "text": "<b>Reaction:</b> After a [martell] character you control is declared as an attacker in a [military] challenge, raise the claim value on your revealed plot card by 1 until the end of the challenge. If you lose the challenge, choose and kill a character you control. (Max 1 per challenge.)",
+        "traits": ""
+    },
+    {
+        "code": "15033",
+        "flavor": "\"I am being foolish, Lord Commander, but ... this letter frightens me.\"",
+        "name": "Clydas",
+        "text": "<b>Action:</b> Move 1 gold from an opponent's gold pool to your own. (Limit once per phase.)",
+        "traits": "Steward."
+    },
+    {
+        "code": "15034",
+        "flavor": "",
+        "name": "Cage of Ravens",
+        "text": "<i>Steward</i> character only.\n<b>Action:</b> Kneel Cage of Ravens to put a card with printed cost 1 or lower into play from your hand.",
+        "traits": "Item. Raven."
+    },
+    {
+        "code": "15035",
+        "flavor": "\"He was our king! He was brave and good, and the Freys murdered him. If Lord Stannis will avenge him, we should join Lord Stannis.\"",
+        "name": "Wylla Manderly",
+        "text": "<b>Reaction:</b> After a character you control is sacrificed or killed, choose another card in your discard pile and place it on the bottom of your deck. (Limit once per phase.)",
+        "traits": "House Manderly. Lady."
+    },
+    {
+        "code": "15036",
+        "flavor": "Crossbow bolts thudded into the wood, one two three, as he flung it down on top of his king.",
+        "name": "Fight to the Last",
+        "text": "<b>Interrupt:</b> When a character you control would be killed, save it, stand it, and set its STR to 1 until the end of the phase. At the end of the phase, if that character is still in play, kill it (cannot be saved).",
+        "traits": ""
+    },
+    {
+        "code": "15037",
+        "flavor": "\"Mathis Rowan is sensible, prudent, well liked...\" <cite>Ser Kevan Lannister</cite>",
+        "name": "Mathis Rowan",
+        "text": "<b>Action:</b> Choose an opponent and a character, location, or attachment you control. That player takes control of that card. Then, gain 2 gold. (Limit once per round.)",
+        "traits": "Lord. Small Council."
+    },
+    {
+        "code": "15038",
+        "flavor": "",
+        "name": "Champion's Favor",
+        "text": "<i>Lady</i> character only.\n<b>Action:</b> Kneel attached character to choose a participating non-<i>Lady</i> character and give it +X STR until the end of the challenge. X is 2 higher than attached character's STR.",
+        "traits": "Item."
+    },
+    {
+        "code": "15039",
+        "flavor": "\"We keep no headsman in the Eyrie, my lord of Lannister. Open the Moon Door.\"",
+        "name": "Lysa Arryn",
+        "text": "<b>Interrupt:</b> When Lysa Arryn is killed, choose another character, location, or attachment and remove it from the game.",
+        "traits": "House Arryn. House Tully. Lady."
+    },
+    {
+        "code": "15040",
+        "flavor": "",
+        "name": "Tormund Giantsbane",
+        "text": "Intimidate.\n<b>Reaction:</b> After you win a challenge in which Tormund Giantsbane is participating, place a tale token on him.\n<b>Action:</b> Discard 1 tale token from Tormund Giantsbane to give a <i>Wildling</i> character +2 STR and renown until the end of the phase.",
+        "traits": "Storyteller. Wildling."
+    },
+    {
+        "code": "15041",
+        "flavor": "",
+        "name": "Archmaester Marwyn",
+        "text": "Once per phase, you may marshal or play a facedown card under your agenda as if it were in your hand.\n<b>Reaction:</b> After Archmaester Marwyn enters play, place the top 2 cards of your deck facedown under your agenda.",
+        "traits": "Maester."
+    },
+    {
+        "code": "15042",
+        "flavor": "The Titan of Braavos ... was a giant as tall as a mountain, and whenever Braavos stood in danger he would wake with fire in his eyes, his rocky limbs grinding and groaning as he waded out into the sea to smash the enemies.",
+        "name": "Braavos",
+        "text": "<b>Marshaling Action:</b> Kneel Braavos to gain X gold. X is the number of different factions among characters you control.",
+        "traits": "Essos. Free Cities."
+    },
+    {
+        "code": "15043",
+        "flavor": "",
+        "name": "Water Dancer's Sword",
+        "text": "Character with printed STR 3 or lower only. Ambush (1).\nAttached character gets +2 STR.\n<b>Forced Interrupt:</b> When the challenges phase ends, return Water Dancer's Sword to hand.",
+        "traits": "Weapon."
+    },
+    {
+        "code": "15044",
+        "flavor": "",
+        "name": "Lay Waste",
+        "text": "<b>Dominance Action:</b> Choose a non-limited location or attachment and discard it from play. Then, that card's owner may search his or her deck for a location or attachment with lower printed cost, put it into play, and shuffle his or her deck.",
+        "traits": ""
+    },
+    {
+        "code": "15045",
+        "flavor": "The gaoler's eyes had gone big as boiled eggs as he yanked open the drawstring and beheld the glint of gold.",
+        "name": "Bribery",
+        "text": "<b>Action:</b> Choose and kneel a character with printed cost X or lower. If that character has the <i>Ally</i> or <i>Mercenary</i> trait, you may take control of it instead.",
+        "traits": ""
+    },
+    {
+        "code": "15046",
+        "flavor": "",
+        "name": "Fury of the Khalasar",
+        "text": "<b>Reaction:</b> After the challenges phase begins, put a <i>Dothraki</i> character into play from your hand. At the end of the phase, if that card is still in play, return it to your hand.",
+        "traits": "War."
+    },
+    {
+        "code": "15047",
+        "flavor": "",
+        "name": "The Lost Message",
+        "text": "<b>Action:</b> Each player shuffles his or her hand into his or her deck. Then, each player adds the top X cards of his or her deck to his or her hand. X is the number of cards he or she shuffled this way. (Limit once per round.)",
+        "traits": "Scheme."
+    },
+    {
+        "code": "15048",
+        "flavor": "",
+        "name": "The White Swords",
+        "text": "<b>When Revealed:</b> You may put a <i>Kingsguard</i> character into play from your hand or discard pile.",
+        "traits": "Kingsguard."
+    },
+    {
+        "code": "15049",
+        "flavor": "",
+        "name": "Champion's Challenge",
+        "text": "<b>Reaction:</b> After an opponent initiates a challenge against you, kneel a character with the highest STR among character you control to end the challenge with no winner or loser. (Limit once per phase.)",
+        "traits": "War."
+    },
+    {
+        "code": "15050",
+        "flavor": "",
+        "name": "At the Palace of Sorrows",
+        "text": "Set each character's STR to 3.",
+        "traits": "Omen."
+    },
+    {
+        "code": "15051",
+        "flavor": "",
+        "name": "Loan from the Iron Bank",
+        "text": "While Loan from the Iron Bank is in your used pile, reduce the gold value on your revealed plot by 1.",
+        "traits": "Kingdom."
+    },
+    {
+        "code": "15052",
+        "flavor": "",
+        "name": "The Prince Who Came Too Late",
+        "text": "<b>Standing Action:</b> Search your deck for a character and put it into play. Shuffle your deck. (Limit once per round.)",
+        "traits": "Legacy. Noble."
+    }
+]

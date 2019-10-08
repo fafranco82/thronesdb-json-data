@@ -3,42 +3,141 @@
         "code": "13101",
         "flavor": "",
         "name": "Arya Stark",
-        "text": "Shadow (4). Stealth.\n<b>Reaction:</b> After Arya Stark enters play, place a prayer token on up to 5 different characters you don't control. If Arya Stark leaves play, discard those tokens.\n<b>Reaction:</b> After a character with a prayer token is killed, stand Arya Stark and draw 1 card.",
+        "text": "Sombra (4). Sigilo.\n<b>Reacción:</b> después de que Arya Stark entre en juego, coloca una ficha de Rezo sobre un máximo de 5 Personajes distintos que no controles. Si Arya Stark abandona el juego, esas fichas se descartan.\n<b>Reacción:</b> después de que muera un Personaje que tenga encima una ficha de Rezo, pon en pie a Arya Stark y roba 1 carta.",
         "traits": "Lady."
     },
     {
         "code": "13102",
         "flavor": "",
-        "name": "Blood of the First Men",
-        "text": "Character you control only.\nAttached character gains the <i>Old Gods</i> trait.\n<b>Action:</b> During a challenge in which you control a participating [stark] character, kneel attached character to have it participate in the challenge on your side.",
-        "traits": "Legacy. Old Gods."
+        "name": "Sangre de los Primeros Hombres",
+        "text": "Sólo Personajes que tú controles.\nEl Personaje vinculado gana el rasgo <i>Antiguos Dioses</i>.\n<b>Acción:</b> durante un reto en el que controles un Personaje [stark] participante, arrodilla al Personaje vinculado para hacer que participe en el reto de tu parte.",
+        "traits": "Legado. Antiguos Dioses."
+    },
+    {
+        "code": "13103",
+        "flavor": "",
+        "name": "El séquito de la Reina",
+        "text": "Sombra (4).\n<b>Acción:</b> pon en juego El séquito de la Reina desde las Sombras. Luego cada adversario roba 2 cartas.",
+        "traits": "Aliado. Acompañante."
+    },
+    {
+        "code": "13104",
+        "flavor": "",
+        "name": "Cazadora",
+        "text": "Mientras Cazadora esté en pie, cada Personaje [tyrell] que controles y que tenga un coste impreso de 3 o menos recibe un +1 a su FUE.\n<b>Acción:</b> arrodilla Cazadora para elegir un Personaje [tyrell] con un coste impreso de 3 o menos. Ese Personaje recibe un +3 a su FUE hasta el final de la fase.",
+        "traits": "Barco de guerra."
+    },
+    {
+        "code": "13105",
+        "flavor": "",
+        "name": "Prisionero reclutado",
+        "text": "Sombra (2).\n<b>Acción:</b> durante un reto en el que tú seas el jugador defensor, arrodilla al Prisionero reclutado para hacer que participe en el reto de tu parte. Si pierdes el reto, devuelve el Prisionero reclutado a las Sombras.",
+        "traits": "Aliado. Recluta."
+    },
+    {
+        "code": "13106",
+        "flavor": "Colina Escarcha y Puertahelada aún estabas sin guarnecer, asi que Jon les había pedido opinión sobre los jefes salvajes y señores de la guerra más apropiados para asentarse allí.",
+        "name": "Puertahelada",
+        "text": "<b>Interrupción:</b> cuando otro Lugar que controles vaya a ser descartado del juego, arrodilla Puertahelada para salvarlo.",
+        "traits": "El Norte."
     },
     {
         "code": "13107",
-        "flavor": "\"I swear to you, I was never so alive as when I was winning this throne, or so dead now that I've won it.\"",
+        "flavor": "\"Te lo juro, jamás estuve tan vivo como cuando peleaba por este trono, ni tan muerto como ahora que lo tengo.\"",
         "name": "Robert Baratheon",
-        "text": "Renown.\n<b>Reaction:</b> After Robert Baratheon gains power, gain 1 power for your faction. (Limit twice per round.)",
-        "traits": "Lord. King."
+        "text": "Renombre.\n<b>Reacción:</b> después de que Robert Baratheon gane Poder, ganas 1 de Poder para tu facción. (Límite de 2 veces por ronda.)",
+        "traits": "Lord. Rey."
     },
     {
         "code": "13108",
         "flavor": "",
-        "name": "Long May He Reign",
-        "text": "<i>King</i> character only.\nAttached character cannot be killed.\n<b>Forced Reaction:</b> After you lose a [power] challenge as the defending player, sacrifice Long May He Reign.",
-        "traits": "Legacy."
+        "name": "Que su reinado sea largo",
+        "text": "Sólo Personajes <i>Rey</i>.\nEl Personaje vinculado no puede morir.\n<b>Reacción obligada:</b> después de que pierdas un reto [power] como jugador defensor, sacrifica Que su reinado sea largo.",
+        "traits": "Legado."
+    },
+    {
+        "code": "13109",
+        "flavor": "Aurane Mares, el joven y atractivo Bastardo de Marcaderiva, sería su gran almirante.",
+        "name": "El Bastardo de Marcaderiva",
+        "text": "<b>Reacción:</b> después de que ganes un reto [intrigue] en el que esté participando El Bastardo de Marcaderiva, pon en pie un Lugar de tu elección.",
+        "traits": "Bastardo. Consejo Privado."
+    },
+    {
+        "code": "13110",
+        "flavor": "",
+        "name": "Gremio de Alquimistas",
+        "text": "Sombra (2).\n<b>Interrupción:</b> cuando vayan a iniciarse los efectos de una capacidad activada de un Personaje, si éste no tiene la palabra clave Sombra, arrodilla el Gremio de Alquimistas y devuélvelo a las Sombras para anular esos efectos. (Máximo 1 por fase.)",
+        "traits": "Desembarco del Rey."
+    },
+    {
+        "code": "13111",
+        "flavor": "",
+        "name": "Asaltantes del Aguasnegras",
+        "text": "Sombra (3).\n<b>Reacción:</b> después de que los Asaltantes del Aguasnegras salgan de las Sombras, elige un Lugar con un coste impreso de 2 o menos que esté en la pila de descartes de un adversario. Pon ese Lugar en juego controlado por ti.",
+        "traits": "Mercenario. Asaltante."
+    },
+    {
+        "code": "13112",
+        "flavor": "",
+        "name": "Plaza del Pescado",
+        "text": "<b>Acción de Reclutamiento:</b> si hay al menos 10 cartas en la pila de descartes de un adversario, arrodilla la Plaza del Pescado para robar 1 carta y ganar 1 de Oro.",
+        "traits": "Desembarco del Rey."
     },
     {
         "code": "13113",
         "flavor": "",
         "name": "Ser Jorah Mormont",
-        "text": "Shadow (4). No attachments except <i>Weapon</i>.\n<b>Interrupt:</b> When Ser Jorah Mormont is discarded from your hand, put him into shadows instead of placing him in your discard pile.",
-        "traits": "Companion. Knight."
+        "text": "Sombra (4). Sin Accesorios excepto <i>Armas</i>.\n<b>Interrupción:</b> cuando Ser Jorah Mormont sea descartado de tu mano, colócalo en las Sombras en vez de colocarlo en tu pila de descartes.",
+        "traits": "Acompañante. Caballero."
     },
     {
         "code": "13114",
         "flavor": "",
-        "name": "Mercenary Contract",
-        "text": "Attached character gains the <i>Mercenary</i> trait.\n<b>Reaction:</b> After you win a challenge in which attached character is attacking, pay 1 gold and kneel Mercenary Contract to stand attached character.",
-        "traits": "Item."
+        "name": "Contrato mercenario",
+        "text": "El Personaje vinculado gana el rasgo <i>Mercenario</i>.\n<b>Reacción:</b> después de que ganes un reto en el que esté atacando el Personaje vinculado, paga 1 de Oro y arrodilla el Contrato mercenario para poner en pie al Personaje vinculado.",
+        "traits": "Objeto."
+    },
+    {
+        "code": "13115",
+        "flavor": "",
+        "name": "Amigos en la corte",
+        "text": "Sombra (2).\n<b>Reacción:</b> después de que Amigos en la corte salga de las Sombras, mira hasta 3 cartas que estén en las Sombras. Luego puedes pagar 2 de Oro para elegir 1 de esas cartas y devolverla a la mano de su propietario.",
+        "traits": "Espía."
+    },
+    {
+        "code": "13116",
+        "flavor": "",
+        "name": "Daga envenenada",
+        "text": "Sólo Personajes que tú controles. Sombra (2).\nEl Personaje vinculado recibe un +2 a su FUE.\n<b>Reacción:</b> después de que ganes un reto [intrigue] en el que esté participando el Personaje vinculado, sacrifica la Daga envenenada para hacer que el adversario derrotado mate a un Personaje participante de su elección controlado por él.",
+        "traits": "Arma."
+    },
+    {
+        "code": "13117",
+        "flavor": "",
+        "name": "El Trono de Hierro",
+        "text": "<b>Reacción:</b> después de que empiece una fase, arrodilla El Trono de Hierro para nombrar una carta. Hasta el final de la fase, esa carta no puede reclutarse, jugarse ni ponerse en juego.",
+        "traits": "Disputa. Desembarco del Rey."
+    },
+    {
+        "code": "13118",
+        "designer": "Carta diseñada por Corey Faherty, campeón mundial de Contienda de 2015.",
+        "flavor": "",
+        "name": "Acero valyrio",
+        "text": "Tu mazo tiene un tamaño mínimo de 75 cartas. No puedes incluir en tu mazo más de 1 copia de cada Accesorio <em>(con el mismo nombre)</em>.\n<b>Acción:</b> arrodilla tu carta de Facción y paga X de Oro para poner en juego desde tu mano un Accesorio con un coste impreso de X.\n<b>Reacción:</b>después de que un Accesorio entre en juego controlado por ti, elige entre robar 1 carta o ganar 1 de Oro. (Límite de 3 veces por ronda.)",
+        "traits": ""
+    },
+    {
+        "code": "13119",
+        "flavor": "",
+        "name": "Ciudad de riquezas",
+        "text": "Los valores de Oro, Iniciativa y Reserva de esta carta de Trama aumentan en 1 por cada carta de Trama <i>Ciudad</i> que haya en tu pila de cartas usadas.",
+        "traits": "Ciudad. Reino."
+    },
+    {
+        "code": "13120",
+        "flavor": "",
+        "name": "Revelar la falsedad",
+        "text": "<b>Cuando se muestre esta carta</b>: descarta todas las cartas que estén en las Sombras.",
+        "traits": "Conspiración."
     }
 ]
